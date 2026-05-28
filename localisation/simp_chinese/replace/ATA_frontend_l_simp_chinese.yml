@@ -1,0 +1,12 @@
+﻿l_simp_chinese:
+ FE_DIFFICULTY: "毁灭度"
+ FE_DIFFICULTY_VERY_EASY: "养尊处优"
+ FE_DIFFICULTY_VERY_EASY_TOOLTIP: "§L“内心强大的虫子绝不会选择就这样结束自己的生命!”§!"
+ FE_DIFFICULTY_EASY: "高轿过市"
+ FE_DIFFICULTY_EASY_TOOLTIP: "§L“自杀是懦弱的行为,我宁可杀死别人。”§!"
+ FE_DIFFICULTY_NORMAL: "浮生掠影"
+ FE_DIFFICULTY_NORMAL_TOOLTIP: "§L“失败者的结果只有……死”§!"
+ FE_DIFFICULTY_HARD: "残肢断臂"
+ FE_DIFFICULTY_HARD_TOOLTIP: "§L“对敌人狠是世界上最轻松的事情,对自己狠才是真正的狠。”§!"
+ FE_DIFFICULTY_VERY_HARD: "十死一生"
+ FE_DIFFICULTY_VERY_HARD_TOOLTIP: "§L“只要努力过,就无愧于生命!”§!"

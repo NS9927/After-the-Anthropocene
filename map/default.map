@@ -1,3 +1,5 @@
+# 将 default.map 置于此处，只是为了便于在 VSC 中使用插件预览 mod 的地图。
+
 definitions = "definition.csv"
 provinces = "provinces.bmp"
 positions = "positions.txt"
