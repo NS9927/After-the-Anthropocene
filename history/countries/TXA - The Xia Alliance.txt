@@ -1,0 +1,18 @@
+capital = 744
+
+set_politics = {
+  ruling_party = absolute_authoritarianism
+  elections_allowed = no
+}
+
+set_popularities = {
+  absolute_authoritarianism = 90
+  naturalism = 5
+  free_tradeism = 5
+  radical_reformism = 0
+  religious_dominance = 0
+  liberal_humanism = 0
+  social_idealism = 0
+  collective_revolutionism = 0
+  political_pragmatism = 0
+}

@@ -1,0 +1,36 @@
+state={
+	id=1070
+	name="STATE_1070" #Anshan
+	resources={
+		steel=27.000
+	}
+
+	history={
+		owner = FNA
+		add_core_of = FNA
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 1
+			air_base = 5
+			964 = {
+				naval_base = 3
+
+			}
+
+		}
+		victory_points = {
+			987 3
+		}
+
+	}
+
+	provinces={
+		987 9885 3849 3895 6804 3839 6910
+	}
+	manpower=10264620
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=0.0
+}

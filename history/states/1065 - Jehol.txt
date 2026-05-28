@@ -1,0 +1,34 @@
+state = {
+	id = 1065
+	name = "STATE_1065" # Jehol
+	manpower = 1975377
+
+	state_category = pastoral
+
+	resources = {
+		oil = 1
+		coal = 1
+	}
+
+	history = {
+
+		owner = FNA
+		add_core_of = FNA
+
+		victory_points = {
+			11801 2 # Jehol
+		}
+
+
+		buildings = {
+			infrastructure = 2
+		}
+
+	}
+
+	provinces = {
+		881 6969 3955 9768 10331 11801
+	}
+
+	local_supplies = 0.0
+}

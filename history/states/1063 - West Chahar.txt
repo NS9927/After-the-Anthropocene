@@ -1,0 +1,31 @@
+state = {
+	id = 1063
+	name = "STATE_1063" # West Chahar
+	manpower = 1470000
+
+	state_category = pastoral
+
+	history = {
+
+		owner = FNA
+		add_core_of = FNA
+
+
+
+		buildings = {
+			infrastructure = 2 #was 3
+			industrial_complex = 1
+		}
+
+		victory_points = {
+			11752 2 # Zhangbei
+		}
+
+	}
+
+	provinces = {
+		11752 4612 7545
+	}
+
+	local_supplies = 0.0
+}

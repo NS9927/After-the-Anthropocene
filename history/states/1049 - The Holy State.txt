@@ -1,0 +1,43 @@
+state = {
+	id = 1049
+	name = "STATE_1049" # The Holy State
+	manpower = 2781971
+	
+	state_category = city
+
+	history = {
+		owner = RMH
+		victory_points = { 9904 40 } #Rome
+		victory_points = { 11846 1 } #Anzio (was 5)
+		buildings = {
+			infrastructure = 4
+			air_base = 8
+			arms_factory = 1
+			industrial_complex = 4
+			11846 = {
+				naval_base = 2
+			}
+            9904 = {
+                landmark_colosseum = {
+                    level = 1
+                    allowed = {
+                        has_dlc = "Gotterdammerung"
+                    }
+                }
+            }
+		}
+		add_core_of = RMH
+		1939.1.1 = {
+			buildings = {
+				arms_factory = 2
+				industrial_complex = 5
+			}
+		}
+	}
+
+	provinces = {
+		11751 9904 11846
+ 	}
+
+	local_supplies = 0.0 
+}

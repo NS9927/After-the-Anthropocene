@@ -1,0 +1,20 @@
+state={
+	id=1053
+	name="STATE_1053"
+	provinces={
+		7316 8005 2041 10821
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category = megalopolis
+	history={
+		owner = TME
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = TME
+
+	}
+
+	local_supplies=0.0
+}

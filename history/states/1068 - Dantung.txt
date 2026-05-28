@@ -1,0 +1,36 @@
+state={
+	id=1068
+	name="STATE_1068" #Dantung
+	resources={
+		steel=27.000
+	}
+
+	history={
+		owner = FNA
+		add_core_of = FNA
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 1
+			air_base = 5
+			964 = {
+				naval_base = 3
+
+			}
+
+		}
+		victory_points = {
+			6981 2
+		}
+
+	}
+
+	provinces={
+		3783 964 6918 9854 3970 6981 6860
+	}
+	manpower=10264620
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=0.0
+}

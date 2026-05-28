@@ -1,0 +1,34 @@
+state = {
+	id = 1067
+	name = "STATE_1067" # Chifeng
+	manpower = 1975377
+
+	state_category = pastoral
+
+	resources = {
+		oil = 1
+		coal = 1
+	}
+
+	history = {
+
+		owner = FNA
+		add_core_of = FNA
+
+
+		victory_points = {
+			972 1 # Chaoyang
+		}
+
+		buildings = {
+			infrastructure = 2
+		}
+
+	}
+
+	provinces = {
+		10499 6988 6937 7575 972 7633 9873
+	}
+
+	local_supplies = 0.0
+}

@@ -1,0 +1,34 @@
+state = {
+	id = 840 # Gojjam (including Gammu Gofa)
+	name = "STATE_840"
+	manpower = 900000
+	resources = {
+	}
+	
+	state_category = pastoral
+
+	history = {
+		
+		buildings = {
+			# infrastructure = 1
+		}
+		
+		victory_points = { 
+			13242 2 
+		}
+		
+		owner = GNE
+		add_core_of = GNE
+
+		1936.6.1 = {
+			owner = GNE
+			controller = GNE
+		}
+	}
+
+	provinces = {
+ 		4954 13242
+ 	}
+
+	local_supplies = 0.0 
+}

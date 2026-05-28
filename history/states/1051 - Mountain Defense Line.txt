@@ -1,0 +1,36 @@
+state={
+	id=1051
+	name="STATE_1051"
+	resources={
+		oil=2.000
+	}
+
+	history={
+		owner = TME
+		add_core_of = TME
+		buildings = {
+			infrastructure = 1
+
+		}
+		victory_points = {
+			10856 1
+		}
+		1939.1.1 = {
+			buildings = {
+				infrastructure = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		4407 5102 10856
+	}
+	manpower=368200
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=1.0
+}

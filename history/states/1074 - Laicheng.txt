@@ -1,0 +1,24 @@
+state={
+	id=1074
+	name="STATE_1074" # Laicheng
+	manpower = 3643373
+
+	state_category = town
+
+	history={
+		owner = FNA
+		add_core_of = FNA
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+		}
+
+	}
+
+	provinces={
+		7812 1627 1558 12469 12337 10429 11903 12478 3877 1508 3978
+	}
+
+	local_supplies=0.0
+}

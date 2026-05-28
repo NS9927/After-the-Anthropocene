@@ -1,0 +1,31 @@
+state = {
+	id = 1062
+	name = "STATE_1062" # New Peking
+	manpower = 1470000
+
+	state_category = pastoral
+
+	history = {
+
+		owner = FNA
+		add_core_of = FNA
+
+
+
+		buildings = {
+			infrastructure = 2 #was 3
+			industrial_complex = 1
+		}
+
+		victory_points = {
+			10397 2 # Zhangbei
+		}
+
+	}
+
+	provinces = {
+		10397 952 1489 828
+	}
+
+	local_supplies = 0.0
+}

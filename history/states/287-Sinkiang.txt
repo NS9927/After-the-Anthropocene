@@ -1,0 +1,24 @@
+state={
+	id=287
+	name="STATE_287"
+
+	history={
+		owner = TXA
+		add_core_of = TXA
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+
+	provinces={
+		 8042 8086 10885 12864 
+	}
+	manpower=408000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=4.0 
+}

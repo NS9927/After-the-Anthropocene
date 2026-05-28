@@ -1,0 +1,23 @@
+state={
+	id=1064
+	name="STATE_1064"
+
+	history={
+		owner = FNA
+		add_core_of = FNA
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		1796 12448 10372 7648 1551 4222 12348 1608
+	}
+	manpower=566000
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=0.0
+}

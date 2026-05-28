@@ -1,0 +1,26 @@
+
+state={
+	id=441
+	name="STATE_441"
+	manpower = 2598027
+	
+	state_category = rural
+
+	history={
+		owner = BRF
+		buildings = {
+			infrastructure = 1
+		}
+		add_claim_by = BRF
+
+		victory_points = {
+			12754 1
+		}
+	}
+
+	provinces={
+		 10905 12754 
+	}
+
+	local_supplies=0.0 
+}

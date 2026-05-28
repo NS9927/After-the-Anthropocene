@@ -1,0 +1,20 @@
+state={
+	id=1048
+	name="STATE_1048"
+	provinces={
+		10821 2041 7316 7273 5042 8005 12884 1129 3989 1898 10021
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category = pastoral
+	history={
+		owner = TME
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = TME
+
+	}
+
+	local_supplies=0.0 
+}

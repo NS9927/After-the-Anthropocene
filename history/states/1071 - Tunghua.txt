@@ -1,0 +1,30 @@
+state={
+	id=1071
+	name="STATE_1071" # Tunghua
+	manpower = 7536266
+
+	state_category = rural
+
+	resources={
+		aluminium=7 # was: 10
+	}
+
+	history={
+		owner = FNA
+		add_core_of = FNA
+		buildings = {
+			infrastructure = 2
+			#industrial_complex = 1
+		}
+		victory_points = {
+			9803 1
+		}
+
+	}
+
+	provinces={
+		3913 3932 6947 887 3888 9866 6905 6868 9759 9803 945 3949 9848
+	}
+
+	local_supplies=0.0
+}
