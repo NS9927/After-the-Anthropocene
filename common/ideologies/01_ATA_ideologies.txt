@@ -1,5 +1,5 @@
-
 ideologies = {
+
 	naturalism = {
 
 		types = {
@@ -52,7 +52,7 @@ ideologies = {
 		dynamic_faction_names = {
 		}
 
-		color = rgb { 255 255 0 }
+		color = { 255 255 0 }
 
 
 		war_impact_on_world_tension = 0.25		#no major danger
@@ -105,7 +105,7 @@ ideologies = {
 		dynamic_faction_names = {
 		}
 
-		color = rgb { 255 255 255 }
+		color = { 255 255 255 }
 
 
 		war_impact_on_world_tension = 0.25		#no major danger
@@ -161,7 +161,7 @@ ideologies = {
 		dynamic_faction_names = {
 		}
 
-		color = rgb { 128 0 128 }
+		color = { 128 0 128 }
 
 
 		war_impact_on_world_tension = 0.25		#no major danger
@@ -200,7 +200,7 @@ ideologies = {
 
 		types = {
 
-			liberalism = {
+			ata_liberalism = {
 			}
 
 			republicanism = {
@@ -209,7 +209,7 @@ ideologies = {
 			nirvanaism = {
 			}
 
-			populism = {
+			ata_populism = {
 			}
 
 		}
@@ -218,7 +218,7 @@ ideologies = {
 
 		}
 
-		color = rgb { 0 80 200 }
+		color = { 0 80 200 }
 
 
 		war_impact_on_world_tension = 0.25		#no major danger
@@ -269,7 +269,7 @@ ideologies = {
 
 		}
 
-		color = rgb { 255 150 180 }
+		color = { 255 150 180 }
 
 
 		war_impact_on_world_tension = 0.25		#no major danger
@@ -308,7 +308,7 @@ ideologies = {
 
 		types = {
 
-			anarchism = {
+			ata_anarchism = {
 			}
 
 			revolutionary_bushido = {
@@ -322,7 +322,7 @@ ideologies = {
 		dynamic_faction_names = {
 		}
 
-		color = rgb { 255 0 0 }
+		color = { 255 0 0 }
 
 
 		war_impact_on_world_tension = 0.25		#no major danger
@@ -378,7 +378,7 @@ ideologies = {
 		dynamic_faction_names = {
 		}
 
-		color = rgb { 128 128 128 }
+		color = { 128 128 128 }
 
 
 		war_impact_on_world_tension = 0.25		#no major danger
@@ -434,7 +434,7 @@ ideologies = {
 		dynamic_faction_names = {
 		}
 
-		color = rgb { 0 0 0 }
+		color = { 0 0 0 }
 
 
 		war_impact_on_world_tension = 0.25		#no major danger

@@ -19,9 +19,9 @@ state={
 		}
 
 		1938.9.30 = {
-			owner = RAB
-			add_core_of = RAT
-			controller = RAB
+			#owner = RAB
+			#add_core_of = RAT
+			#controller = RAB
 		}
 	}
 
