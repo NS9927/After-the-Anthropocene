@@ -7,6 +7,6 @@ tags={
 	"National Focuses"
 }
 name="After the Anthropocene"
-supported_version="1.18.2.0"
+supported_version="1.18.*"
 replace_path="history/countries"
 replace_path="history/states"
