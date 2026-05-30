@@ -1,4 +1,5 @@
-﻿# ATA empty shell history generated for unused vanilla tag
+# ATA empty shell history generated for unused vanilla tag
+capital = 6 # Brussels
 set_politics = {
 	ruling_party = democratic
 	last_election = "1936.1.1"
