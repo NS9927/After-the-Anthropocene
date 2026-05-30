@@ -1,3 +1,30 @@
 ﻿l_simp_chinese:
- STATE_1047: "三藩"
- STATE_1048: "泛喜马拉雅"
+ STATE_1047: "三藩"  # San Fan
+ STATE_1048: "泛喜马拉雅"  # Pan-Himalayan
+ STATE_1048: ""  # North Pan-Himalayan
+ STATE_1049: ""  # The Holy State
+ STATE_1050: ""  # Karouna
+ STATE_1051: ""  # Mountain Defense Line
+ STATE_1052: ""  # The North Defense Line
+ STATE_1053: ""  # The West Defense Line
+ STATE_1054: ""  # South Pan-Himalayan
+ STATE_1055: ""  # Mountian State
+ STATE_1056: ""  # West Nepal
+ STATE_1057: ""  # Center
+ STATE_1058: ""  # West
+ STATE_1059: ""  # New Tibet
+ STATE_1060: ""  # Haruka
+ STATE_1061: ""  # East Istanbul
+ STATE_1062: ""  # New Peking
+ STATE_1063: ""  # West Chahar
+ STATE_1064: ""  # Mongou Area
+ STATE_1065: ""  # Jehol
+ STATE_1066: ""  # Jinzhou
+ STATE_1067: ""  # Chifeng
+ STATE_1068: ""  # Dantung
+ STATE_1069: ""  # Yingkou
+ STATE_1070: ""  # Anshan
+ STATE_1071: ""  # Tunghua
+ STATE_1072: ""  # Hyesan
+ STATE_1073: ""  # Jinlin
+ STATE_1074: ""  # Laicheng

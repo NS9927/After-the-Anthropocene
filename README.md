@@ -1,13 +1,7 @@
-﻿# After-the-Anthropocene
+﻿# After the Anthropocene
 
 ## Todo
-- 存在大量“一个省被添加到多个不同州”的错误。
-- 存在大量关于州、战略区域和建筑的错误。
-- 州和意识形态的本地化有缺失。
-- 需要编写 history\countries 下的各文件。
-- 需要删除 history\states 下各文件中与原版 tags 有关的代码，以便以后完全移除原版 tags。
-- 在 history\states 下，State ID 1048 被两个州同时使用了。
-- [x] history\states 中出现了未定义的 tag RAB。
-- [x] STATE_1022 不是不可通行州，因此 history\states\1022 - Interior Borneo.txt 中的 force_link_ownership_to 属性是无效的。
-- [x] 子意识形态 liberalism, populism 和 anarchism 与原版的子意识形态名称重复。
-- 澳大拉西亚蛛形纲联合抵抗军 (ARA) 未被设置颜色。
+- 需要删除 history\states 文件中与原版国家有关的代码，以便以后完全移除原版国家。
+- 需要编写 history\countries 文件。
+- 需要补全 州、意识形态 的本地化。
+- [x] history\states 文件中有未定义的 tags。
