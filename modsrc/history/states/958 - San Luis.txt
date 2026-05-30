@@ -7,8 +7,8 @@ state = {
 
 	history = {
 
-		owner = ARG
-		add_core_of = ARG
+		#owner = ARG
+		#add_core_of = ARG
 
 		buildings = {
 			infrastructure = 2
@@ -18,7 +18,7 @@ state = {
 		}
 		
 		victory_points = {
-			12942 2 # Córdoba
+			12942 2 # C贸rdoba
 		}
 
 	}

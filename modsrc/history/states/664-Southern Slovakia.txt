@@ -29,14 +29,14 @@ state = {
 		add_core_of = HME
 
 		# This should isntead be reclaimable through Hungarian focuses with ww
-		IF = {
-			limit = {
-				NOT = {
-					has_dlc = "Gotterdammerung"
-				}
-			}
-			add_claim_by = HUN
-		}
+		#IF = {
+			#limit = {
+				#NOT = {
+					#has_dlc = "Gotterdammerung"
+				#}
+			#}
+			#add_claim_by = HUN
+		#}
 		
 
 		1939.3.14 = {

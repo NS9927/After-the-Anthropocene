@@ -8,5 +8,7 @@ tags={
 }
 name="After the Anthropocene"
 supported_version="1.18.2.0"
-replace_path="history/countries"
-replace_path="history/states"
+
+replace_path = "common/on_actions"
+replace_path = "history/countries"
+replace_path = "history/states"

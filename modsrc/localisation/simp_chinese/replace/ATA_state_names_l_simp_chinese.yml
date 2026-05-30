@@ -1,6 +1,6 @@
 ﻿l_simp_chinese:
  STATE_1047: "三藩"  # San Fan
- STATE_1048: "泛喜马拉雅"  # Pan-Himalayan
+ #STATE_1048: "泛喜马拉雅"  # Pan-Himalayan
  STATE_1048: ""  # North Pan-Himalayan
  STATE_1049: ""  # The Holy State
  STATE_1050: ""  # Karouna

@@ -22,24 +22,24 @@ state = {
 				limit = {
 					has_dlc = "No Compromise, No Surrender" 
 				}
-				GSM = { transfer_state = PREV }
+				#GSM = { transfer_state = PREV }
 				add_core_of = TXA
 				remove_core_of = TXA
 			}
 		}
 
-		1938.10.25 = {
-			if = {
-				limit = {
-					NOT = {
-						has_dlc = "Waking the Tiger" 
-					}
-				}
-				CHI = {
-					transfer_state = PREV
-				}
-			}
-		}
+		#1938.10.25 = {
+			#if = {
+				#limit = {
+					#NOT = {
+						#has_dlc = "Waking the Tiger" 
+					#}
+				#}
+				#CHI = {
+					#transfer_state = PREV
+				#}
+			#}
+		#}
 
 	}
 

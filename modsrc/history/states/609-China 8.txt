@@ -14,14 +14,14 @@ state = {
 		owner = FNA
 		add_core_of = FNA
 
-		1936.1.1 = {
-			IF = {
-				limit = {
-					has_dlc = "No Compromise, No Surrender"
-				}
-				add_core_of = HBC
-			}
-		}
+		#1936.1.1 = {
+			#IF = {
+				#limit = {
+					#has_dlc = "No Compromise, No Surrender"
+				#}
+				#add_core_of = HBC
+			#}
+		#}
 
 		buildings = {
 			infrastructure = 3 # was: 5
