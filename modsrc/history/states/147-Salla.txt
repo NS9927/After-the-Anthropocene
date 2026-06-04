@@ -3,7 +3,7 @@ state = {
 	name = "STATE_147" #SALLA
 	manpower = 4630
 	
-	state_category = enclave
+	state_category = enclave  # was enclave
 	
 	history = {	
 		owner = EYG

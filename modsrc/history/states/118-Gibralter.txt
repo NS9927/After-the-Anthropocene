@@ -4,7 +4,7 @@ state=
 	name="STATE_118"
 	manpower=21372
 	
-	state_category = enclave
+	state_category = enclave  # was enclave
 	history={
 		owner = UEM
 		victory_points = { 4135 10 }

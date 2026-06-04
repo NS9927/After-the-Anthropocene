@@ -1,0 +1,20 @@
+spriteTypes = {	
+
+	### Bharata Federation ###
+
+	### National Spirits ###
+
+	spriteType = {
+		name = "GFX_idea_BRF_automation_shock"
+		texturefile = "gfx/ideas/idea_BRF_automation_shock.png"
+	}
+	spriteType = {
+		name = "GFX_idea_BRF_a_divided_society"
+		texturefile = "gfx/ideas/idea_BRF_a_divided_society.png"
+	}
+	spriteType = {
+		name = "GFX_idea_BRF_secret_assembly"
+		texturefile = "gfx/ideas/idea_BRF_secret_assembly.png"
+	}
+
+}

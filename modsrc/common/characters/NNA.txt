@@ -1,0 +1,16 @@
+characters = {
+    NNA_Heteropteryx_dilatata = {
+        name = NNA_Heteropteryx_dilatata
+
+        portraits = {
+            civilian = {
+                large = GFX_portrait_NNA_Heteropteryx_dilatata
+            }
+        }
+
+        country_leader = {
+            ideology = national_liberationism
+            traits = {}
+        }
+    }
+}

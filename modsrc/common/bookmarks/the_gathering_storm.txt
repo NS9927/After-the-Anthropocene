@@ -1,0 +1,54 @@
+bookmarks = {
+	bookmark = {
+		name = "GATHERING_STORM_NAME"
+		desc = "GATHERING_STORM_DESC"
+		date = 1936.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "BRF"
+		default = yes
+		
+		"BRF"={
+			history = "OTHER_GATHERING_STORM_DESC"
+			ideology = absolute_authoritarianism
+		}
+		
+		"NYP"={
+			history = "OTHER_GATHERING_STORM_DESC"
+			ideology = absolute_authoritarianism
+		}
+		
+		"TXA"={
+			history = "OTHER_GATHERING_STORM_DESC"
+			ideology = absolute_authoritarianism
+		}
+		
+		"FNA"={
+			history = "OTHER_GATHERING_STORM_DESC"
+			ideology = absolute_authoritarianism
+		}
+		
+		"HIS"={
+			history = "OTHER_GATHERING_STORM_DESC"
+			ideology = absolute_authoritarianism
+		}
+		
+		"TME"={
+			history = "OTHER_GATHERING_STORM_DESC"
+			ideology = absolute_authoritarianism
+		}
+		
+		"TOE"={
+			history = "OTHER_GATHERING_STORM_DESC"
+			ideology = absolute_authoritarianism
+		}
+
+		"---"={
+			history = "OTHER_GATHERING_STORM_DESC"
+		}
+
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

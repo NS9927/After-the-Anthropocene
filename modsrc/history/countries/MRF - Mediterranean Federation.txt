@@ -1,0 +1,11 @@
+﻿capital = 165  # Temporarily set as capital to prevent errors
+set_politics = {
+		ruling_party = free_tradeism
+		elections_allowed = no
+}
+
+set_popularities = {
+	free_tradeism = 100
+}
+
+recruit_character = MRF_Nemopteridae

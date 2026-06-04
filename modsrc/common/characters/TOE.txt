@@ -1,0 +1,16 @@
+characters = {
+    TOE_Tipula_kamchatkensis = {
+        name = TOE_Tipula_kamchatkensis
+
+        portraits = {
+            civilian = {
+                large = GFX_portrait_TOE_Tipula_kamchatkensis
+            }
+        }
+
+        country_leader = {
+            ideology = artism
+            traits = {}
+        }
+    }
+}

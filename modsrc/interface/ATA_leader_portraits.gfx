@@ -1,0 +1,38 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_portrait_CLA_worker_bee_4463"
+		texturefile = "gfx/leaders/portrait_CLA_worker_bee_4463.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_HME_Vespa_crabro"
+		texturefile = "gfx/leaders/portrait_HME_Vespa_crabro.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_MRF_Nemopteridae"
+		texturefile = "gfx/leaders/portrait_MRF_Nemopteridae.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_NNA_Heteropteryx_dilatata"
+		texturefile = "gfx/leaders/portrait_NNA_Heteropteryx_dilatata.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_TOE_Tipula_kamchatkensis"
+		texturefile = "gfx/leaders/portrait_TOE_Tipula_kamchatkensis.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_technocratic_group"
+		texturefile = "gfx/leaders/portrait_technocratic_group.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_RIFA_queen"
+		texturefile = "gfx/leaders/portrait_RIFA_queen.dds"
+	}
+
+}

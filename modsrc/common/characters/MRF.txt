@@ -1,0 +1,16 @@
+characters = {
+    MRF_Nemopteridae = {
+        name = MRF_Nemopteridae
+
+        portraits = {
+            civilian = {
+                large = GFX_portrait_MRF_Nemopteridae
+            }
+        }
+
+        country_leader = {
+            ideology = corporate_controlism
+            traits = {}
+        }
+    }
+}

@@ -1,0 +1,16 @@
+characters = {
+    CLA_worker_bee_4463 = {
+        name = CLA_worker_bee_4463
+
+        portraits = {
+            civilian = {
+                large = GFX_portrait_CLA_worker_bee_4463
+            }
+        }
+
+        country_leader = {
+            ideology = national_liberationism
+            traits = {}
+        }
+    }
+}

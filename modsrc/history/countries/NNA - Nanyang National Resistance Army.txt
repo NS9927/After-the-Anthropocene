@@ -1,0 +1,11 @@
+﻿capital = 1024  # Temporarily set as capital to prevent errors
+set_politics = {
+		ruling_party = radical_reformism
+		elections_allowed = no
+}
+
+set_popularities = {
+	radical_reformism = 100
+}
+
+recruit_character = NNA_Heteropteryx_dilatata

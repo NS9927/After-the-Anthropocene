@@ -1319,3 +1319,7 @@ CMP = {
 	color = rgb { 163 124 69 }
 	color_ui = rgb { 183 144 89 }
 }
+ARA = {
+    color = rgb { 57 143 97 }
+    color_ui = rgb { 74 186 126 }
+}

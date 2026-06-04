@@ -1,0 +1,16 @@
+characters = {
+    HME_Vespa_crabro = {
+        name = HME_Vespa_crabro
+
+        portraits = {
+            civilian = {
+                large = GFX_portrait_HME_Vespa_crabro
+            }
+        }
+
+        country_leader = {
+            ideology = militarism
+            traits = {}
+        }
+    }
+}

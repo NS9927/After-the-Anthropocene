@@ -1,0 +1,9 @@
+﻿capital = 378  # Temporarily set as capital to prevent errors
+set_politics = {
+		ruling_party = religious_dominance
+		elections_allowed = no
+}
+
+set_popularities = {
+	religious_dominance = 100
+}
