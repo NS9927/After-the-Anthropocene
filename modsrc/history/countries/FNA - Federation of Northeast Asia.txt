@@ -1,4 +1,4 @@
-capital = 716
+﻿capital = 716
 
 set_politics = {
 		ruling_party = absolute_authoritarianism
@@ -6,6 +6,5 @@ set_politics = {
 }
 
 set_popularities = {
-	collective_revolutionism = 80
-	democratic = 20
+	collective_revolutionism = 100
 }

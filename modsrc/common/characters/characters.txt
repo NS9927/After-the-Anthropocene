@@ -1,31 +1,31 @@
-# characters = {
-#     technocratic_group = {
-#         name = technocratic_group
+characters = {
+    technocratic_group = {
+        name = technocratic_group
 
-#         portraits = {
-#             civilian = {
-#                 large = GFX_portrait_technocratic_group
-#             }
-#         }
+        portraits = {
+            civilian = {
+                large = GFX_portrait_technocratic_group
+            }
+        }
 
-#         country_leader = {
-#             ideology = technocratic
-#             traits = {}
-#         }
-#     }
+        country_leader = {
+            ideology = technocratic
+            traits = {}
+        }
+    }
 
-#     RIFA_queen = {
-#         name = RIFA_queen
+    RIFA_queen = {
+        name = RIFA_queen
 
-#         portraits = {
-#             civilian = {
-#                 large = GFX_portrait_RIFA_queen
-#             }
-#         }
+        portraits = {
+            civilian = {
+                large = GFX_portrait_RIFA_queen
+            }
+        }
 
-#         country_leader = {
-#             ideology = monarchy
-#             traits = {}
-#         }
-#     }
-# }
+        country_leader = {
+            ideology = monarchy
+            traits = {}
+        }
+    }
+}

@@ -1,0 +1,16 @@
+characters = {
+    BRF_Talbotia_naganum = {
+        name = BRF_Talbotia_naganum
+
+        portraits = {
+            civilian = {
+                large = GFX_portrait_BRF_Talbotia_naganum
+            }
+        }
+
+        country_leader = {
+            ideology = oligarchic_dictatorship
+            traits = {}
+        }
+    }
+}

@@ -1,6 +1,11 @@
 spriteTypes = {
 
 	spriteType = {
+		name = "GFX_portrait_BRF_Talbotia_naganum"
+		texturefile = "gfx/leaders/portrait_BRF_Talbotia_naganum.dds"
+	}
+
+	spriteType = {
 		name = "GFX_portrait_CLA_worker_bee_4463"
 		texturefile = "gfx/leaders/portrait_CLA_worker_bee_4463.dds"
 	}
@@ -24,7 +29,7 @@ spriteTypes = {
 		name = "GFX_portrait_TOE_Tipula_kamchatkensis"
 		texturefile = "gfx/leaders/portrait_TOE_Tipula_kamchatkensis.dds"
 	}
-
+	
 	spriteType = {
 		name = "GFX_portrait_technocratic_group"
 		texturefile = "gfx/leaders/portrait_technocratic_group.dds"
@@ -34,5 +39,4 @@ spriteTypes = {
 		name = "GFX_portrait_RIFA_queen"
 		texturefile = "gfx/leaders/portrait_RIFA_queen.dds"
 	}
-
 }
