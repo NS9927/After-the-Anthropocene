@@ -200,7 +200,7 @@ ideologies = {
 
 		types = {
 
-			ata_liberalism = {
+			liberalism = {
 			}
 
 			republicanism = {
@@ -209,7 +209,7 @@ ideologies = {
 			nirvanaism = {
 			}
 
-			ata_populism = {
+			populism = {
 			}
 
 		}
@@ -308,7 +308,7 @@ ideologies = {
 
 		types = {
 
-			ata_anarchism = {
+			anarchism = {
 			}
 
 			revolutionary_bushido = {

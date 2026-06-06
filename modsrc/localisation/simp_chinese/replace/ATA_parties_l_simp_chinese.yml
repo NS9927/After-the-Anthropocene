@@ -1,32 +1,25 @@
-﻿l_simp_chinese:
- #academicism: "学院派"
- #academicism_noun: "学院派"
- #academicism_desc: "泛激进主义政治"
- 
+﻿l_simp_chinese: 
 
  ### naturalism ###
  naturalism: ""
  primitivism: "原始主义"
  primitivism_desc: ""
 
-
  ### free tradeism ###
  free_tradeism: ""
  anarchist_liberalism: ""
  anarchist_liberalism_desc: ""
- corporate_controlism: "企业统治"
+ corporate_controlism: ""
  corporate_controlism_desc: ""
-
 
  ### radical reformism ###
  radical_reformism: ""
  artism: "美学主义"
  artism_desc: "学院派思潮之一，由豆娘、沫蝉主张。主要盛行于地中海联邦。主张以艺术解救庸俗的旧社会，追求“生活艺术化，艺术政治化”的“艺术家治国”，将一系列艺术流派与美学概念政治运动化，以达成艺术掌控社会的新秩序。美学主义热烈的情感宣扬在第二次世界大战时受到冲击，但很快重新振作，吸引了艺术社团、民族解放者、爱国者、合作经济与超工会学说的加入，也与纲领无政府主义等其他学院派有合作。"
- national_liberationism: "民族解放主义"
+ national_liberationism: ""
  national_liberationism_desc: ""
- technocratic: "技术官僚制"
+ technocratic: ""
  technocratic_desc: ""
-
 
  ### religious dominance ###
  religious_dominance: ""
@@ -39,18 +32,16 @@
  vitalism: "生命主义"
  vitalism_desc: ""
 
-
  ### liberal humanism ###
  liberal_humanism: ""
- ata_liberalism: ""
- ata_liberalism_desc: ""
+ liberalism: ""
+ liberalism_desc: ""
  republicanism: ""
  republicanism_desc: ""
  nirvanaism: "涅槃主义"
  nirvanaism_desc: "学院派思潮之一，以人类世的人文主义和人道主义为基础，由枯叶蛾将虫类社会空想的虫文主义、虫道主义观念理论化、系统化的成果。由激进的自由主义者主张，先后吸引了慈善家、弱势群体、知识分子、文化改革派与工虫的支持，主要盛行于新纽约邦。理论根基是对暴政、种族灭绝、屠杀、蔑视生命等行为的否定，与对于社会公义、博爱、道德的认可。提倡文化和道德理念的“文化重生”，主张依靠教育宣传重塑伦理和道德观。经济上大多认为“私有制和狭隘的民族观是不道德的”，因此支持激进的社会主张。不放弃使用武力。有的涅槃主义者也加入了解放异教主义组织和阴影主义结社。"
- ata_populism: ""
- ata_populism_desc: ""
-
+ populism: ""
+ populism_desc: ""
 
  ### social idealism ###
  social_idealism: ""
@@ -58,22 +49,21 @@
  shadowism_desc: "学院派思潮之一，由双斑猎蝽提出，由吉卜林巴希拉、蚁蟹蛛等主张。主张依靠小团体的阴谋行动短暂而快速地实现社会革命，通过秘密结社进行刺杀、袭击、架空或军事政变，拒绝庞大的革命或内战。猎蝽带领大量社团在欧洲与南美洲秘密活动，依靠刺杀或占领政治中心进行快速革命，在全社会范围内谨慎地发展力量。设想在长期时间内构建庞大的革命影子政府，亦可能在全世界范围建立国际阵营操纵受控制的国家进行社会改造。"
  progressivism: ""
  progressivism_desc: ""
- 
 
  ### collective revolutionism ###
  collective_revolutionism: ""
- ata_anarchism: "无政府主义"
- ata_anarchism_desc: "以人类世的无政府主义为基础，由激进的自由主义者主张。反对传统模式的私有制和政治特权，把纯粹的平民派和小生产者排除在运动外。主要有大众无政府主义、纲领无政府主义、社会无政府主义三大思潮，另有在诸夏的新道家无政府主义。"
+ anarchism: "无政府主义"
+ anarchism_desc: "以人类世的无政府主义为基础，由激进的自由主义者主张。反对传统模式的私有制和政治特权，把纯粹的平民派和小生产者排除在运动外。主要有大众无政府主义、纲领无政府主义、社会无政府主义三大思潮，另有在诸夏的新道家无政府主义。"
  revolutionary_bushido: "革命武士道"
  revolutionary_bushido_desc: "学院派思潮之一，将武士道的荣誉、礼、克己等理念与激进革命思想结合，由枯叶螳提出。主要盛行于浩源幕府，在诸夏也有支持者。主张幕府内思想进步的武士阶层成为社会革命的先锋，领导工虫走向阶级斗争与解放；对外反对殖民主义和普世主义，追求引领亚洲的社会解放。浩源幕府上层内部和一些下层士官存在激进派的革命武士道。枯叶螳认为仅适用于幕府，但诸夏亦有新兵家等派别支持。"
  worker_federalism: "工虫联邦主义"
- worker_federalism_desc: "工虫联邦主义"
+ worker_federalism_desc: ""
  
  ### political pragmatism ###
  political_pragmatism: ""
- militarism: "军政府"
+ militarism: ""
  militarism_desc: ""
- oligarchic_dictatorship: "寡头制"
+ oligarchic_dictatorship: ""
  oligarchic_dictatorship_desc: ""
  officer_dictatorship: ""
  officer_dictatorship_desc: ""
@@ -84,7 +74,7 @@
  absolute_authoritarianism: ""
  universalism: ""
  universalism_desc: ""
- monarchy: "君主制"
+ monarchy: ""
  monarchy_desc: ""
  extreme_nationalism: ""
  extreme_nationalism_desc: ""
@@ -92,15 +82,9 @@
  extreme_racism_desc: ""
 
 
+ #academicism: "学院派"
+ #academicism_noun: "学院派"
+ #academicism_desc: "泛激进主义政治"
 
-
-
-
-
-
-
-
-
- 
  # rebirthism: "涅槃主义"
  # rebirthism_desc: "学院派思潮之一，以人类世的人文主义和人道主义为基础，由枯叶蛾将虫类社会空想的虫文主义、虫道主义观念理论化、系统化的成果。由激进的自由主义者主张，先后吸引了慈善家、弱势群体、知识分子、文化改革派与工虫的支持，主要盛行于新纽约邦。理论根基是对暴政、种族灭绝、屠杀、蔑视生命等行为的否定，与对于社会公义、博爱、道德的认可。提倡文化和道德理念的“文化重生”，主张依靠教育宣传重塑伦理和道德观。经济上大多认为“私有制和狭隘的民族观是不道德的”，因此支持激进的社会主张。不放弃使用武力。有的涅槃主义者也加入了解放异教主义组织和阴影主义结社。" 
