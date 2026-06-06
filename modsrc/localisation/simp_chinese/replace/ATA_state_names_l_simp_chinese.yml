@@ -1,30 +1,29 @@
 ﻿l_simp_chinese:
  STATE_1047: "三藩"  # San Fan
- #STATE_1048: "泛喜马拉雅"  # Pan-Himalayan
- STATE_1048: ""  # North Pan-Himalayan
- STATE_1049: ""  # The Holy State
- STATE_1050: ""  # Karouna
- STATE_1051: ""  # Mountain Defense Line
- STATE_1052: ""  # The North Defense Line
- STATE_1053: ""  # The West Defense Line
- STATE_1054: ""  # South Pan-Himalayan
- STATE_1055: ""  # Mountian State
- STATE_1056: ""  # West Nepal
- STATE_1057: ""  # Center
- STATE_1058: ""  # West
- STATE_1059: ""  # New Tibet
- STATE_1060: ""  # Haruka
- STATE_1061: ""  # East Istanbul
- STATE_1062: ""  # New Peking
- STATE_1063: ""  # West Chahar
- STATE_1064: ""  # Mongou Area
- STATE_1065: ""  # Jehol
- STATE_1066: ""  # Jinzhou
- STATE_1067: ""  # Chifeng
- STATE_1068: ""  # Dantung
- STATE_1069: ""  # Yingkou
- STATE_1070: ""  # Anshan
- STATE_1071: ""  # Tunghua
- STATE_1072: ""  # Hyesan
- STATE_1073: ""  # Jinlin
- STATE_1074: ""  # Laicheng
+ STATE_1048: "北泛喜马拉雅"  # North Pan-Himalayan
+ STATE_1049: "圣国"  # The Holy State
+ STATE_1050: "卡鲁纳"  # Karouna
+ STATE_1051: "群山防线"  # Mountain Defense Line
+ STATE_1052: "北方防线"  # The North Defense Line
+ STATE_1053: "西方防线"  # The West Defense Line
+ STATE_1054: "南泛喜马拉雅"  # South Pan-Himalayan
+ STATE_1055: "山地州"  # Mountain State
+ STATE_1056: "西尼泊尔"  # West Nepal
+ STATE_1057: "中央地区"  # Center
+ STATE_1058: "西部地区"  # West
+ STATE_1059: "新大西藏"  # New Tibet
+ STATE_1060: "哈鲁卡"  # Haruka
+ STATE_1061: "东伊斯坦布尔"  # East Istanbul
+ STATE_1062: "新北京"  # New Peking
+ STATE_1063: "西察哈尔"  # West Chahar
+ STATE_1064: "蒙古地区"  # Mongou Area
+ STATE_1065: "热河"  # Jehol
+ STATE_1066: "锦州"  # Jinzhou
+ STATE_1067: "赤峰"  # Chifeng
+ STATE_1068: "丹东"  # Dantung
+ STATE_1069: "营口"  # Yingkou
+ STATE_1070: "鞍山"  # Anshan
+ STATE_1071: "通化"  # Tunghua
+ STATE_1072: "惠山"  # Hyesan
+ STATE_1073: "吉林"  # Jinlin
+ STATE_1074: "连城"  # Laicheng
