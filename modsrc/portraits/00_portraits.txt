@@ -23,9 +23,9 @@ default = {
 	}
 
 	male = {
-		"GFX_portrait_unknown_female"  #"GFX_portrait_unknown"
+		"GFX_portrait_unknown_female"
 	}
 	female = {
-		"GFX_portrait_unknown_female"
+		"GFX_portrait_unknown"
 	}
 }
