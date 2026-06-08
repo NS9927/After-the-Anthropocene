@@ -1,0 +1,17 @@
+music_station = "ATA_music"
+music = {
+    song = "Blankenship"
+    chance = {
+        modifier = {
+            factor = 1
+        }
+    }
+}
+music = {
+    song = bbbbbbbbbbbb
+    chance = {
+        modifier = {
+            factor = 1
+        }
+    }
+}

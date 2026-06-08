@@ -1,0 +1,12 @@
+
+# MAIN THEME
+music = {
+	name = "Blankenship"
+	file = "Blankenship.ogg"
+	volume = 0.8
+}
+music = {
+	name = bbbbbbbbbbbb
+	file = bbbbbbbbbbbb.ogg
+	volume = 0.8
+}
