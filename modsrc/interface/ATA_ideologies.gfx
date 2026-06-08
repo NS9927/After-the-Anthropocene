@@ -1,0 +1,12 @@
+spriteTypes = {	
+
+	### Hiromoto Shogunate Parties ###
+
+	### Ideologies ###
+
+	spriteType = {
+		name = "GFX_ideology_revolutionary_bushido_group"
+		texturefile = "gfx/interface/ideas/idea_jap_militarism_showa.dds"
+	}
+
+}

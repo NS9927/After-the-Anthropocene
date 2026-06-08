@@ -1,0 +1,632 @@
+# KR colors
+#rgb(119 15 0)
+#rgb(227 6 19)
+#rgb(234 81 83)
+#rgb(199 23 72)
+#rgb(239 125 0)
+#rgb(255 237 0)
+
+# TNO colors
+#rgb(138 45 73)
+#rgb(154 43 77)
+#rgb(145 36 54)
+#rgb(115 28 28)
+#rgb(123 33 33)
+#rgb(131 38 38)
+#rgb(70 15 15)
+#rgb(80 20 20)
+#rgb(100 35 35)
+#rgb(110 45 45)
+#rgb(90 25 25)
+#rgb(57 30 85)
+
+# OWB colors
+#rgb(35 32 102)
+#rgb(113 0 0)
+#rgb(68 0 68)
+#rgb(192 192 192)
+
+ideologies = {
+
+	### Academism ###
+
+	neo_universalism = {
+
+		types = {
+
+			neo_universalism_type = {
+			}
+
+		}
+
+		color = { 45 45 48 }  # rgb(45 45 48)
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		modifiers = {
+		}
+		
+	}
+
+	anarchism = {
+
+		types = {
+
+			anarchism_type = {
+			}
+
+		}
+
+		color = { 104 18 24 }  # rgb(104 18 24)
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		modifiers = {
+		}
+		
+	}
+
+	artism = {
+
+		types = {
+
+			artism_type = {
+			}
+
+		}
+
+		color = { 192 192 192 }  # rgb(192 192 192)
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		modifiers = {
+		}
+		
+	}
+
+	shadowism = {
+
+		types = {
+
+			shadowism_type = {
+			}
+
+		}
+
+		color = { 234 81 83 }  # rgb(234 81 83)  # rgb(238 92 96)
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		modifiers = {
+		}
+		
+	}
+
+	revolutionary_bushido = {
+
+		types = {
+
+			revolutionary_bushido_type = {
+			}
+
+		}
+
+		color = { 119 15 0 }  # rgb(119 15 0)  # rgb(116 21 26)
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		modifiers = {
+		}
+
+	}
+
+	rebirthism = {
+
+		types = {
+
+			rebirthism_type = {
+			}
+
+		}
+
+		color = { 26 48 112 }  # rgb(26 48 112)
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		modifiers = {
+		}
+		
+	}
+
+	occultism = {
+
+		types = {
+
+			occultism_type = {
+			}
+
+		}
+
+		color = { 75 36 96 }  # rgb(75 36 96)
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		modifiers = {
+		}
+		
+	}
+
+	primitivism = {
+
+		types = {
+
+			primitivism_type = {
+			}
+
+		}
+
+		color = { 55 145 72 }  # rgb(55 145 72)
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		modifiers = {
+		}
+		
+	}
+
+	survivism = {
+
+		types = {
+
+			survivism_type = {
+			}
+
+		}
+
+		color = { 255 176 197 }  # rgb(255 176 197)
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		modifiers = {
+		}
+		
+	}
+
+	liberation_paganism = {
+
+		types = {
+
+			liberation_paganism_type = {
+			}
+
+		}
+
+		color = { 176 128 214 }  # rgb(176 128 214)
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		modifiers = {
+		}
+		
+	}
+
+	labour_federalism = {
+
+		types = {
+
+			labour_federalism_type = {
+			}
+
+		}
+
+		color = { 90 25 25 }  # rgb(90 25 25)  # rgb(128 24 28)
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		modifiers = {
+		}
+
+	}
+
+	### Reformism ###
+
+	liberalism = {
+
+		types = {
+
+			liberalism_type = {
+			}
+
+		}
+
+		color = { 38 95 196 }  # rgb(38 95 196)
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		modifiers = {
+		}
+
+	}
+
+	progressivism = {
+
+		types = {
+
+			progressivism_type = {
+			}
+
+		}
+
+		color = { 238 123 171 }  # rgb(238 123 171)
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		modifiers = {
+		}
+
+	}
+
+	populism = {
+
+		types = {
+
+			populism_type = {
+			}
+
+		}
+
+		color = { 31 55 128 }  # rgb(31 55 128)
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		modifiers = {
+		}
+
+	}
+
+	national_emancipationism = {
+
+		types = {
+
+			national_emancipationism_type = {
+			}
+
+		}
+
+		color = { 205 205 204 }  # rgb(205 205 204)
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		modifiers = {
+		}
+
+	}
+
+	anarchist_liberalism = {
+
+		types = {
+
+			anarchist_liberalism_type = {
+			}
+
+		}
+
+		color = { 245 225 112 }  # rgb(245 225 112)
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		modifiers = {
+		}
+
+	}
+
+	republicanism = {
+
+		types = {
+
+			republicanism_type = {
+			}
+
+		}
+
+		color = { 112 179 236 }  # rgb(112 179 236)
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		modifiers = {
+		}
+
+	}
+
+	### Conservatism ###
+
+	corporate_politics = {
+
+		types = {
+
+			corporate_politics_type = {
+			}
+
+		}
+
+		color = { 161 132 33 }  # rgb(161 132 33)
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		modifiers = {
+		}
+
+	}
+
+	universalism = {
+
+		types = {
+
+			universalism_type = {
+			}
+
+		}
+
+		color = { 10 10 12 }  # rgb(10 10 12)
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		modifiers = {
+		}
+
+	}
+
+	monarchy = {
+
+		types = {
+
+			monarchy_type = {
+			}
+
+		}
+
+		color = { 18 17 20 }  # rgb(18 17 20)
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		modifiers = {
+		}
+
+	}
+
+	militarism = {
+
+		types = {
+
+			militarism_type = {
+			}
+
+		}
+
+		color = { 110 110 112 }  # rgb(110 110 112)
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		modifiers = {
+		}
+
+	}
+
+	theocracy = {
+
+		types = {
+
+			theocracy_type = {
+			}
+
+		}
+
+		color = { 57 30 85 }  # rgb(57 30 85)
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		modifiers = {
+		}
+
+	}
+
+	oligarchy = {
+
+		types = {
+
+			oligarchy_type = {
+			}
+
+		}
+
+		color = { 124 124 126 }  # rgb(124 124 126)
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		modifiers = {
+		}
+
+	}
+
+	ata_military_dictatorship = {
+
+		types = {
+
+			military_dictatorship_type = {
+			}
+
+		}
+
+		color = { 96 96 98 }  # rgb(96 96 98)
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		modifiers = {
+		}
+
+	}
+
+	pure_primitivism = {
+
+		types = {
+
+			pure_primitivism_type = {
+			}
+
+		}
+
+		color = { 69 158 82 }  # rgb(69 158 82)
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		modifiers = {
+		}
+
+	}
+
+	ultranationalism = {
+
+		types = {
+
+			ultranationalism_type = {
+			}
+
+		}
+
+		color = { 25 24 28 }  # rgb(25 24 28)
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		modifiers = {
+		}
+
+	}
+
+
+	technocratic = {
+
+		types = {
+
+			technocratic_type = {
+			}
+
+		}
+
+		color = { 243 239 217 }  # rgb(243 239 217)
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		modifiers = {
+		}
+
+	}
+
+}

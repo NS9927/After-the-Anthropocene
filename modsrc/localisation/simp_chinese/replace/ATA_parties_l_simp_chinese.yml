@@ -1,0 +1,149 @@
+﻿l_simp_chinese: 
+
+ ### Academicism ###
+
+ neo_universalism_party: "新普世主义"
+ neo_universalism_party_long: "新普世主义\n§L$neo_universalism_intro$§!"
+
+ anarchism_party: "无政府主义"
+ anarchism_party_long: "无政府主义\n§L$anarchism_intro$§!"
+
+ artism_party: "美学主义"
+ artism_party_long: "美学主义\n§L$artism_intro$§!"
+
+ shadowism_party: "阴影主义"
+ shadowism_party_long: "阴影主义\n§L$shadowism_intro$§!"
+
+ revolutionary_bushido_party: "革命武士道"
+ revolutionary_bushido_party_long: "革命武士道\n§L$revolutionary_bushido_intro$§!"
+
+ rebirthism_party: "涅槃主义"
+ rebirthism_party_long: "涅槃主义\n§L$rebirthism_intro$§!"
+
+ occultism_party: "神秘学派"
+ occultism_party_long: "神秘学派\n§L$occultism_intro$§!"
+
+ primitivism_party: "原始主义"
+ primitivism_party_long: "原始主义\n§L$primitivism_intro$§!"
+
+ survivism_party: "生命主义"
+ survivism_party_long: "生命主义\n§L$survivism_intro$§!"
+
+ liberation_paganism_party: "解放异教主义"
+ liberation_paganism_party_long: "解放异教主义\n§L$liberation_paganism_intro$§!"
+
+ labour_federalism_party: "工虫联邦主义"
+ labour_federalism_party_long: "工虫联邦主义\n§L$labour_federalism_intro$§!"
+
+ new_hundred_schools_of_thought_party: "新百家"
+ new_hundred_schools_of_thought_party_long: "新百家\n§L$new_hundred_schools_of_thought_intro$§!"
+
+ ### Reformism ###
+
+ liberalism_party: "自由主义"
+ liberalism_party_long: "自由主义\n§L$liberalism_intro$§!"
+
+ progressivism_party: "进步主义"
+ progressivism_party_long: "进步主义\n§L$progressivism_intro$§!"
+
+ populism_party: "平民主义"
+ populism_party_long: "平民主义\n§L$populism_intro$§!"
+
+ national_emancipationism_party: "民族解放主义"
+ national_emancipationism_party_long: "民族解放主义\n§L$national_emancipationism_intro$§!"
+
+ anarchist_liberalism_party: "无政府自由主义"
+ anarchist_liberalism_party_long: "无政府自由主义\n§L$anarchist_liberalism_intro$§!"
+
+ republicanism_party: "共和主义"
+ republicanism_party_long: "共和主义\n§L$republicanism_intro$§!"
+
+ ### Conservatism ###
+
+ universalism_party: "普世主义"
+ universalism_party_long: "普世主义\n§L$universalism_intro$§!"
+
+ monarchy_party: "君主制"
+ monarchy_party_long: "君主制\n§L$monarchy_intro$§!"
+
+ militarism_party: "军国主义"
+ militarism_party_long: "军国主义\n§L$militarism_intro$§!"
+
+ theocracy_party: "神权统治"
+ theocracy_party_long: "神权统治\n§L$theocracy_intro$§!"
+
+ oligarchy_party: "寡头制"
+ oligarchy_party_long: "寡头制\n§L$oligarchy_intro$§!"
+
+ ata_military_dictatorship_party: "军事独裁"
+ ata_military_dictatorship_party_long: "军事独裁\n§L$ata_military_dictatorship_intro$§!"
+
+ pure_primitivism_party: "纯粹原始主义"
+ pure_primitivism_party_long: "纯粹原始主义\n§L$pure_primitivism_intro$§!"
+
+ corporate_politics_party: "企业政治"
+ corporate_politics_party_long: "企业政治\n§L$corporate_politics_intro$§!"
+
+ ultranationalism_party: "极端民族主义"
+ ultranationalism_party_long: "极端民族主义\n§L$ultranationalism_intro$§!"
+
+ technocratic_party: "技术官僚制"
+ technocratic_party_long: "技术官僚制\n§L$technocratic_intro$§!"
+
+ ### Hiromoto Shogunate Parties ###
+ HIS_neo_universalism_party: "$neo_universalism_party$"
+ HIS_neo_universalism_party_long: "$neo_universalism_party_long$"
+ HIS_anarchism_party: "$anarchism_party$"
+ HIS_anarchism_party_long: "$anarchism_party_long$"
+ HIS_artism_party: "$artism_party$"
+ HIS_artism_party_long: "$artism_party_long$"
+ HIS_shadowism_party: "$shadowism_party$"
+ HIS_shadowism_party_long: "$shadowism_party_long$"
+ HIS_revolutionary_bushido_party: "$revolutionary_bushido_party$"
+ HIS_revolutionary_bushido_party_long: "$revolutionary_bushido_party_long$"
+ HIS_rebirthism_party: "$rebirthism_party$"
+ HIS_rebirthism_party_long: "$rebirthism_party_long$"
+ HIS_occultism_party: "$occultism_party$"
+ HIS_occultism_party_long: "$occultism_party_long$"
+ HIS_primitivism_party: "$primitivism_party$"
+ HIS_primitivism_party_long: "$primitivism_party_long$"
+ HIS_survivism_party: "$survivism_party$"
+ HIS_survivism_party_long: "$survivism_party_long$"
+ HIS_liberation_paganism_party: "$liberation_paganism_party$"
+ HIS_liberation_paganism_party_long: "$liberation_paganism_party_long$"
+ HIS_labour_federalism_party: "$labour_federalism_party$"
+ HIS_labour_federalism_party_long: "$labour_federalism_party_long$"
+ HIS_new_hundred_schools_of_thought_party: "$new_hundred_schools_of_thought_party$"
+ HIS_new_hundred_schools_of_thought_party_long: "$new_hundred_schools_of_thought_party_long$"
+ HIS_liberalism_party: "$liberalism_party$"
+ HIS_liberalism_party_long: "$liberalism_party_long$"
+ HIS_progressivism_party: "$progressivism_party$"
+ HIS_progressivism_party_long: "$progressivism_party_long$"
+ HIS_populism_party: "$populism_party$"
+ HIS_populism_party_long: "$populism_party_long$"
+ HIS_national_emancipationism_party: "$national_emancipationism_party$"
+ HIS_national_emancipationism_party_long: "$national_emancipationism_party_long$"
+ HIS_anarchist_liberalism_party: "$anarchist_liberalism_party$"
+ HIS_anarchist_liberalism_party_long: "$anarchist_liberalism_party_long$"
+ HIS_republicanism_party: "$republicanism_party$"
+ HIS_republicanism_party_long: "$republicanism_party_long$"
+ HIS_universalism_party: "$universalism_party$"
+ HIS_universalism_party_long: "$universalism_party_long$"
+ HIS_monarchy_party: "$monarchy_party$"
+ HIS_monarchy_party_long: "$monarchy_party_long$"
+ HIS_militarism_party: "$militarism_party$"
+ HIS_militarism_party_long: "$militarism_party_long$"
+ HIS_theocracy_party: "$theocracy_party$"
+ HIS_theocracy_party_long: "$theocracy_party_long$"
+ HIS_oligarchy_party: "$oligarchy_party$"
+ HIS_oligarchy_party_long: "$oligarchy_party_long$"
+ HIS_ata_military_dictatorship_party: "$ata_military_dictatorship_party$"
+ HIS_ata_military_dictatorship_party_long: "$ata_military_dictatorship_party_long$"
+ HIS_pure_primitivism_party: "$pure_primitivism_party$"
+ HIS_pure_primitivism_party_long: "$pure_primitivism_party_long$"
+ HIS_corporate_politics_party: "$corporate_politics_party$"
+ HIS_corporate_politics_party_long: "$corporate_politics_party_long$"
+ HIS_ultranationalism_party: "$ultranationalism_party$"
+ HIS_ultranationalism_party_long: "$ultranationalism_party_long$"
+ HIS_technocratic_party: "$technocratic_party$"
+ HIS_technocratic_party_long: "$technocratic_party_long$"
