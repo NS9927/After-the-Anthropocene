@@ -111,7 +111,7 @@ guiTypes = {
     }
 
     containerWindowType={
-        name = "<MUSIC STATION>_stations_entry"
+        name = "ATA_music_stations_entry"
         size = { width = 162 height = 130 }
 
         checkBoxType = {
