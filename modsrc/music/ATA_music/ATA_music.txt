@@ -1,6 +1,6 @@
 music_station = "ATA_music"
 music = {
-    song = "Blankenship"
+    song = "maintheme"
     chance = {
         modifier = {
             factor = 1
