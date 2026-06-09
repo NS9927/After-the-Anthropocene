@@ -1,10 +1,10 @@
 ﻿capital = 716
 
 set_politics = {
-		ruling_party = absolute_authoritarianism
+		ruling_party = labour_federalism
 		elections_allowed = no
 }
 
 set_popularities = {
-	collective_revolutionism = 100
+	labour_federalism = 100
 }

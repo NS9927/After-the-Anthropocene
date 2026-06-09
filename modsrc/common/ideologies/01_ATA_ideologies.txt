@@ -1,475 +1,475 @@
-ideologies = {
+# ideologies = {
 
-	naturalism = {
+# 	naturalism = {
 
-		types = {
+# 		types = {
 
-			primitivism  = {
-			}
+# 			primitivism  = {
+# 			}
 
-		}
+# 		}
 
-		dynamic_faction_names = {
-		}
+# 		dynamic_faction_names = {
+# 		}
 
-		color = { 0 255 0 }
+# 		color = { 0 255 0 }
 
 
-		war_impact_on_world_tension = 0.25		#no major danger
-		faction_impact_on_world_tension = 0.1
+# 		war_impact_on_world_tension = 0.25		#no major danger
+# 		faction_impact_on_world_tension = 0.1
 
-		rules = {
-			can_force_government = yes
-			can_puppet = yes
-			can_send_volunteers = no
-		}
+# 		rules = {
+# 			can_force_government = yes
+# 			can_puppet = yes
+# 			can_send_volunteers = no
+# 		}
 
-		modifiers = {
-			civilian_intel_to_others = 10.0
-			army_intel_to_others = 10.0
-			navy_intel_to_others = 10.0
-			airforce_intel_to_others = 10.0
-		}
+# 		modifiers = {
+# 			civilian_intel_to_others = 10.0
+# 			army_intel_to_others = 10.0
+# 			navy_intel_to_others = 10.0
+# 			airforce_intel_to_others = 10.0
+# 		}
 
-		faction_modifiers = {
-		}
+# 		faction_modifiers = {
+# 		}
 
-		ai_neutral = yes
-	}
+# 		ai_neutral = yes
+# 	}
 
-	free_tradeism = {
+# 	free_tradeism = {
 
-		types = {
+# 		types = {
 
-			anarchist_liberalism  = {
-			}
+# 			anarchist_liberalism  = {
+# 			}
 
-			corporate_controlism	= {
-			}
+# 			corporate_controlism	= {
+# 			}
 
-		}
+# 		}
 
-		dynamic_faction_names = {
-		}
+# 		dynamic_faction_names = {
+# 		}
 
-		color = { 255 255 0 }
+# 		color = { 255 255 0 }
 
 
-		war_impact_on_world_tension = 0.25		#no major danger
-		faction_impact_on_world_tension = 0.1
+# 		war_impact_on_world_tension = 0.25		#no major danger
+# 		faction_impact_on_world_tension = 0.1
 
-		rules = {
-			can_force_government = yes
-			can_puppet = yes
-			can_send_volunteers = no
-		}
+# 		rules = {
+# 			can_force_government = yes
+# 			can_puppet = yes
+# 			can_send_volunteers = no
+# 		}
 
-		modifiers = {
-			#increased_influence_factor = 0.3 #30% easier to influence
-			generate_wargoal_tension = 0.5
-			join_faction_tension = 0.4
-			lend_lease_tension = 0.6
-			send_volunteers_tension = 0.4
-			guarantee_tension = 0.4
-			drift_defence_factor = -0.3
-			civilian_intel_to_others = 20.0
-			army_intel_to_others = 10.0
-			navy_intel_to_others = 20.0
-			airforce_intel_to_others = 10.0
-		}
+# 		modifiers = {
+# 			#increased_influence_factor = 0.3 #30% easier to influence
+# 			generate_wargoal_tension = 0.5
+# 			join_faction_tension = 0.4
+# 			lend_lease_tension = 0.6
+# 			send_volunteers_tension = 0.4
+# 			guarantee_tension = 0.4
+# 			drift_defence_factor = -0.3
+# 			civilian_intel_to_others = 20.0
+# 			army_intel_to_others = 10.0
+# 			navy_intel_to_others = 20.0
+# 			airforce_intel_to_others = 10.0
+# 		}
 
-		faction_modifiers = {
-		}
+# 		faction_modifiers = {
+# 		}
 
-		ai_neutral = yes #
-		ai_ideology_wanted_units_factor = 1.15
+# 		ai_neutral = yes #
+# 		ai_ideology_wanted_units_factor = 1.15
 
-		ai_give_core_state_control_threshold = 10000
-	}
+# 		ai_give_core_state_control_threshold = 10000
+# 	}
 
-	radical_reformism = {
+# 	radical_reformism = {
 
-		types = {
+# 		types = {
 
-			artism = {
-			}
+# 			artism = {
+# 			}
 
-			national_liberationism = {
-			}
+# 			national_liberationism = {
+# 			}
 
-			technocratic = {
-			}
+# 			technocratic = {
+# 			}
 
-		}
+# 		}
 
-		dynamic_faction_names = {
-		}
+# 		dynamic_faction_names = {
+# 		}
 
-		color = { 255 255 255 }
+# 		color = { 255 255 255 }
 
 
-		war_impact_on_world_tension = 0.25		#no major danger
-		faction_impact_on_world_tension = 0.1
+# 		war_impact_on_world_tension = 0.25		#no major danger
+# 		faction_impact_on_world_tension = 0.1
 
-		rules = {
-			can_force_government = yes
-			can_puppet = yes
-			can_send_volunteers = no
-		}
+# 		rules = {
+# 			can_force_government = yes
+# 			can_puppet = yes
+# 			can_send_volunteers = no
+# 		}
 
-		modifiers = {
-			#increased_influence_factor = 0.3 #30% easier to influence
-			generate_wargoal_tension = 0.5
-			join_faction_tension = 0.4
-			lend_lease_tension = 0.6
-			send_volunteers_tension = 0.4
-			guarantee_tension = 0.4
-			drift_defence_factor = -0.3
-			civilian_intel_to_others = 20.0
-			army_intel_to_others = 10.0
-			navy_intel_to_others = 20.0
-			airforce_intel_to_others = 10.0
-		}
+# 		modifiers = {
+# 			#increased_influence_factor = 0.3 #30% easier to influence
+# 			generate_wargoal_tension = 0.5
+# 			join_faction_tension = 0.4
+# 			lend_lease_tension = 0.6
+# 			send_volunteers_tension = 0.4
+# 			guarantee_tension = 0.4
+# 			drift_defence_factor = -0.3
+# 			civilian_intel_to_others = 20.0
+# 			army_intel_to_others = 10.0
+# 			navy_intel_to_others = 20.0
+# 			airforce_intel_to_others = 10.0
+# 		}
 
-		faction_modifiers = {
-		}
+# 		faction_modifiers = {
+# 		}
 
-		ai_neutral = yes #
-		ai_ideology_wanted_units_factor = 1.15
+# 		ai_neutral = yes #
+# 		ai_ideology_wanted_units_factor = 1.15
 
-		ai_give_core_state_control_threshold = 10000
-	}
+# 		ai_give_core_state_control_threshold = 10000
+# 	}
 
-	religious_dominance = {
+# 	religious_dominance = {
 
-		types = {
+# 		types = {
 
-			theocracy = {
-			}
+# 			theocracy = {
+# 			}
 
-			occultism = {
-			}
+# 			occultism = {
+# 			}
 
-			liberate_paganism = {
-			}
+# 			liberate_paganism = {
+# 			}
 
-			vitalism = {
-			}
+# 			vitalism = {
+# 			}
 
-		}
+# 		}
 
-		dynamic_faction_names = {
-		}
+# 		dynamic_faction_names = {
+# 		}
 
-		color = { 128 0 128 }
+# 		color = { 128 0 128 }
 
 
-		war_impact_on_world_tension = 0.25		#no major danger
-		faction_impact_on_world_tension = 0.1
+# 		war_impact_on_world_tension = 0.25		#no major danger
+# 		faction_impact_on_world_tension = 0.1
 
-		rules = {
-			can_force_government = yes
-			can_puppet = yes
-			can_send_volunteers = no
-		}
+# 		rules = {
+# 			can_force_government = yes
+# 			can_puppet = yes
+# 			can_send_volunteers = no
+# 		}
 
-		modifiers = {
-			#increased_influence_factor = 0.3 #30% easier to influence
-			generate_wargoal_tension = 0.5
-			join_faction_tension = 0.4
-			lend_lease_tension = 0.6
-			send_volunteers_tension = 0.4
-			guarantee_tension = 0.4
-			drift_defence_factor = -0.3
-			civilian_intel_to_others = 20.0
-			army_intel_to_others = 10.0
-			navy_intel_to_others = 20.0
-			airforce_intel_to_others = 10.0
-		}
+# 		modifiers = {
+# 			#increased_influence_factor = 0.3 #30% easier to influence
+# 			generate_wargoal_tension = 0.5
+# 			join_faction_tension = 0.4
+# 			lend_lease_tension = 0.6
+# 			send_volunteers_tension = 0.4
+# 			guarantee_tension = 0.4
+# 			drift_defence_factor = -0.3
+# 			civilian_intel_to_others = 20.0
+# 			army_intel_to_others = 10.0
+# 			navy_intel_to_others = 20.0
+# 			airforce_intel_to_others = 10.0
+# 		}
 
-		faction_modifiers = {
-		}
+# 		faction_modifiers = {
+# 		}
 
-		ai_neutral = yes #
-		ai_ideology_wanted_units_factor = 1.15
+# 		ai_neutral = yes #
+# 		ai_ideology_wanted_units_factor = 1.15
 
-		ai_give_core_state_control_threshold = 10000
-	}
+# 		ai_give_core_state_control_threshold = 10000
+# 	}
 
-	liberal_humanism = {
+# 	liberal_humanism = {
 
-		types = {
+# 		types = {
 
-			liberalism = {
-			}
+# 			liberalism = {
+# 			}
 
-			republicanism = {
-			}
+# 			republicanism = {
+# 			}
 
-			nirvanaism = {
-			}
+# 			nirvanaism = {
+# 			}
 
-			populism = {
-			}
+# 			populism = {
+# 			}
 
-		}
+# 		}
 
-		dynamic_faction_names = {
+# 		dynamic_faction_names = {
 
-		}
+# 		}
 
-		color = { 0 80 200 }
+# 		color = { 0 80 200 }
 
 
-		war_impact_on_world_tension = 0.25		#no major danger
-		faction_impact_on_world_tension = 0.1
+# 		war_impact_on_world_tension = 0.25		#no major danger
+# 		faction_impact_on_world_tension = 0.1
 
-		rules = {
-			can_force_government = yes
-			can_puppet = yes
-			can_send_volunteers = no
-		}
+# 		rules = {
+# 			can_force_government = yes
+# 			can_puppet = yes
+# 			can_send_volunteers = no
+# 		}
 
-		modifiers = {
-			#increased_influence_factor = 0.3 #30% easier to influence
-			generate_wargoal_tension = 0.5
-			join_faction_tension = 0.4
-			lend_lease_tension = 0.6
-			send_volunteers_tension = 0.4
-			guarantee_tension = 0.4
-			drift_defence_factor = -0.3
-			civilian_intel_to_others = 20.0
-			army_intel_to_others = 10.0
-			navy_intel_to_others = 20.0
-			airforce_intel_to_others = 10.0
-		}
+# 		modifiers = {
+# 			#increased_influence_factor = 0.3 #30% easier to influence
+# 			generate_wargoal_tension = 0.5
+# 			join_faction_tension = 0.4
+# 			lend_lease_tension = 0.6
+# 			send_volunteers_tension = 0.4
+# 			guarantee_tension = 0.4
+# 			drift_defence_factor = -0.3
+# 			civilian_intel_to_others = 20.0
+# 			army_intel_to_others = 10.0
+# 			navy_intel_to_others = 20.0
+# 			airforce_intel_to_others = 10.0
+# 		}
 
-		faction_modifiers = {
-		}
+# 		faction_modifiers = {
+# 		}
 
-		ai_neutral = yes #
-		ai_ideology_wanted_units_factor = 1.15
+# 		ai_neutral = yes #
+# 		ai_ideology_wanted_units_factor = 1.15
 
-		ai_give_core_state_control_threshold = 10000
-	}
+# 		ai_give_core_state_control_threshold = 10000
+# 	}
 
-	social_idealism = {
+# 	social_idealism = {
 
-		types = {
+# 		types = {
 
-			shadowism = {
-			}
+# 			shadowism = {
+# 			}
 
-			progressivism	= {
-			}
+# 			progressivism	= {
+# 			}
 
-		}
+# 		}
 
-		dynamic_faction_names = {
+# 		dynamic_faction_names = {
 
-		}
+# 		}
 
-		color = { 255 150 180 }
+# 		color = { 255 150 180 }
 
 
-		war_impact_on_world_tension = 0.25		#no major danger
-		faction_impact_on_world_tension = 0.1
+# 		war_impact_on_world_tension = 0.25		#no major danger
+# 		faction_impact_on_world_tension = 0.1
 
-		rules = {
-			can_force_government = yes
-			can_puppet = yes
-			can_send_volunteers = no
-		}
+# 		rules = {
+# 			can_force_government = yes
+# 			can_puppet = yes
+# 			can_send_volunteers = no
+# 		}
 
-		modifiers = {
-			#increased_influence_factor = 0.3 #30% easier to influence
-			generate_wargoal_tension = 0.5
-			join_faction_tension = 0.4
-			lend_lease_tension = 0.6
-			send_volunteers_tension = 0.4
-			guarantee_tension = 0.4
-			drift_defence_factor = -0.3
-			civilian_intel_to_others = 20.0
-			army_intel_to_others = 10.0
-			navy_intel_to_others = 20.0
-			airforce_intel_to_others = 10.0
-		}
+# 		modifiers = {
+# 			#increased_influence_factor = 0.3 #30% easier to influence
+# 			generate_wargoal_tension = 0.5
+# 			join_faction_tension = 0.4
+# 			lend_lease_tension = 0.6
+# 			send_volunteers_tension = 0.4
+# 			guarantee_tension = 0.4
+# 			drift_defence_factor = -0.3
+# 			civilian_intel_to_others = 20.0
+# 			army_intel_to_others = 10.0
+# 			navy_intel_to_others = 20.0
+# 			airforce_intel_to_others = 10.0
+# 		}
 
-		faction_modifiers = {
-		}
+# 		faction_modifiers = {
+# 		}
 
-		ai_neutral = yes #
-		ai_ideology_wanted_units_factor = 1.15
+# 		ai_neutral = yes #
+# 		ai_ideology_wanted_units_factor = 1.15
 
-		ai_give_core_state_control_threshold = 10000
-	}
+# 		ai_give_core_state_control_threshold = 10000
+# 	}
 
-	collective_revolutionism = {
+# 	collective_revolutionism = {
 
-		types = {
+# 		types = {
 
-			anarchism = {
-			}
+# 			anarchism = {
+# 			}
 
-			revolutionary_bushido = {
-			}
+# 			revolutionary_bushido = {
+# 			}
 
-			worker_federalism = {
-			}
+# 			worker_federalism = {
+# 			}
 
-		}
+# 		}
 
-		dynamic_faction_names = {
-		}
+# 		dynamic_faction_names = {
+# 		}
 
-		color = { 255 0 0 }
+# 		color = { 255 0 0 }
 
 
-		war_impact_on_world_tension = 0.25		#no major danger
-		faction_impact_on_world_tension = 0.1
+# 		war_impact_on_world_tension = 0.25		#no major danger
+# 		faction_impact_on_world_tension = 0.1
 
-		rules = {
-			can_force_government = yes
-			can_puppet = yes
-			can_send_volunteers = no
-		}
+# 		rules = {
+# 			can_force_government = yes
+# 			can_puppet = yes
+# 			can_send_volunteers = no
+# 		}
 
-		modifiers = {
-			#increased_influence_factor = 0.3 #30% easier to influence
-			generate_wargoal_tension = 0.5
-			join_faction_tension = 0.4
-			lend_lease_tension = 0.6
-			send_volunteers_tension = 0.4
-			guarantee_tension = 0.4
-			drift_defence_factor = -0.3
-			civilian_intel_to_others = 20.0
-			army_intel_to_others = 10.0
-			navy_intel_to_others = 20.0
-			airforce_intel_to_others = 10.0
-		}
+# 		modifiers = {
+# 			#increased_influence_factor = 0.3 #30% easier to influence
+# 			generate_wargoal_tension = 0.5
+# 			join_faction_tension = 0.4
+# 			lend_lease_tension = 0.6
+# 			send_volunteers_tension = 0.4
+# 			guarantee_tension = 0.4
+# 			drift_defence_factor = -0.3
+# 			civilian_intel_to_others = 20.0
+# 			army_intel_to_others = 10.0
+# 			navy_intel_to_others = 20.0
+# 			airforce_intel_to_others = 10.0
+# 		}
 
-		faction_modifiers = {
-		}
+# 		faction_modifiers = {
+# 		}
 
-		ai_neutral = yes #
-		ai_ideology_wanted_units_factor = 1.15
+# 		ai_neutral = yes #
+# 		ai_ideology_wanted_units_factor = 1.15
 
-		ai_give_core_state_control_threshold = 10000
-	}
+# 		ai_give_core_state_control_threshold = 10000
+# 	}
 
-	political_pragmatism = {
+# 	political_pragmatism = {
 
-		types = {
+# 		types = {
 
-			militarism = {
-			}
+# 			militarism = {
+# 			}
 
-			oligarchic_dictatorship = {
-			}
+# 			oligarchic_dictatorship = {
+# 			}
 
-			officer_dictatorship = {
-			}
+# 			officer_dictatorship = {
+# 			}
 
-			neouniversalism = {
-			}
+# 			neouniversalism = {
+# 			}
 
-		}
+# 		}
 
-		dynamic_faction_names = {
-		}
+# 		dynamic_faction_names = {
+# 		}
 
-		color = { 128 128 128 }
+# 		color = { 128 128 128 }
 
 
-		war_impact_on_world_tension = 0.25		#no major danger
-		faction_impact_on_world_tension = 0.1
+# 		war_impact_on_world_tension = 0.25		#no major danger
+# 		faction_impact_on_world_tension = 0.1
 
-		rules = {
-			can_force_government = yes
-			can_puppet = yes
-			can_send_volunteers = no
-		}
+# 		rules = {
+# 			can_force_government = yes
+# 			can_puppet = yes
+# 			can_send_volunteers = no
+# 		}
 
-		modifiers = {
-			#increased_influence_factor = 0.3 #30% easier to influence
-			generate_wargoal_tension = 0.5
-			join_faction_tension = 0.4
-			lend_lease_tension = 0.6
-			send_volunteers_tension = 0.4
-			guarantee_tension = 0.4
-			drift_defence_factor = -0.3
-			civilian_intel_to_others = 20.0
-			army_intel_to_others = 10.0
-			navy_intel_to_others = 20.0
-			airforce_intel_to_others = 10.0
-		}
+# 		modifiers = {
+# 			#increased_influence_factor = 0.3 #30% easier to influence
+# 			generate_wargoal_tension = 0.5
+# 			join_faction_tension = 0.4
+# 			lend_lease_tension = 0.6
+# 			send_volunteers_tension = 0.4
+# 			guarantee_tension = 0.4
+# 			drift_defence_factor = -0.3
+# 			civilian_intel_to_others = 20.0
+# 			army_intel_to_others = 10.0
+# 			navy_intel_to_others = 20.0
+# 			airforce_intel_to_others = 10.0
+# 		}
 
-		faction_modifiers = {
-		}
+# 		faction_modifiers = {
+# 		}
 
-		ai_neutral = yes #
-		ai_ideology_wanted_units_factor = 1.15
+# 		ai_neutral = yes #
+# 		ai_ideology_wanted_units_factor = 1.15
 
-		ai_give_core_state_control_threshold = 10000
-	}
+# 		ai_give_core_state_control_threshold = 10000
+# 	}
 
-	absolute_authoritarianism = {
-		types = {
+# 	absolute_authoritarianism = {
+# 		types = {
 
-			universalism = {
+# 			universalism = {
 
-			}
+# 			}
 
-			monarchy = {
-			}
+# 			monarchy = {
+# 			}
 
-			extreme_nationalism = {
-			}
+# 			extreme_nationalism = {
+# 			}
 
-			extreme_racism = {
-			}
+# 			extreme_racism = {
+# 			}
 
-		}
+# 		}
 
-		dynamic_faction_names = {
-		}
+# 		dynamic_faction_names = {
+# 		}
 
-		color = { 0 0 0 }
+# 		color = { 0 0 0 }
 
 
-		war_impact_on_world_tension = 0.25		#no major danger
-		faction_impact_on_world_tension = 0.1
+# 		war_impact_on_world_tension = 0.25		#no major danger
+# 		faction_impact_on_world_tension = 0.1
 
-		rules = {
-			can_force_government = yes
-			can_puppet = yes
-			can_send_volunteers = no
-		}
+# 		rules = {
+# 			can_force_government = yes
+# 			can_puppet = yes
+# 			can_send_volunteers = no
+# 		}
 
-		modifiers = {
-			#increased_influence_factor = 0.3 #30% easier to influence
-			generate_wargoal_tension = 0.5
-			join_faction_tension = 0.4
-			lend_lease_tension = 0.6
-			send_volunteers_tension = 0.4
-			guarantee_tension = 0.4
-			drift_defence_factor = -0.3
-			civilian_intel_to_others = 20.0
-			army_intel_to_others = 10.0
-			navy_intel_to_others = 20.0
-			airforce_intel_to_others = 10.0
-		}
+# 		modifiers = {
+# 			#increased_influence_factor = 0.3 #30% easier to influence
+# 			generate_wargoal_tension = 0.5
+# 			join_faction_tension = 0.4
+# 			lend_lease_tension = 0.6
+# 			send_volunteers_tension = 0.4
+# 			guarantee_tension = 0.4
+# 			drift_defence_factor = -0.3
+# 			civilian_intel_to_others = 20.0
+# 			army_intel_to_others = 10.0
+# 			navy_intel_to_others = 20.0
+# 			airforce_intel_to_others = 10.0
+# 		}
 
-		faction_modifiers = {
-		}
+# 		faction_modifiers = {
+# 		}
 
-		ai_neutral = yes #
-		ai_ideology_wanted_units_factor = 1.15
+# 		ai_neutral = yes #
+# 		ai_ideology_wanted_units_factor = 1.15
 
-		ai_give_core_state_control_threshold = 10000
-	}
+# 		ai_give_core_state_control_threshold = 10000
+# 	}
 
 
-}
+# }
 
 

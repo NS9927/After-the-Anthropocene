@@ -1,6 +1,6 @@
 characters = {
-    technocratic_group = {
-        name = technocratic_group
+    the_technocratic_group = {
+        name = the_technocratic_group
 
         portraits = {
             civilian = {
@@ -9,7 +9,7 @@ characters = {
         }
 
         country_leader = {
-            ideology = technocratic
+            ideology = technocratic_type
             traits = {}
         }
     }
@@ -24,7 +24,7 @@ characters = {
         }
 
         country_leader = {
-            ideology = monarchy
+            ideology = monarchy_type
             traits = {}
         }
     }

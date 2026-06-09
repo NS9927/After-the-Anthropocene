@@ -9,7 +9,7 @@ characters = {
         }
 
         country_leader = {
-            ideology = corporate_controlism
+            ideology = corporate_politics_type
             traits = {}
         }
     }

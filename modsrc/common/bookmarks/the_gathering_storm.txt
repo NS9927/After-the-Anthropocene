@@ -9,37 +9,37 @@ bookmarks = {
 		
 		"BRF"={
 			history = "OTHER_GATHERING_STORM_DESC"
-			ideology = absolute_authoritarianism
+			ideology = anarchism
 		}
 		
 		"NYP"={
 			history = "OTHER_GATHERING_STORM_DESC"
-			ideology = absolute_authoritarianism
+			ideology = oligarchy
 		}
 		
 		"TXA"={
 			history = "OTHER_GATHERING_STORM_DESC"
-			ideology = absolute_authoritarianism
+			ideology = monarchy
 		}
 		
 		"FNA"={
 			history = "OTHER_GATHERING_STORM_DESC"
-			ideology = absolute_authoritarianism
+			ideology = labour_federalism
 		}
 		
 		"HIS"={
 			history = "OTHER_GATHERING_STORM_DESC"
-			ideology = absolute_authoritarianism
+			ideology = revolutionary_bushido
 		}
 		
 		"TME"={
 			history = "OTHER_GATHERING_STORM_DESC"
-			ideology = absolute_authoritarianism
+			ideology = monarchy
 		}
 		
 		"TOE"={
 			history = "OTHER_GATHERING_STORM_DESC"
-			ideology = absolute_authoritarianism
+			ideology = oligarchy
 		}
 
 		"---"={

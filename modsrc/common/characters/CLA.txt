@@ -9,7 +9,7 @@ characters = {
         }
 
         country_leader = {
-            ideology = national_liberationism
+            ideology = national_emancipationism_type
             traits = {}
         }
     }

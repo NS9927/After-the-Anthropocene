@@ -1,11 +1,11 @@
 ﻿capital = 7  # Temporarily set as capital to prevent errors
 set_politics = {
-		ruling_party = political_pragmatism
+		ruling_party = militarism
 		elections_allowed = no
 }
 
 set_popularities = {
-	political_pragmatism = 100
+	militarism = 100
 }
 
 recruit_character = HME_Vespa_crabro

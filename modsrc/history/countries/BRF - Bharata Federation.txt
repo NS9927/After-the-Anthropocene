@@ -7,11 +7,12 @@ add_ideas = {
 }
 
 set_politics = {
-    ruling_party = political_pragmatism
+    ruling_party = oligarchy
     elections_allowed = no
 }
 
 set_popularities = {
+    oligarchy = 100
     # absolute_authoritarianism = 80
     # naturalism = 2.5
     # free_tradeism = 2.5
@@ -20,7 +21,7 @@ set_popularities = {
     # liberal_humanism = 2.5
     # social_idealism = 2.5
     # collective_revolutionism = 2.5
-    political_pragmatism = 100
+	# political_pragmatism = 2.5
 }
 
 recruit_character = BRF_Talbotia_naganum

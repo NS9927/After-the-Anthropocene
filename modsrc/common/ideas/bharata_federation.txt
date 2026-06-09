@@ -58,7 +58,7 @@ ideas = {
 			picture = GFX_idea_BRF_secret_assembly
 
 			modifier = {
-				collective_revolutionism_drift = 0.0012
+				anarchism_drift = 0.0012
 			}
 	}
 	}

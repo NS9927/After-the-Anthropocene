@@ -1,9 +1,14 @@
 ﻿capital = 282  # Temporarily set as capital to prevent errors
 set_politics = {
-		ruling_party = religious_dominance
+		ruling_party = revolutionary_bushido
 		elections_allowed = no
 }
 
 set_popularities = {
-	religious_dominance = 100
+	revolutionary_bushido = 37
+	shadowism = 30
+	labour_federalism = 20
+	theocracy = 13
 }
+
+recruit_character = HIS_wasp

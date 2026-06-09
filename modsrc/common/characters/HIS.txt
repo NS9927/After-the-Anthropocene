@@ -1,15 +1,15 @@
 characters = {
-    HME_Vespa_crabro = {
-        name = HME_Vespa_crabro
+    HIS_wasp = {
+        name = HIS_wasp
 
         portraits = {
             civilian = {
-                large = GFX_portrait_HME_Vespa_crabro
+                large = GFX_portrait_HIS_wasp
             }
         }
 
         country_leader = {
-            ideology = militarism_type
+            ideology = revolutionary_bushido_type
             traits = {}
         }
     }
