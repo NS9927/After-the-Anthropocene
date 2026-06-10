@@ -33,7 +33,7 @@ state = {
 				arms_factory = 2
 				industrial_complex = 3
 				10125 = {
-					air_facility = 1 # Mitsubishi Arnsenals 
+					#air_facility = 1 # Mitsubishi Arnsenals 
 				}
 			}
 		}

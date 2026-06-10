@@ -26,7 +26,7 @@ state = {
 					}
 				}
 				# Kure Naval Arsenal
-				naval_facility = 1
+				#naval_facility = 1
 			}
 
 			# Taishakugawa Dam
