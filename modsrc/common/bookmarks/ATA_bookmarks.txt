@@ -1,0 +1,106 @@
+bookmarks = {
+	bookmark = {
+		name = "classics_and_rebirth"
+		desc = "classics_and_rebirth_desc"
+		date = 1936.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "BRF"
+		default = yes
+		
+		"BRF"={
+			history = "OTHER_GATHERING_STORM_DESC"
+			ideology = oligarchy
+		}
+		
+		"NYP"={
+			history = "OTHER_GATHERING_STORM_DESC"
+			ideology = oligarchy
+		}
+		
+		"TXA"={
+			history = "OTHER_GATHERING_STORM_DESC"
+			ideology = monarchy
+		}
+		
+		"FNA"={
+			history = "OTHER_GATHERING_STORM_DESC"
+			ideology = labour_federalism
+		}
+		
+		"HIS"={
+			history = "OTHER_GATHERING_STORM_DESC"
+			ideology = revolutionary_bushido
+		}
+		
+		"TME"={
+			history = "OTHER_GATHERING_STORM_DESC"
+			ideology = monarchy
+		}
+		
+		"TOE"={
+			history = "OTHER_GATHERING_STORM_DESC"
+			ideology = oligarchy
+		}
+
+		"---"={
+			history = "OTHER_GATHERING_STORM_DESC"
+		}
+
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+	bookmark = {
+		name = "the_dance_of_wild_wilderness"
+		desc = "the_dance_of_wild_wilderness_desc"
+		date = 1936.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "BRF"
+		default = yes
+
+		"BRF"={
+			history = "OTHER_GATHERING_STORM_DESC"
+			ideology = oligarchy
+		}
+
+		"NYP"={
+			history = "OTHER_GATHERING_STORM_DESC"
+			ideology = oligarchy
+		}
+
+		"TXA"={
+			history = "OTHER_GATHERING_STORM_DESC"
+			ideology = monarchy
+		}
+
+		"FNA"={
+			history = "OTHER_GATHERING_STORM_DESC"
+			ideology = labour_federalism
+		}
+
+		"HIS"={
+			history = "OTHER_GATHERING_STORM_DESC"
+			ideology = revolutionary_bushido
+		}
+
+		"TME"={
+			history = "OTHER_GATHERING_STORM_DESC"
+			ideology = monarchy
+		}
+
+		"TOE"={
+			history = "OTHER_GATHERING_STORM_DESC"
+			ideology = oligarchy
+		}
+
+		"---"={
+			history = "OTHER_GATHERING_STORM_DESC"
+		}
+
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}
