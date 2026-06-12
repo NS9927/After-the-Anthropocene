@@ -1,6 +1,6 @@
 ﻿capital = 282  # Temporarily set as capital to prevent errors
 set_politics = {
-		ruling_party = revolutionary_bushido
+		ruling_party = liberalism  #ruling_party = revolutionary_bushido
 		elections_allowed = no
 }
 
