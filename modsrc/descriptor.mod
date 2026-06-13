@@ -138,6 +138,7 @@ replace_path="common/country_tags"
 replace_path="common/units/names_ships"
 replace_path="music"
 replace_path="portraits"
+replace_path="map"
 
 
 
