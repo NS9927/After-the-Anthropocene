@@ -1125,6 +1125,10 @@ ARA = {
     color = rgb { 57 143 97 }
     color_ui = rgb { 74 186 126 }
 }
+OKD = {
+	color = rgb { 175 106 238 }
+	color_ui = rgb { 195 126 255 }
+}
 
 
 D01 = {

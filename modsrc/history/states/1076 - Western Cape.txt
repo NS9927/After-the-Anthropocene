@@ -1,6 +1,6 @@
 state={
-	id=719
-	name="STATE_719" # Natal
+	id=1076
+	name="STATE_1076" # Western Cape
 	manpower = 3962157
 	resources={
 		chromium=60 # was: 116
@@ -10,7 +10,7 @@ state={
 
 
 	history={
-		owner = OKD
+		owner = CLA
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 2
@@ -22,11 +22,15 @@ state={
 			# 	naval_base = 2
 			# }
 		}
-		add_core_of = OKD
+		add_core_of = CLA
+
+		victory_points = {
+			12589 10 # Cape Town
+		}
 	}
 
 	provinces={
-		7900 8178
+		10415 12589 12692
 	}
 
 	local_supplies=0.0

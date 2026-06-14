@@ -1,6 +1,6 @@
 state={
-	id=719
-	name="STATE_719" # Natal
+	id=1077
+	name="STATE_1077" # Southern Cape
 	manpower = 3962157
 	resources={
 		chromium=60 # was: 116
@@ -10,7 +10,7 @@ state={
 
 
 	history={
-		owner = OKD
+		owner = CLA
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 2
@@ -18,15 +18,18 @@ state={
 			# 1468 = {
 			# 	naval_base = 2
 			# }
-			# 4696 = {
-			# 	naval_base = 2
-			# }
+			4696 = {
+				naval_base = 2
+			}
 		}
-		add_core_of = OKD
+		victory_points = {
+			4696 1 
+		}
+		add_core_of = CLA
 	}
 
 	provinces={
-		7900 8178
+		10697 4822 12547 4696
 	}
 
 	local_supplies=0.0

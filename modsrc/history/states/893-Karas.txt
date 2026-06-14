@@ -5,13 +5,13 @@ state={
 	state_category = wasteland
 
 	history={
-		owner = CLA
+		owner = OKD
 		buildings = {
 			infrastructure = 2
 
 		}
 		
-		add_core_of = CLA
+		add_core_of = OKD
 
 	}
 

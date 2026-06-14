@@ -1,6 +1,6 @@
 state={
-	id=719
-	name="STATE_719" # Natal
+	id=1080
+	name="STATE_1080" # Southern Transvaal
 	manpower = 3962157
 	resources={
 		chromium=60 # was: 116
@@ -26,7 +26,7 @@ state={
 	}
 
 	provinces={
-		7900 8178
+		4584 1833
 	}
 
 	local_supplies=0.0

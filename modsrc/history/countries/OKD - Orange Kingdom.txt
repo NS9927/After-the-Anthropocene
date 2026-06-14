@@ -1,4 +1,4 @@
-﻿capital = 1076  # Temporarily set as capital to prevent errors
+﻿capital = 275  # Temporarily set as capital to prevent errors
 set_politics = {
 		ruling_party = national_emancipationism
 		elections_allowed = no
@@ -8,4 +8,4 @@ set_popularities = {
 	national_emancipationism = 100
 }
 
-recruit_character = CLA_worker_bee_4463
+

@@ -7,30 +7,26 @@ state = {
 
 	history = {
 
-		owner = CLA
-		add_core_of = CLA
+		owner = OKD
+		add_core_of = OKD
 
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 2
 			air_base = 1
 
-			12589 = {
-				naval_base = 4
-			    # Woodhead Dam
-				dam = 1
-			}
+			# 12589 = {
+			# 	naval_base = 4
+			#     # Woodhead Dam
+			# 	dam = 1
+			# }
 		}
 
-		victory_points = {
-			12589 10 # Cape Town
-		}
-		
 	}
 
 	provinces = {
-		1509 4528 4822 5203 10415 10442 10697 12419 12547 12589 12692 
+		1509 5203 10442 12419
 	}
 
-	local_supplies = 0.0 
+	local_supplies = 0.0
 }
