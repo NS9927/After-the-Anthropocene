@@ -138,7 +138,6 @@ replace_path="common/country_tags"
 replace_path="common/units/names_ships"
 replace_path="music"
 replace_path="portraits"
-replace_path="map"
 
 
 
@@ -156,3 +155,8 @@ replace_path="common/units/names_divisions"
 replace_path="common/units/names_railway_guns"
 replace_path="common/units/names_ships"
 replace_path="country_metadata"
+
+
+
+replace_path="common/doctrines/subdoctrines/special_forces"
+replace_path="map"
