@@ -1,0 +1,9 @@
+categories = {
+
+	air_raids = {
+	    visible = { has_dlc = "Gotterdammerung" }
+	    intel_source = air
+	    faction_influence_score_on_success = 200
+	}
+
+}
