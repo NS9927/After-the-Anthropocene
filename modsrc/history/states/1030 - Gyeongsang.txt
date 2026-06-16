@@ -1,9 +1,9 @@
 state = {
 
 	id = 1030
-	name = "STATE_1030"
+	name = "STATE_1030" #Busan
 	manpower = 4761368
-	
+
 	state_category = town
 
 	resources = {
@@ -26,15 +26,12 @@ state = {
 			4056 5 # Pusan/Busan
 		}
 
-		victory_points = {
-			12089 1 # Taikyū
-		}
 
 	}
 
 	provinces = {
-		1054 1081 4056 4086 7121 10085 12060 12089 
+		4056
 	}
 
-	local_supplies = 0.0 
+	local_supplies = 0.0
 }

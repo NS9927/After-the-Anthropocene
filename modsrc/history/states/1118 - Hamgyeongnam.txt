@@ -1,0 +1,26 @@
+state = {
+	id = 1118
+	name = "STATE_1118" # Hamgyeongnam
+	manpower = 3310000
+
+	state_category = large_city
+
+	history = {
+
+		owner = FNA
+		add_core_of = FNA
+
+		buildings = {
+			infrastructure = 2
+			air_base = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+
+	}
+	provinces = {
+		852 3981 3852 6928 11770
+	}
+
+	local_supplies = 0.0
+}

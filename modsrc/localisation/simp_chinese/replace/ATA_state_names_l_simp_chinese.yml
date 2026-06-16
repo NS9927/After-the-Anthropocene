@@ -65,3 +65,21 @@
  STATE_1110: "道南"  # Dōnan
  STATE_1111: "道北"  # Dōhoku
  STATE_1112: "道东"  # Dōtō
+ STATE_1113: "平安北"  # Pyeonganbuk
+ STATE_1114: "江原"  # Jagang
+ STATE_1115: "两江"  # Ryanggang
+ STATE_1116: "咸镜北"  # Hamgyeongbuk
+ STATE_1117: "罗先"  # Raseon
+ STATE_1118: "咸镜南"  # Hamgyeongnam
+ STATE_1119: "平安南"  # Pyeonganram
+ STATE_1120: "南浦"  # Nampo
+ STATE_1121: "黄海"  # Hwanghae
+ STATE_1122: "开城"  # Gaeseong
+ STATE_1123: "春川"  # Chuncheon
+ STATE_1124: "京畿"  # Gyeonggi
+ STATE_1125: "大邱"  # Daegu
+ STATE_1126: "庆尚北"  # Gyeongsangbuk
+ STATE_1127: "庆尚南"  # Gyeongsangnam
+ STATE_1128: "忠清"  # Chungcheong
+ STATE_1129: "全罗"  # Jeolla
+ STATE_1130: "济州"  # Jeju

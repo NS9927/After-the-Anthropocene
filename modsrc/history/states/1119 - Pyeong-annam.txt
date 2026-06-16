@@ -1,0 +1,26 @@
+state = {
+	id = 1119
+	name = "STATE_1119" # Pyeong-annam
+	manpower = 3310000
+
+	state_category = large_city
+
+	history = {
+
+		owner = FNA
+		add_core_of = FNA
+
+		buildings = {
+			infrastructure = 2
+			air_base = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+
+	}
+	provinces = {
+		978 3912 7171 9790
+	}
+
+	local_supplies = 0.0
+}

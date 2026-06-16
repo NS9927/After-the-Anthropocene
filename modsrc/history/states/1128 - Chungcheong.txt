@@ -1,0 +1,26 @@
+state = {
+	id = 1128
+	name = "STATE_1128" # Chungcheong
+	manpower = 3310000
+
+	state_category = large_city
+
+	history = {
+
+		owner = FNA
+		add_core_of = FNA
+
+		buildings = {
+			infrastructure = 2
+			air_base = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+
+	}
+	provinces = {
+		11992 7175 7204 11977 10115 1081
+	}
+
+	local_supplies = 0.0
+}

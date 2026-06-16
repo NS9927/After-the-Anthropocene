@@ -1,0 +1,26 @@
+state = {
+	id = 1125
+	name = "STATE_1125" # Daegu
+	manpower = 3310000
+
+	state_category = large_city
+
+	history = {
+
+		owner = FNA
+		add_core_of = FNA
+
+		buildings = {
+			infrastructure = 2
+			air_base = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+
+	}
+	provinces = {
+		12089
+	}
+
+	local_supplies = 0.0
+}

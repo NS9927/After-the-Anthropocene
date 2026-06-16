@@ -1,0 +1,26 @@
+state = {
+	id = 1123
+	name = "STATE_1123" # Chuncheon
+	manpower = 3310000
+
+	state_category = large_city
+
+	history = {
+
+		owner = FNA
+		add_core_of = FNA
+
+		buildings = {
+			infrastructure = 2
+			air_base = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+
+	}
+	provinces = {
+		9981 4004 11958 1148
+	}
+
+	local_supplies = 0.0
+}
