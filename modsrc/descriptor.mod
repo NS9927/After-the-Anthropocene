@@ -7,7 +7,7 @@ tags={
 	"National Focuses"
 }
 name="After the Anthropocene"
-supported_version="1.18.*"
+supported_version="1.19.*.*"
 
 replace_path="common/ai_areas"
 replace_path="common/ai_equipment"
