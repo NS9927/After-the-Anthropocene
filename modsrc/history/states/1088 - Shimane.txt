@@ -1,6 +1,6 @@
 state = {
-	id = 530
-	name = "STATE_530" # Shikoku
+	id = 1088
+	name = "STATE_1088" # Shimane
 	manpower = 3310000
 
 	state_category = large_city
@@ -19,7 +19,7 @@ state = {
 
 	}
 	provinces = {
-		9965 12028
+		7145 1191
 	}
 
 	local_supplies = 0.0

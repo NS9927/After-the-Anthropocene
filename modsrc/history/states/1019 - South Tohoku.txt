@@ -1,7 +1,7 @@
 state = {
 	id = 1019
-	name = "STATE_1019" # South Tohoku
-	manpower = 2796521 # Unified tohoku is about 6575000 
+	name = "STATE_1019" # Fukushima
+	manpower = 2796521 # Unified tohoku is about 6575000
 	state_category = town # was large_city
 	resources = {
 		steel = 5
@@ -14,16 +14,13 @@ state = {
 		add_core_of = HIS
 
 		buildings = {
-		
+
 			arms_factory = 1
 			industrial_complex = 1
 			infrastructure = 2
 
 		}
-		
-		victory_points = {
-			7169 15 # Sendai
-		}
+
 
 		victory_points = {
 			4118 2 # Fukushima
@@ -32,8 +29,8 @@ state = {
 	}
 
 	provinces = {
-		1024 4067 4122 4153 4118 7169
+		4122 4118
 	}
 
-	local_supplies = 9.0 
+	local_supplies = 9.0
 }

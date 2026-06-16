@@ -7,17 +7,11 @@ state=
 	state_category = rural
 	
 	history= {
-		victory_points = {
-			6727 1
-		}
 		add_core_of = HME
 		owner = HME
 		buildings = {
 			infrastructure = 2
 			dockyard = 1
-			6727 = {
-				naval_base = 3
-			}
 		}
 	}
 	provinces=

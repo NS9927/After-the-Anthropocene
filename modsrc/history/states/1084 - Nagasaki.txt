@@ -1,6 +1,6 @@
 state = {
-	id = 1018
-	name = "STATE_1018" # Kumamoto
+	id = 1084
+	name = "STATE_1084" # Nagasaki
 	manpower = 3023000
 
 	state_category = rural
@@ -14,19 +14,23 @@ state = {
 		owner = HIS
 		add_core_of = HIS
 
+		victory_points = { 7110 5 }
+		victory_points = { 9950 15 }
 		buildings = {
 
 			infrastructure = 2
 			dockyard = 1
 			industrial_complex = 1
 
+			9950 = {
+				naval_base = 6
+			}
 		}
-
 
 	}
 
 	provinces = {
-		1183 11949 12006
+		10011 1158 7110 9950
 	}
 
 	local_supplies = 10.0

@@ -1,6 +1,6 @@
 state = {
-	id = 1018
-	name = "STATE_1018" # Kumamoto
+	id = 1083
+	name = "STATE_1083" # Fukuoka
 	manpower = 3023000
 
 	state_category = rural
@@ -14,6 +14,8 @@ state = {
 		owner = HIS
 		add_core_of = HIS
 
+		victory_points = { 1025 10 }
+		victory_points = { 11925 5 }
 		buildings = {
 
 			infrastructure = 2
@@ -22,11 +24,10 @@ state = {
 
 		}
 
-
 	}
 
 	provinces = {
-		1183 11949 12006
+		1025 4164 10020 11925
 	}
 
 	local_supplies = 10.0

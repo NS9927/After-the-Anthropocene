@@ -2,9 +2,9 @@ state = {
 	id = 282
 	name = "STATE_282" # Kanto
 	manpower = 13773000
-	
+
 	state_category = megalopolis
-	
+
 	resources = {
 		aluminium = 1 # was: 2
 	}
@@ -21,18 +21,11 @@ state = {
 			arms_factory = 2
 			dockyard = 4
 
-			9998 = {
-				naval_base = 6
-			}
 
 		}
 
 		victory_points = {
 			1182 50 # Tokyo
-		}
-
-		victory_points = {
-			9998 25 # Yokohama
 		}
 
 		1939.1.1 = {
@@ -46,8 +39,8 @@ state = {
 	}
 
 	provinces = {
-		993 1097 1113 1182 4000 4100 4184 4188 7016 9998 11908 
+		1182
 	}
 
-	local_supplies = 0.0 
+	local_supplies = 0.0
 }

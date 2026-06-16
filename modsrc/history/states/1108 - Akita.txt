@@ -1,6 +1,6 @@
 state = {
-	id = 530
-	name = "STATE_530" # Shikoku
+	id = 1108
+	name = "STATE_1108" # Akita
 	manpower = 3310000
 
 	state_category = large_city
@@ -10,6 +10,7 @@ state = {
 		owner = HIS
 		add_core_of = HIS
 
+		victory_points = { 1063 2 }
 		buildings = {
 			infrastructure = 2
 			air_base = 3
@@ -19,7 +20,7 @@ state = {
 
 	}
 	provinces = {
-		9965 12028
+		9865 3848 1063 12056
 	}
 
 	local_supplies = 0.0

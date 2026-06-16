@@ -1,6 +1,6 @@
 state = {
 	id = 532
-	name = "STATE_532" # Tokai
+	name = "STATE_532" # Aichi
 	manpower = 6174000
 	state_category = large_city
 
@@ -19,11 +19,8 @@ state = {
 			4069 = { dam = 1 }
 
 		}
-		
-		victory_points = {
-			7087 3 # Shizuoka
-		}
-		
+
+
 		victory_points = {
 			10125 25 # Nagoya
 		}
@@ -33,7 +30,7 @@ state = {
 				arms_factory = 2
 				industrial_complex = 3
 				10125 = {
-					#air_facility = 1 # Mitsubishi Arnsenals 
+					#air_facility = 1 # Mitsubishi Arnsenals
 				}
 			}
 		}
@@ -41,8 +38,8 @@ state = {
 	}
 
 	provinces = {
-		4069 4172 7087 7157 7187 10100 10125 12072 12097 
+		4069 10125 12097
 	}
 
-	local_supplies = 0.0 
+	local_supplies = 0.0
 }

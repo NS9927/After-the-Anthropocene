@@ -1,0 +1,39 @@
+state = {
+	id = 1089
+	name = "STATE_1089" # Hiroshima
+	manpower = 3310000
+
+	state_category = large_city
+
+	history = {
+
+		owner = HIS
+		add_core_of = HIS
+
+		victory_points = { 1092 20 }
+		buildings = {
+			infrastructure = 2
+			air_base = 3
+			arms_factory = 1
+			industrial_complex = 2
+			1092 = {
+				naval_base = 10
+				naval_headquarters = {
+				level = 1
+				allowed = {
+				has_dlc = "No Compromise, No Surrender"
+				}
+				}
+				naval_facility = 1
+			}
+			9968 = {
+			}
+		}
+
+	}
+	provinces = {
+		1092 9968 11946
+	}
+
+	local_supplies = 0.0
+}
