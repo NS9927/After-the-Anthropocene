@@ -160,3 +160,7 @@ replace_path="country_metadata"
 replace_path="common/doctrines/subdoctrines/special_forces"
 replace_path="map"
 replace_path="map/strategicregions"
+
+
+
+replace_path="gfx/interface/equipmentdesigner/graphic_db"
