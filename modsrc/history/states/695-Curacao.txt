@@ -11,8 +11,8 @@ state = {
 
 	history = {
 		
-		#owner = HOL
-		#add_core_of = CRC
+		owner = UCS
+		add_core_of = UCS
 
 		victory_points = {
 			153 1 # Willemstad
@@ -27,13 +27,6 @@ state = {
 			}
 		}
 
-		1939.1.1 = {
-			buildings = {
-				# From "Expand Curacao Oil Refieries"
-				industrial_complex = 1
-				synthetic_refinery = 1
-			}
-		}
 	}
 
 	provinces = {
