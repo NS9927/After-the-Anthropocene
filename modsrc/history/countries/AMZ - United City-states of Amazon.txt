@@ -1,4 +1,4 @@
-capital = 472  # Temporarily set as capital to prevent errors
+capital = 305  # Temporarily set as capital to prevent errors
 set_politics = {
 		ruling_party = republicanism
 		elections_allowed = no

@@ -6,8 +6,8 @@ state = {
 
 	history = {
 
-		#owner = ECU
-		#add_core_of = ECU
+		owner = AMZ
+		add_core_of = AMZ
 
 		buildings = {
 			infrastructure = 1

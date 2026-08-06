@@ -10,8 +10,8 @@ state={
 	}
 
 	history={
-		#add_core_of = GYA
-		#owner = ENG
+		owner = AMZ
+		add_core_of = AMZ
 		victory_points = {
 			4982 1
 		}

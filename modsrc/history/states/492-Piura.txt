@@ -11,8 +11,8 @@ state = {
 
 	history = {
 
-		#owner = PRU
-		#add_core_of = PRU
+		owner = RFR
+		add_core_of = RFR
 
 		buildings = {
 			infrastructure = 2
