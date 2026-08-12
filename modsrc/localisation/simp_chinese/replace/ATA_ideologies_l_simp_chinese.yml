@@ -2,7 +2,7 @@
 
  ### Academicism ###
 
- academicism_intro: "学院派原指东南亚地区社会大学库特学院 (Cootie Academy) 的一系列思潮, 现为一切激进的革命派的统称。其三条原则为: 须激进改变现状; 不放弃暴力革命; 须有进步的指导理论。"
+ academicism_intro: "学院派原指东南亚地区社会大学库特学院(Cootie_Academy)的一系列思潮，现为一切激进的革命派的统称。其三条原则为：须激进改变现状；不放弃暴力革命；须有进步的指导理论。"
 
  neo_universalism: "学院派"
  neo_universalism_desc: "新普世主义"
@@ -73,6 +73,7 @@
  new_hundred_schools_of_thought: "学院派"
  new_hundred_schools_of_thought_desc: "新百家"
  new_hundred_schools_of_thought_type_desc: "$academicism_intro$"
+ new_hundred_schools_of_thought_intro: "$new_hundred_schools_of_thought_intro_short$"
  new_hundred_schools_of_thought_intro_short: "诸夏本地学院派思潮的集合，新道家和新儒家数量较多。本地学院派因受诸夏打击迫害，故借“新百家”之名活动。有上台领导诸夏的可能。"
 
  ### Reformism ###
