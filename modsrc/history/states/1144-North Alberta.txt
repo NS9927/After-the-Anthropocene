@@ -1,0 +1,25 @@
+﻿
+state={
+	id=1144
+	name="STATE_1144"
+	history={
+		owner = HGO
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+
+		}
+		add_core_of = HGO
+		#victory_points = {
+		#	9616 1 
+		#}
+
+	}
+
+	provinces={
+		7766 7858 12534 12166
+	}
+	manpower=215253
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

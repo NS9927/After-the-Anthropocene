@@ -83,3 +83,24 @@
  STATE_1128: "忠清"  # Chungcheong
  STATE_1129: "全罗"  # Jeolla
  STATE_1130: "济州"  # Jeju
+ STATE_1131: "Chumash"  # STATE_797
+ STATE_1132: "昂加瓦半岛"  # STATE_798
+ STATE_1133: "South Newfoundland"  # STATE_799
+ STATE_1134: "East Saint Lawrence"  # STATE_800
+ STATE_1135: "East Wisconsin"  # STATE_801
+ STATE_1136: "赫尔组"  # STATE_802
+ STATE_1137: "South Lawrence"  # STATE_803
+ STATE_1138: "Long island"  # STATE_804
+ STATE_1139: "West jersey"  # STATE_805
+ STATE_1140: "Pequot"  # STATE_806
+ STATE_1141: "North east york"  # STATE_807
+ STATE_1142: "East coahuila"  # STATE_808
+ STATE_1143: "Hopi"  # STATE_809
+ STATE_1144: "North Alberta"  # STATE_810
+ STATE_1145: "West illinois"  # fallback; STATE_811 absent from source
+ STATE_1146: "Ojibwe"  # fallback; STATE_812 absent from source
+ STATE_1147: "Navajo"  # fallback; STATE_813 absent from source
+ STATE_1148: "West texas"  # fallback; STATE_814 absent from source
+ STATE_1149: "East kansas"  # fallback; STATE_815 absent from source
+ STATE_1150: "大平原"  # fallback; STATE_817 absent from source
+ # STATE_1151: "Cree Federation"  # fallback; STATE_818 absent from source

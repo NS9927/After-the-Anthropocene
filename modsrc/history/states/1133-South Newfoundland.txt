@@ -1,0 +1,20 @@
+﻿state={
+	id=1133
+	name="STATE_1133"
+	history={
+		add_core_of = NQC
+		owner = NQC
+		buildings = {
+			infrastructure = 4
+			12680 = {
+				naval_base = 1
+			}
+		}
+	}
+	provinces={
+		7788 12680 
+	}
+	manpower=165367
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

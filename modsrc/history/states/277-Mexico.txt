@@ -13,12 +13,12 @@ state={
 	history={
 		owner = NAT
 		buildings = {
-			infrastructure = 3 #was: 5
+			infrastructure = 5
 			arms_factory = 2
 			industrial_complex = 4
 			air_base = 3
 		}
-		add_core_of = NAT 
+		add_core_of = NAT
 		victory_points = {
 			1965 25
 		}
@@ -31,6 +31,4 @@ state={
 		1965 2008 2011 7913 12755 
 	}
 	
-
-	local_supplies=0.0 
 }

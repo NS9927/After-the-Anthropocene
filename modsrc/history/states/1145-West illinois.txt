@@ -1,0 +1,22 @@
+﻿state={
+	id=1145
+	name="STATE_1145"
+
+	history={
+		owner = UGL
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+
+		}
+		add_core_of = UGL
+
+	}
+
+	provinces={
+		1560 4590 10393 11589 12365 
+	}
+	manpower=648432
+	buildings_max_level_factor=1.000
+	state_category=town
+}

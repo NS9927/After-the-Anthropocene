@@ -1,0 +1,18 @@
+﻿state={
+	id=1148
+	name="STATE_1148"
+	history={
+		owner = FTA
+		buildings = {
+			infrastructure = 6
+			arms_factory = 1
+		}
+		add_core_of = FTA
+	}
+	provinces={
+		4919 10702 12728 8064 12875 1915 3875 4955 1998 12720 12301 9773 12848 3972 12893 10867 
+	}
+	manpower=2124523
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

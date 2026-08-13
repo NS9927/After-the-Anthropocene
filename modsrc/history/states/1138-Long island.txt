@@ -1,0 +1,23 @@
+﻿state={
+	id=1138
+	name="STATE_1138"
+	state_category = city
+	history={
+		owner = CNY
+		victory_points = { 3878 10 }
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 5
+			dockyard = 1
+			air_base = 6
+			3878 = { naval_base = 2 }
+		}
+		add_core_of = CNY
+
+	}
+	provinces={
+		859 3878 6911 
+	}
+	manpower=5126437
+	buildings_max_level_factor=1.000
+}

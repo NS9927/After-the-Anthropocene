@@ -1,0 +1,23 @@
+﻿# state={
+# 	id=1151
+# 	name="STATE_1151"
+# 	history={
+# 		owner = DOG
+# 		buildings = {
+# 			infrastructure = 6
+# 			arms_factory = 1
+
+
+# 		}
+# 		add_core_of = DOG
+# 		#victory_points = {
+# 		#	12586 1 
+# 		#}
+# 	}
+# 	provinces={
+# 		7348 1804 3498 6779 736 1671 12682 3800 4695 13185 13183
+# 	}
+# 	manpower=3124523
+# 	buildings_max_level_factor=1.000
+# 	state_category=rural
+# }

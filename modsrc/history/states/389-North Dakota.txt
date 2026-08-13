@@ -12,7 +12,7 @@ state={
 	history={
 		owner = FOI
 		buildings = {
-			infrastructure = 2
+			infrastructure = 4
 			industrial_complex = 1
 		}
 		add_core_of = FOI
@@ -23,8 +23,6 @@ state={
 	}
 
 	provinces={
-		1752 1836 1870 3719 4759 4772 6722 7877 10685 10709 12566 12685 
+		1752 1836 1870 3719 4759 4772 10685 10709 12685 4880 12667 10595 10569 12620 7862 1867 12577 7536 4790 12145 1848 1788 12603 7883 
 	}
-
-	local_supplies=9.0 
 }

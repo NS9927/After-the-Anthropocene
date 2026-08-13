@@ -1,14 +1,24 @@
 state={
 	id=683
 	name="STATE_683"
+	
+	state_category = pastoral
+	
 	resources={
-		aluminium=7.000
+		aluminium=7 # was: 8.000
 	}
 
 	history={
 		owner = AFE
 		buildings = {
 			infrastructure = 1
+			arms_factory = 1
+			10721 ={
+				naval_base = 1
+			}
+			5239 ={
+				naval_base = 1
+			}
 
 		}
 		add_core_of = AFE
@@ -16,10 +26,8 @@ state={
 	}
 
 	provinces={
-		2947 8962 10721 13188 13190 13191 
+		2947 5239 8962 10585 10721 13188 13190 
 	}
 	manpower=46135
 	buildings_max_level_factor=1.000
-	state_category=wasteland
-	local_supplies=0.000
 }

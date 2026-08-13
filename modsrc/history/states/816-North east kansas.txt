@@ -1,0 +1,21 @@
+state={
+	id=816
+	name="North East kansas"
+	history={
+		owner = MSK
+		buildings = {
+			infrastructure = 6
+
+		}
+		add_core_of = MSK
+		victory_points = {
+			12586 1 
+		}
+	}
+	provinces={
+		12586 7852 1683 
+	}
+	manpower=2124523
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

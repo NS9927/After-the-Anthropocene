@@ -1,28 +1,29 @@
-state= {
+
+state={
 	id=380
 	name="STATE_380"
-	manpower = 507846
-	
-	state_category = rural
-	
 	resources={
-		tungsten=76 # was: 106
+		tungsten=76.000
 	}
 
 	history={
-		owner = SMO
+		owner = PBS
 		buildings = {
-			infrastructure = 2
+			infrastructure = 4
 			industrial_complex = 1
+
 		}
-		add_core_of = SMO
+		add_core_of = PBS
 		victory_points = {
 			4865 1 
 		}
-	}
-	provinces={
-		1663 1740 1756 4668 4742 4865 7764 7818 10582 10651 10662 12573 12699 13153
+
 	}
 
-	local_supplies=0.0 
+	provinces={
+		850 1663 1740 4668 4742 4865 7756 7879 7888 9695 10582 10591 10651 10662 12535 12573 12699 13153 6887 1756 
+	}
+	manpower=507846
+	buildings_max_level_factor=1.000
+	state_category=rural
 }

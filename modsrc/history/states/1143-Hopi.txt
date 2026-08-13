@@ -1,0 +1,21 @@
+﻿state={
+	id=1143
+	name="STATE_1143"
+	history={
+		owner = FTA
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 3
+
+		}
+		add_core_of = FTA
+
+	}
+	provinces={
+		1738 2055 2102 4586 4740 7762 7904 9908 10340 10642 10798 11802 12624 12627 12684 
+	}
+	manpower=2145531
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

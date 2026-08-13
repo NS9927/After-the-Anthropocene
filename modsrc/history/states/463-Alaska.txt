@@ -5,7 +5,8 @@ state={
 	history={
 		owner = SAL
 		buildings = {
-			infrastructure = 1
+			infrastructure = 2
+			arms_factory = 1
 			air_base = 1
 			13091 = {
 				naval_base = 1
@@ -28,7 +29,5 @@ state={
 	}
 	manpower=67500
 	buildings_max_level_factor=1
-	state_category="rural"
-
-	local_supplies=0.0 
+	state_category=rural
 }

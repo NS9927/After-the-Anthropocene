@@ -1,0 +1,22 @@
+﻿state={
+	id=1146
+	name="STATE_1146"
+	history={
+		owner = UGL
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 3
+
+
+		}
+		add_core_of = UGL
+
+	}
+	provinces={
+		870 4437 6713 6737 9450 9653 9654 9682 10461 11637 12368 695 11641 
+	}
+	manpower=2654845
+	buildings_max_level_factor=1.000
+	state_category = rural
+}

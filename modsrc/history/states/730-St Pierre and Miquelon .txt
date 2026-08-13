@@ -6,8 +6,9 @@ state={
 
 	history={
 		owner = NQC
+		add_core_of = NQC
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 			373 = {
 				naval_base = 1
 			}
@@ -15,6 +16,4 @@ state={
 	}
 	
 	provinces={ 373 }
-
-	local_supplies=0.0 
 }

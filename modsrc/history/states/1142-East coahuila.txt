@@ -1,0 +1,21 @@
+﻿state={
+	id=1142
+	name="STATE_1142"
+	history={
+		owner = CMP
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+		add_core_of = CMP
+
+	}
+	provinces={
+		2019 2042 5061 6785 6987 12369 12782 
+	}
+	manpower=827826
+	state_category=large_town
+	buildings_max_level_factor=1.000
+}
