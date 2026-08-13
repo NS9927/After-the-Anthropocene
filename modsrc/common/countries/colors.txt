@@ -1264,24 +1264,32 @@ ECR = {
 	color_ui = rgb { 118 118 118 }
 }
 HGO = {
-	color = rgb { 208 208 208 }
-	color_ui = rgb { 208 208 208 }
+	# color = rgb { 208 208 208 }
+	# color_ui = rgb { 208 208 208 }
+	color = rgb { 179  180  208 }
+	color_ui = rgb { 179  180  208 }
 }
 AOU = {
 	color = rgb { 93 169 255 }
 	color_ui = rgb { 113 189 255 }
 }
 NQC = {
-	color = rgb { 0 4 165 }
-	color_ui = rgb { 20 24 185 }
+	# color = rgb { 0 4 165 }
+	# color_ui = rgb { 20 24 185 }
+	color = rgb { 71  75  122 }
+	color_ui = rgb { 71  75  122 }
 }
 CNY = {
-	color = rgb { 212 72 212 }
-	color_ui = rgb { 232 92 232 }
+	# color = rgb { 212 72 212 }
+	# color_ui = rgb { 232 92 232 }
+	color = rgb { 136  0  21 }
+	color_ui = rgb { 136  0  21 }
 }
 UGL = {
-	color = rgb { 232 33 94 } 
-	color_ui = rgb { 252 53 114 }
+	# color = rgb { 232 33 94 } 
+	# color_ui = rgb { 252 53 114 }
+	color = rgb { 231  18  29 }
+	color_ui = rgb { 231  18  29 }
 }
 RWN = {
 	color = rgb { 33 232 131 }
@@ -1292,32 +1300,46 @@ AFE = {
 	color_ui = rgb { 204 115 20 }
 }
 FOI = {
-	color = rgb { 52 37 21 }
-	color_ui = rgb { 72 57 41 }
+	#color = rgb { 52 37 21 }
+	#color_ui = rgb { 72 57 41 }
+	color = rgb { 17  159  147 }
+	color_ui = rgb { 17  159  147 }
 }
 GYS = {
-	color = rgb { 249 255 81 }
-	color_ui = rgb { 255 255 101 }
+	# color = rgb { 249 255 81 }
+	# color_ui = rgb { 255 255 101 }
+	color = rgb { 141  128  29 }
+	color_ui = rgb { 141  128  29 }
 }
 MSK = {
-	color = rgb { 81 237 255 }
-	color_ui = rgb { 101 255 255 }
+	# color = rgb { 81 237 255 }
+	# color_ui = rgb { 101 255 255 }
+	color = rgb { 0  170  242 }
+	color_ui = rgb { 0  170  242 }
 }
 SCT = {
 	color = rgb { 255 204 0 }
 	color_ui = rgb { 255 224 20 } 
 }
 SMO = {
-	color = rgb { 177 85 220 }
-	color_ui = rgb { 197 105 240 }
+	# color = rgb { 177 85 220 }
+	# color_ui = rgb { 197 105 240 }
+	# color = rgb { 36  103  33 }
+	# color_ui = rgb { 36  103  33 }
+	color = rgb { 255  123  79 }
+	color_ui = rgb { 255  123  79 }
 }
 PBS = {
-	color = rgb { 20 20 20 }
-	color_ui = rgb { 40 40 40 }
+	# color = rgb { 20 20 20 }
+	# color_ui = rgb { 40 40 40 }
+	color = rgb { 83  116  78 }
+	color_ui = rgb { 83  116  78 }
 }
 FTA = {
-	color = rgb { 45 132 213 }
-	color_ui = rgb { 65 152 232 }
+	# color = rgb { 45 132 213 }
+	# color_ui = rgb { 65 152 232 }
+	color = rgb { 21  101 166 }
+	color_ui = rgb { 21  101 166 }
 }
 CMP = {
 	color = rgb { 163 124 69 }
