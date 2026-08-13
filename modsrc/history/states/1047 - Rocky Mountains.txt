@@ -7,12 +7,12 @@ state={
 	state_category = metropolis
 	
 	resources={
-		oil=180 # was: 350
-		aluminium=8 # was: 14
+		#oil=180 # was: 350
+		#aluminium=8 # was: 14
 	}
 
 	history={
-		owner = SCT
+		owner = HGO
 		buildings = {
 			infrastructure = 3 #was: 6
 			arms_factory = 2
@@ -32,20 +32,13 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = SCT
-		victory_points = {
-			9713 1 
-		}
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 7
-			}
-		}
+		add_core_of = HGO
 	}
 
 	provinces={
 		# 610 677 710 766 768 781 3588 3644 4331 6482 6665 6681 6745 6757 6772 9697 9713 9730 10159 11658 11698
-		9671
+		# 9671
+		12673 1690 12124 12676 1854 4838 1832 10693 12578 7820
 	}
 
 	local_supplies=0.0 
