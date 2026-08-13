@@ -12,12 +12,12 @@ state={
 	}
 
 	history={
-		owner = HGO
+		owner = GYS
 		buildings = {
 			infrastructure = 3 #was: 6
 			arms_factory = 2
 			industrial_complex = 6
-			dockyard = 2
+			# dockyard = 2
 			air_base = 10
 			#1562 = {
 			#	naval_base = 10
@@ -28,17 +28,18 @@ state={
 			#9814 = {
 			#	naval_base = 5
 			#}
-			610 = {
-				naval_base = 1
-			}
+			# 610 = {
+			# 	naval_base = 1
+			# }
 		}
-		add_core_of = HGO
+		add_core_of = GYS
 	}
 
 	provinces={
 		# 610 677 710 766 768 781 3588 3644 4331 6482 6665 6681 6745 6757 6772 9697 9713 9730 10159 11658 11698
 		# 9671
-		12673 1690 12124 12676 1854 4838 1832 10693 12578 7820
+		12673 1690 12124 12676 1854 4838 1832 1857 11712 10593 
+		4747 10690
 	}
 
 	local_supplies=0.0 

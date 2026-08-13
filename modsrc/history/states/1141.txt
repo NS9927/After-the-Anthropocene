@@ -2,17 +2,21 @@ state={
 	id=1141
 	name="STATE_1141"
 	provinces={
-		7345 10381 11662 
+		# 7345 10381 11662 
+		11814 1793 8115 853
 	}
 
 	history={
-		owner = CNY
+		owner = SMO
 		buildings = {
 			infrastructure = 8
 
 		}
-		add_core_of = CNY
+		add_core_of = SMO
 
+		victory_points = {
+			853 3 
+		}
 	}
 	manpower=1346745
 	buildings_max_level_factor=1.000

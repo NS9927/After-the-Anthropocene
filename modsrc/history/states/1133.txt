@@ -2,17 +2,12 @@ state={
 	id=1133
 	name="STATE_1133"
 	history={
-		add_core_of = NQC
-		owner = NQC
-		buildings = {
-			infrastructure = 4
-			12680 = {
-				naval_base = 1
-			}
-		}
+		add_core_of = SCT
+		owner = SCT
 	}
 	provinces={
-		7788 12680 
+		3588 10159 766 11698 710 1601 10422 4607 4736
+		4331 6665 12134
 	}
 	manpower=165367
 	buildings_max_level_factor=1.000

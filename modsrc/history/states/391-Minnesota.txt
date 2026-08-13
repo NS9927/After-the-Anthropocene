@@ -10,13 +10,13 @@ state={
 	}
 
 	history={
-		owner = RWN
+		owner = FOI
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 3
 			arms_factory = 1
 		}
-		add_core_of = RWN
+		add_core_of = FOI
 		victory_points = {
 			1866 5 
 		}
@@ -24,6 +24,7 @@ state={
 	}
 
 	provinces={
-		1719 1734 1866 6752 6767 6827 7896 9880 10618 10719 11667 12550 12588 12597 12693 
+		1719 1734 1866 6752 6767 6827 7896 9880 10618 10719 11667 12550 12588 12597 12693
+		1873 4426 
 	}
 }
