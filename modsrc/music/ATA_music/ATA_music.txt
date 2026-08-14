@@ -109,3 +109,13 @@ music = {
         }
     }
 }
+
+music = {
+    song = "i_dig_my_own_grave_a_centimeter_deeper_everyday"
+	
+    chance = {
+        modifier = {
+            factor = 1
+        }
+    }
+}
