@@ -70,3 +70,8 @@ music = {
 	file = another_medium.ogg
 	volume = 0.65
 }
+music = {
+	name = "machines_collide"
+	file = machines_collide.ogg
+	volume = 0.65
+}

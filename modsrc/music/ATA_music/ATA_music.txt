@@ -139,3 +139,13 @@ music = {
         }
     }
 }
+
+music = {
+    song = "machines_collide"
+	
+    chance = {
+        modifier = {
+            factor = 1
+        }
+    }
+}
