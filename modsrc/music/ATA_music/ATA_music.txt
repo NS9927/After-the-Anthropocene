@@ -119,3 +119,23 @@ music = {
         }
     }
 }
+
+music = {
+    song = "funky_stars"
+	
+    chance = {
+        modifier = {
+            factor = 1
+        }
+    }
+}
+
+music = {
+    song = "another_medium"
+	
+    chance = {
+        modifier = {
+            factor = 1
+        }
+    }
+}
