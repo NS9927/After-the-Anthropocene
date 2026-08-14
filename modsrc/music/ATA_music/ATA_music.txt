@@ -1,14 +1,108 @@
 music_station = "ATA_music"
+
+# music = {
+#     song = "maintheme"
+
+#     chance = {
+#         modifier = {
+#             factor = 0
+#         }
+#     }
+# }
+
 music = {
-    song = "maintheme"
+    song = "the_beauty_and_sorrow_of_posthumanity"
+
     chance = {
         modifier = {
             factor = 1
         }
     }
 }
+
 music = {
-    song = bbbbbbbbbbbb
+    song = "atlas"
+	
+    chance = {
+        modifier = {
+            factor = 1
+        }
+    }
+}
+
+music = {
+    song = "typewrite-lesson"
+	
+    chance = {
+        modifier = {
+            factor = 1
+        }
+    }
+}
+
+music = {
+    song = "decay"
+	
+    chance = {
+        modifier = {
+            factor = 1
+        }
+    }
+}
+
+music = {
+    song = "l_ouverture-the-overture-_live-remastered-2022_"
+	
+    chance = {
+        modifier = {
+            factor = 1
+        }
+    }
+}
+
+music = {
+    song = "nightingale"
+	
+    chance = {
+        modifier = {
+            factor = 1
+        }
+    }
+}
+
+music = {
+    song = "717"
+	
+    chance = {
+        modifier = {
+            factor = 1
+        }
+    }
+}
+
+music = {
+    song = "la-cle-des-champs"
+	
+    chance = {
+        modifier = {
+            factor = 1
+        }
+    }
+}
+
+music = {
+    song = "involuntary-prophet"
+	
+    chance = {
+        modifier = {
+            factor = 1
+        }
+    }
+}
+
+music = {
+    song = "asphalt-maelstrom"
+	
     chance = {
         modifier = {
             factor = 1

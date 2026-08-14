@@ -1,0 +1,7 @@
+spriteTypes = {
+    spriteType = {
+      name = "GFX_ATA_music_album_art"
+      textureFile = "gfx/musicplayer/ATA_music_album_art.png"
+      noOfFrames = 2
+    }
+}

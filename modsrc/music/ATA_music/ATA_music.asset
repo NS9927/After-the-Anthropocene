@@ -1,12 +1,57 @@
-
 # MAIN THEME
 music = {
 	name = "maintheme"
-	file = "Blankenship.ogg"
-	volume = 0.8
+	file = "blankenship.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "the_beauty_and_sorrow_of_posthumanity"
+	file = the_beauty_and_sorrow_of_posthumanity.ogg
+	volume = 0.65
 }
 music = {
-	name = bbbbbbbbbbbb
-	file = bbbbbbbbbbbb.ogg
-	volume = 0.8
+	name = "atlas"
+	file = atlas.ogg
+	volume = 0.65
+}
+music = {
+	name = "typewrite-lesson"
+	file = typewrite-lesson.ogg
+	volume = 0.65
+}
+music = {
+	name = "decay"
+	file = decay.ogg
+	volume = 0.65
+}
+music = {
+	name = "l_ouverture-the-overture-_live-remastered-2022_"
+	file = l_ouverture-the-overture-_live-remastered-2022_.ogg
+	volume = 0.65
+}
+music = {
+	name = "nightingale"
+	file = nightingale.ogg
+	volume = 0.65
+}
+music = {
+	name = "717"
+	file = 717.ogg
+	volume = 0.65
+}
+music = {
+	name = "la-cle-des-champs"
+	file = la-cle-des-champs.ogg
+	volume = 0.65
+}
+music = {
+	name = "involuntary-prophet"
+	file = involuntary-prophet.ogg
+	volume = 0.65
+}
+music = {
+	name = "asphalt-maelstrom"
+	file = asphalt-maelstrom.ogg
+	volume = 0.65
 }
