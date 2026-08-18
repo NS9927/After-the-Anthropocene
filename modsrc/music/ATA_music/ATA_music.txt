@@ -11,16 +11,6 @@ music_station = "ATA_music"
 # }
 
 music = {
-    song = "the_beauty_and_sorrow_of_posthumanity"
-
-    chance = {
-        modifier = {
-            factor = 1
-        }
-    }
-}
-
-music = {
     song = "atlas"
 	
     chance = {

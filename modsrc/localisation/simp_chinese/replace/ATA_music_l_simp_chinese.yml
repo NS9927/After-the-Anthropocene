@@ -1,5 +1,6 @@
 ﻿l_simp_chinese:
- ATA_music_TITLE: "第四纪电台"
+ ATA_music_TITLE: "第四纪频率"
+ ATA_music_kafka_TITLE: "萨姆沙的歌单"
  maintheme: "Blankenship"
  the_beauty_and_sorrow_of_posthumanity: "后人类的美丽与哀愁"
  atlas: "Atlas"
@@ -15,3 +16,5 @@
  funky_stars: "Funky Stars"
  another_medium: "Another Medium"
  machines_collide: "Machines Collide"
+ let_down: "Let Down"
+ no_surprises: "No Surprises"

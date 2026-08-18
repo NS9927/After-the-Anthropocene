@@ -1,0 +1,16 @@
+characters = {
+    FNA_Allomyrina_dichotoma = {
+        name = FNA_Allomyrina_dichotoma
+
+        portraits = {
+            civilian = {
+                large = GFX_portrait_FNA_Allomyrina_dichotoma
+            }
+        }
+
+        country_leader = {
+            ideology = labour_federalism_type
+            traits = {}
+        }
+    }
+}

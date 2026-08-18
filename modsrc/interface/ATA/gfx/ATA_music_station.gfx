@@ -1,7 +1,13 @@
 spriteTypes = {
     spriteType = {
       name = "GFX_ATA_music_album_art"
-      textureFile = "gfx/musicplayer/ATA_music_album_art.png"
+      textureFile = "gfx/ata/musicplayer/ATA_music_album_art.png"
+      noOfFrames = 2
+    }
+
+    spriteType = {
+      name = "GFX_ATA_music_kafka_album_art"
+      textureFile = "gfx/ata/musicplayer/ATA_music_kafka_album_art.png"
       noOfFrames = 2
     }
 }

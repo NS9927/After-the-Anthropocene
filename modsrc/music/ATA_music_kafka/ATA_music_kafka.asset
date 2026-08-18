@@ -1,0 +1,15 @@
+music = {
+	name = "no_surprises"
+	file = no_surprises.ogg
+	volume = 0.65
+}
+music = {
+	name = "let_down"
+	file = let_down.ogg
+	volume = 0.65
+}
+music = {
+	name = "the_beauty_and_sorrow_of_posthumanity"
+	file = the_beauty_and_sorrow_of_posthumanity.ogg
+	volume = 0.65
+}

@@ -1,0 +1,31 @@
+music_station = "ATA_music_kafka"
+
+music = {
+    song = "no_surprises"
+	
+    chance = {
+        modifier = {
+            factor = 1
+        }
+    }
+}
+
+music = {
+    song = "let_down"
+	
+    chance = {
+        modifier = {
+            factor = 1
+        }
+    }
+}
+
+music = {
+    song = "the_beauty_and_sorrow_of_posthumanity"
+
+    chance = {
+        modifier = {
+            factor = 1
+        }
+    }
+}

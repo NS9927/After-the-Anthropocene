@@ -14,12 +14,12 @@ characters = {
         }
     }
 
-    RIFA_queen = {
-        name = RIFA_queen
+    fire_ant_queen = {
+        name = fire_ant_queen
 
         portraits = {
             civilian = {
-                large = GFX_portrait_RIFA_queen
+                large = GFX_portrait_fire_ant_queen
             }
         }
 
