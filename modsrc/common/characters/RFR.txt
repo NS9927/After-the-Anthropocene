@@ -1,0 +1,16 @@
+characters = {
+    RFR_fire_ant_queen = {
+        name = RFR_fire_ant_queen
+
+        portraits = {
+            civilian = {
+                large = GFX_portrait_RFR_fire_ant_queen
+            }
+        }
+
+        country_leader = {
+            ideology = monarchy_type
+            traits = {}
+        }
+    }
+}

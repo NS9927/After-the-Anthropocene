@@ -7,3 +7,5 @@ set_politics = {
 set_popularities = {
 	republicanism = 100
 }
+
+recruit_character = TOE_Tipula_kamchatkensis

@@ -1,0 +1,16 @@
+characters = {
+    ARG_technocratic_group = {
+        name = ARG_technocratic_group
+
+        portraits = {
+            civilian = {
+                large = GFX_portrait_ARG_technocratic_group
+            }
+        }
+
+        country_leader = {
+            ideology = technocratic_type
+            traits = {}
+        }
+    }
+}

@@ -2,12 +2,17 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_BRF_Talbotia_naganum"
-		texturefile = "gfx/leaders/portrait_BRF_Talbotia_naganum.dds"
+		texturefile = "gfx/leaders/portrait_BRF_Talbotia_naganum.png"
 	}
 
 	spriteType = {
 		name = "GFX_portrait_CLA_worker_bee_4463"
-		texturefile = "gfx/leaders/portrait_CLA_worker_bee_4463.dds"
+		texturefile = "gfx/leaders/portrait_CLA_worker_bee_4463.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_FNA_Allomyrina_dichotoma"
+		texturefile = "gfx/leaders/portrait_FNA_Allomyrina_dichotoma.png"
 	}
 
 	spriteType = {
@@ -17,31 +22,32 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_HME_Vespa_crabro"
-		texturefile = "gfx/leaders/portrait_HME_Vespa_crabro.dds"
+		texturefile = "gfx/leaders/portrait_HME_Vespa_crabro.png"
 	}
 
 	spriteType = {
 		name = "GFX_portrait_MRF_Nemopteridae"
-		texturefile = "gfx/leaders/portrait_MRF_Nemopteridae.dds"
+		texturefile = "gfx/leaders/portrait_MRF_Nemopteridae.png"
 	}
 
 	spriteType = {
 		name = "GFX_portrait_NNA_Heteropteryx_dilatata"
-		texturefile = "gfx/leaders/portrait_NNA_Heteropteryx_dilatata.dds"
+		texturefile = "gfx/leaders/portrait_NNA_Heteropteryx_dilatata.png"
 	}
 
 	spriteType = {
 		name = "GFX_portrait_TOE_Tipula_kamchatkensis"
-		texturefile = "gfx/leaders/portrait_TOE_Tipula_kamchatkensis.dds"
+		texturefile = "gfx/leaders/portrait_TOE_Tipula_kamchatkensis.png"
 	}
 	
 	spriteType = {
-		name = "GFX_portrait_technocratic_group"
-		texturefile = "gfx/leaders/portrait_technocratic_group.dds"
+		name = "GFX_portrait_ARG_technocratic_group"
+		texturefile = "gfx/leaders/portrait_ARG_technocratic_group.png"
 	}
 
 	spriteType = {
-		name = "GFX_portrait_RIFA_queen"
-		texturefile = "gfx/leaders/portrait_RIFA_queen.dds"
+		name = "GFX_portrait_RFR_fire_ant_queen"
+		texturefile = "gfx/leaders/portrait_RFR_fire_ant_queen.png"
 	}
+
 }

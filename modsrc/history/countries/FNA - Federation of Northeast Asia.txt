@@ -8,3 +8,5 @@ set_politics = {
 set_popularities = {
 	labour_federalism = 100
 }
+
+recruit_character = FNA_Allomyrina_dichotoma

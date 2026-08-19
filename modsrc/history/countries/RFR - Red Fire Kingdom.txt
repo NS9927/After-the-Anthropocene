@@ -1,9 +1,11 @@
-capital = 279  # Temporarily set as capital to prevent errors
+﻿capital = 279  # Temporarily set as capital to prevent errors
 set_politics = {
-		ruling_party = republicanism
+		ruling_party = monarchy
 		elections_allowed = no
 }
 
 set_popularities = {
-	republicanism = 100
+	monarchy = 100
 }
+
+recruit_character = RFR_fire_ant_queen

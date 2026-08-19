@@ -1,9 +1,11 @@
-capital = 278  # Temporarily set as capital to prevent errors
+﻿capital = 278  # Temporarily set as capital to prevent errors
 set_politics = {
-		ruling_party = republicanism
+		ruling_party = technocratic
 		elections_allowed = no
 }
 
 set_popularities = {
-	republicanism = 100
+	technocratic = 100
 }
+
+recruit_character = ARG_technocratic_group
