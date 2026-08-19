@@ -34,11 +34,11 @@ state={
 			}
 		}
 		add_core_of = PUG
-		1939.1.1 = {
-			buildings = {
-				dockyard = 5
-			}
-		}
+		#1939.1.1 = {
+			#buildings = {
+				#dockyard = 5
+			#}
+		#}
 	}
 
 	provinces={

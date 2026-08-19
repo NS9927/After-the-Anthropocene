@@ -22,8 +22,8 @@ state={
 		}
 		add_core_of = HNT
 
-		1939.4.12 = {
-		}
+		#1939.4.12 = {
+		#}
 	}
 
 	local_supplies=0.0 

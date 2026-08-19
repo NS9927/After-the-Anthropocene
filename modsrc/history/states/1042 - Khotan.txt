@@ -31,16 +31,16 @@ state = {
 			1970 1 # Yecheng 
 		}
 
-		1938.10.25 = {
-			IF = {
-				limit = {
-					has_dlc = "No Compromise, No Surrender" 
-				}
-				remove_core_of = TXA
-			}	
-			owner = TXA
-			controller = TXA		
-		}
+		#1938.10.25 = {
+			#IF = {
+				#limit = {
+					#has_dlc = "No Compromise, No Surrender" 
+				#}
+				#remove_core_of = TXA
+			#}	
+			#owner = TXA
+			#controller = TXA		
+		#}
 	}
 
 	provinces = {

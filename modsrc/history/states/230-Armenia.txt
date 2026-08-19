@@ -18,13 +18,13 @@ state={
 
 		}
 		add_core_of = NPE
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 3
+		#1939.1.1 = {
+			#buildings = {
+				#industrial_complex = 3
 
-			}
+			#}
 
-		}
+		#}
 
 	}
 

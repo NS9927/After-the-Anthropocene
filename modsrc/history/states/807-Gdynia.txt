@@ -32,9 +32,9 @@ state = {
 			}
 		}
 		
-		1938.3.12 = {
-			add_claim_by = HME
-		}
+		# 1938.3.12 = {
+		# 	add_claim_by = HME
+		# }
 	}
 
 	provinces = {

@@ -16,11 +16,11 @@ state={
 			dockyard = 1
 		}
 		add_core_of = TOE
-		1939.1.1 = {
-			buildings = {
-				dockyard = 2
-			}
-		}
+		#1939.1.1 = {
+			#buildings = {
+				#dockyard = 2
+			#}
+		#}
 	}
 
 	provinces={

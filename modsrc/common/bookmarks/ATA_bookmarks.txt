@@ -51,11 +51,12 @@ bookmarks = {
 			#123 = { rain_light = yes }
 		}
 	}
+
 	bookmark = {
 		name = "the_dance_of_wild_wilderness"
 		desc = "the_dance_of_wild_wilderness_desc"
 		date = 1936.1.1.12
-		picture = "GFX_select_date_1936"
+		picture = "GFX_select_date_1939"
 		default_country = "BRF"
 		default = yes
 

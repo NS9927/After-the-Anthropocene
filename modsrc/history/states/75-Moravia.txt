@@ -25,10 +25,10 @@ state={
 		}
 		add_core_of = HME
 
-		1939.3.14 = {
-			owner = HME
-			controller = HME
-		}
+		#1939.3.14 = {
+			#owner = HME
+			#controller = HME
+		#}
 	}
 
 	provinces={

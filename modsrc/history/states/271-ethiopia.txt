@@ -38,10 +38,10 @@ state=
 		
 		add_core_of = UEA
 
-		1936.6.1 = {
-			owner = UEA
-			controller = UEA
-		}
+		# 1936.6.1 = {
+		# 	owner = UEA
+		# 	controller = UEA
+		# }
 	}
 
 	provinces = {

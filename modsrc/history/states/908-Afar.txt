@@ -13,11 +13,11 @@ state = {
 		}
 		owner = GNE
 		add_core_of = GNE
-		1936.6.1 = {
-			owner = GNE
-			controller = GNE
+		# 1936.6.1 = {
+		# 	owner = GNE
+		# 	controller = GNE
 
-		}
+		# }
 
 	}
 

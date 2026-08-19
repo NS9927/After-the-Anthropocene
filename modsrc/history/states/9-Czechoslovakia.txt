@@ -23,9 +23,9 @@ state={
 		}
 		add_core_of = HME
 
-		1939.3.14 = {
-			owner = HME
-		}
+		#1939.3.14 = {
+			#owner = HME
+		#}
 	}
 
 	provinces={

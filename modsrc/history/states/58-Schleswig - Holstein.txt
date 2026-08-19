@@ -27,14 +27,14 @@ state = {
 			}
 		}
 		
-		1939.1.1 = {
-			buildings = {
-				synthetic_refinery = 3
-				anti_air_building = 5
-				dockyard = 7
-				arms_factory = 3
-			}
-		}
+		#1939.1.1 = {
+			#buildings = {
+				#synthetic_refinery = 3
+				#anti_air_building = 5
+				#dockyard = 7
+				#arms_factory = 3
+			#}
+		#}
 	}
 
 	provinces = {

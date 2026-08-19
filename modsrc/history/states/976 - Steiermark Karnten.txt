@@ -32,9 +32,9 @@ state = {
 			11612 2
 		}
 
-		1938.3.12 = {
-			owner = HME
-		}
+		#1938.3.12 = {
+			#owner = HME
+		#}
 	}
 
 	provinces = {
