@@ -6,7 +6,8 @@ state={
 	
 	history=
 	{
-		owner = NYP
+		owner = ATT
+		add_core_of = ATT
 		buildings = {
 			infrastructure = 2
 			13002 = {

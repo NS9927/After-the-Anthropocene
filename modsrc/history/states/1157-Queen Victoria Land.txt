@@ -1,0 +1,31 @@
+
+state={
+	id=1157
+	name="STATE_1157"
+
+	history={
+		owner = AOU
+		buildings = {
+			infrastructure = 0
+
+		}
+		add_core_of = AOU
+		victory_points = {
+			13562 1
+		}
+		victory_points = {
+			13561 1
+		}
+		victory_points = {
+			13613 1
+		}		
+	}
+
+	provinces={
+		13558 13559 13560 13561 13562 13563 13564 13565 13587 13612 13613 13614 13615 13616 13617 13618 13619 13620 13621 13622 13623 13624 13625 13626 13627 13628 13629 13630 13631 13632
+	}
+	manpower=900
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

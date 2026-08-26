@@ -1,0 +1,19 @@
+
+state={
+	id=1171
+	name="STATE_1171"
+
+	history={
+		owner = ATT
+		add_core_of = ATT
+
+	}
+
+	provinces={
+	 13806 13807 13808 13811 13812 13834 13844 13887 13909 13913 13949 13950 13951 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

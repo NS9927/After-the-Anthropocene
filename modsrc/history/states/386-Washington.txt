@@ -6,7 +6,7 @@ state={
 	history={
 		owner = HGO
 		buildings = {
-			infrastructure = 6
+			infrastructure = 5
 			arms_factory = 1
 			industrial_complex = 1
 			dockyard = 1
@@ -19,10 +19,7 @@ state={
 		}
 		add_core_of = HGO
 		victory_points = {
-			1690 1 
-		}
-		victory_points = {
-			7315 10 
+			7315 10
 		}
 
 	}

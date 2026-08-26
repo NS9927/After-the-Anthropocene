@@ -10,10 +10,10 @@ state={
 			industrial_complex = 1
 			arms_factory = 1
 			air_base = 6
-			12211 = {
-				naval_base = 3
+			# 12211 = {
+			# 	naval_base = 3
 
-			}
+			# }
 
 		}
 		add_core_of = GYS

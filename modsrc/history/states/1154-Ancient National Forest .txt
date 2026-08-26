@@ -1,0 +1,20 @@
+state={
+	id=1154
+	name="STATE_1154"
+
+	history={
+		owner = SAL
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = SAL
+
+	}
+
+	provinces={
+		10707 13202 13203
+	}
+	manpower=22500
+	buildings_max_level_factor=1
+	state_category=rural
+}

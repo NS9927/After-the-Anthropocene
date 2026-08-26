@@ -1,0 +1,27 @@
+state= {
+	id=1152
+	name="STATE_1152"
+	manpower = 9350
+	resources={
+		oil = 13
+		coal = 4
+	}
+	state_category = large_island
+	
+	history= {
+		owner = EYG
+		add_core_of = EYG
+		victory_points = {
+			13588 1
+		}
+		buildings = {
+			infrastructure = 1
+			13588 ={
+				naval_base = 1
+			}
+		}
+	}
+	provinces =	{
+		13579 13588 13589 13590 13591 13592 13593 13594 13595 13596 13597 13598 13599 13600
+}
+}

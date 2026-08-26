@@ -6,7 +6,7 @@ state={
 	history={
 		owner = UGL
 		buildings = {
-			infrastructure = 6
+			infrastructure = 5
 			industrial_complex = 3
 
 		}

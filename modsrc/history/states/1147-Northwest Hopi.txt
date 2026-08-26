@@ -11,9 +11,9 @@ state={
 			industrial_complex = 2
 		}
 		add_core_of = FTA
-		victory_points = {
-			1809 3 
-		}
+		# victory_points = {
+		# 	1809 1 
+		# }
 
 	}
 	provinces={

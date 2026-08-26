@@ -16,9 +16,6 @@ state={
 
 		}
 		add_core_of = CMP
-		victory_points = {
-			1806 1 
-		}
 
 	}
 

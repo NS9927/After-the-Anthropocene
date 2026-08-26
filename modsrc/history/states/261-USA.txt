@@ -11,7 +11,7 @@ state={
 	history={
 		owner = UGL
 		buildings = {
-			infrastructure = 7
+			infrastructure = 5
 			arms_factory = 1
 
 

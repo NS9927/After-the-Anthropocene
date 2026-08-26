@@ -4,7 +4,7 @@ state={
 	history={
 		owner = HGO
 		buildings = {
-			infrastructure = 6
+		infrastructure = 5
 			arms_factory = 1
 
 
@@ -15,7 +15,7 @@ state={
 		#}
 	}
 	provinces={
-		515 1262 3706 6726 7718 10684 7787 
+		515 3706 6726 10684 7787 # 1262 7718 
 	}
 	manpower=3124523
 	buildings_max_level_factor=1.000

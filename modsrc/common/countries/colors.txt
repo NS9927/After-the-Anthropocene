@@ -1322,12 +1322,12 @@ SCT = {
 	color_ui = rgb { 255 224 20 } 
 }
 SMO = {
-	# color = rgb { 177 85 220 }
-	# color_ui = rgb { 197 105 240 }
+	color = rgb { 177 85 220 } #rgb(177 85 220)
+	color_ui = rgb { 197 105 240 } #rgb(197 105 240)
 	# color = rgb { 36  103  33 }
 	# color_ui = rgb { 36  103  33 }
-	color = rgb { 255  123  79 }
-	color_ui = rgb { 255  123  79 }
+	# color = rgb { 255  123  79 }
+	# color_ui = rgb { 255  123  79 }
 }
 PBS = {
 	# color = rgb { 20 20 20 }

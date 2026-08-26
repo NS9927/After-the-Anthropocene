@@ -9,7 +9,7 @@ state={
 	history={
 		owner = CNY
 		buildings = {
-			infrastructure = 8
+			infrastructure = 5
 			industrial_complex = 3
 			air_base = 10
 

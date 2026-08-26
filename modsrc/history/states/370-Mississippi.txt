@@ -19,7 +19,12 @@ state={
 
 		}
 		add_core_of = CMP
-
+		victory_points = {
+			7480 1 
+		}
+		victory_points = {
+			12735 1 
+		}
 	}
 
 	provinces={

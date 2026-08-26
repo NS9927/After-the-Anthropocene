@@ -105,3 +105,6 @@
  STATE_1149: "East kansas"  # fallback; STATE_815 absent from source
  STATE_1150: "大平原"  # fallback; STATE_817 absent from source
  STATE_1151: "西萨斯喀彻温"  # fallback; STATE_818 absent from source
+ STATE_1152: "冷岸群岛"
+ STATE_1153: "利特克群岛"
+ STATE_1154: "旧国家森林"

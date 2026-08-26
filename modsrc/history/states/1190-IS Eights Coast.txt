@@ -1,0 +1,20 @@
+
+state={
+	id=1190
+	name="STATE_1190"
+
+	history={
+		owner = ATT
+		add_core_of = ATT
+
+	}
+
+	provinces={
+		13746 13771 13772 13773
+	}
+	impassable = yes
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

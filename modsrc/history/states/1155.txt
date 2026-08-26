@@ -1,0 +1,22 @@
+
+state={
+	id=1155
+	name="STATE_1155"
+
+	history={
+		owner = AOU
+		add_core_of = AOU
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		2947 10721 13555 13556 13557 13609 13647 13650 13651 1712
+	}
+	manpower=3271
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

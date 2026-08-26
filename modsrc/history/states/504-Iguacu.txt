@@ -23,6 +23,7 @@ state = {
 
 	provinces = {
 		5200 8224 12951 
+		2181 8189 10959 
 	}
 	
 	buildings_max_level_factor = 1.000

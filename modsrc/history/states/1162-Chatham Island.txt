@@ -1,0 +1,23 @@
+
+state={
+	id=1162
+	name="STATE_1162"
+	manpower = 135
+	
+	state_category = tiny_island
+	
+	history={
+		owner = ARA
+		add_core_of = ARA
+		buildings = {
+			infrastructure = 1
+			13674 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces={
+		13674
+	}
+}

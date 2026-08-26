@@ -1,0 +1,23 @@
+
+state={
+	id=1156
+	name="STATE_1156"
+
+	history={
+		owner = AOU
+		buildings = {
+			infrastructure = 0
+
+		}
+		add_core_of = AOU
+
+	}
+
+	provinces={
+		3691 7813 13608 13610 13611 13566 
+	}
+	manpower=2400
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}
