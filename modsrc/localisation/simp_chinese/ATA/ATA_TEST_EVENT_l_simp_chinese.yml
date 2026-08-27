@@ -1,0 +1,5 @@
+﻿l_simp_chinese:
+ ATA_TEST.1: "超事件测试"
+ ATA_TEST.1.t: "超事件测试事件"
+ ATA_TEST.1.d: "触发一下测试用超事件，详细触发看事件选项代码块"
+ ATA_TEST.1.o: "触发测试超事件"

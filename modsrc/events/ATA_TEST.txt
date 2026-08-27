@@ -1,0 +1,16 @@
+add_namespace = ATA_TEST
+
+country_event = {
+    id = ATA_TEST.1
+    title = ATA_TEST.1.t
+    desc = ATA_TEST.1.d
+    option = {
+        name = ATA_TEST.1.o
+        root = {
+            set_variable = {
+                SEID = 0
+            }
+            open_super_event_window = yes
+        }
+    }
+}
