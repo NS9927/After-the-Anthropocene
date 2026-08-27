@@ -1,0 +1,155 @@
+guiTypes = {
+
+	containerWindowType = {
+
+		name = "EventWindow_News"
+		position = { x = 0 y = 0 }
+		size = { width = 635 height = 898 }
+		orientation = CENTER
+		origo = center
+		moveable = yes
+		clipping = no
+		show_sound = world_news_effect
+		hide_sound = menu_close_window
+
+		background = {
+			name = "transparent_bg"
+			spriteType = "GFX_ata_event_news_bg_transparent"
+		}
+
+        iconType = {
+            name = "newspapers_bg"
+		    position = { x = -185 y = -122 }
+			orientation = UPPER_LEFT
+		    spriteType = "GFX_ata_event_news_bg"
+            alwaystransparent = yes
+        }
+        
+        containerWindowType = {
+
+			name = "top_Window"
+			position = { x = 0 y = 0 }
+			size = { width = 635 height = 898 }
+			Orientation = UPPER_LEFT
+
+		    iconType = {
+		    	name ="event_picture"
+		    	spriteType = "GFX_news_event_001"
+		    	position = { x = -132 y = 147 }
+		    	Orientation = "CENTER_UP"
+		    	alwaystransparent = yes
+		    }
+
+			instantTextBoxType = {
+				name = "Title"
+				position = { x = -245 y = 361 }
+				orientation = CENTER_UP
+				font = "hoi_20b"
+				borderSize = { x = 0 y = 0 }
+				text = "Title text here!"
+				maxWidth = 490
+				maxHeight = 32
+				format = centre
+			}
+			
+			buttonType = {
+				name = "btn_minimize"
+				position = {x=10 y=10}
+				spriteType = "GFX_event_button_minimize"
+				clicksound = click_default
+			}
+
+        }
+
+		containerWindowType = {
+
+			name = "midsection"
+			position = { x = 0 y = 0 }
+			size = { width = 635 height = 898 }
+			Orientation = UPPER_LEFT
+		
+			instantTextBoxType = {
+				name = "Description"
+				position = { x = -231 y = 400 }
+				orientation = CENTER_UP
+				font = "hoi_18"
+				borderSize = { x = 0 y = 0 }
+				text = "Long text here!"
+				maxWidth = 462
+				maxHeight = 230
+				format = left
+			}
+
+		}	
+
+        iconType = {
+            name = "overlay_bg"
+		    position = { x = 0 y = 0 }
+			orientation = UPPER_LEFT
+		    spriteType = "GFX_ata_event_news_bg_overlay"
+            alwaystransparent = yes
+        }
+
+		containerWindowType = {
+			name = "bottom_Window"
+			position = { x = 0 y = 0 }
+			size = { width = 635 height = 898 }
+			Orientation = UPPER_LEFT
+
+			gridBoxType = {
+				name = "options_grid"
+				position = { x = -92 y = -91 }
+			 	orientation = CENTER_UP
+				size = { width = 184 height = 40 }
+				slotsize = { width = 184 height = 40 }
+				max_slots_horizontal = 1
+				format = "UPPER_LEFT"
+			}
+		}
+
+        # buttonType = {
+		# 	name = "event_option_btn"
+		# 	position = { x = -92 y = 807 }
+		# 	orientation = CENTER_UP
+		# 	spriteType ="GFX_ata_event_news_btn"
+		# 	clicksound = click_default
+		# }
+
+		# instantTextBoxType = {
+		# 	name = "Button"
+		# 	position = { x = -92 y = 817 }
+		# 	orientation = CENTER_UP
+		# 	font = "hoi_18"
+		# 	borderSize = { x = 0 y = 0 }
+		# 	text = "ata_event_news_btn_1"
+		# 	maxWidth = 184
+		# 	maxHeight = 40
+		# 	format = centre
+        #     alwaystransparent = yes
+		# }
+
+	}
+	
+	containerWindowType = {
+		name = "event_option_entry"
+		size = { width = 184 height = 40 }
+		clipping = no
+		
+		background = {
+			name = "event_option_background"
+			spriteType ="GFX_ata_event_news_btn"
+		}
+		
+		instantTextBoxType = {
+			name = "Name"
+			position = { x = 4 y = 2 }
+		 	orientation = UPPER_LEFT
+			font = "hoi_18"
+		 	maxWidth = 174
+		 	maxHeight = 30
+			format = center
+			vertical_alignment = center
+			alwaystransparent = yes
+		}
+	}
+}

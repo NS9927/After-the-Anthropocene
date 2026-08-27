@@ -1,0 +1,518 @@
+##################
+# NEWS EVENTS 
+##################
+
+add_namespace = ATANews
+
+news_event = {		# 西伯利亚独立
+	id = ATANews.1
+	title = ATANews.1.t
+	desc = ATANews.1.d
+	picture = GFX_ata_news_event_ATANews_1
+
+	is_triggered_only = yes
+
+	major = yes
+
+	option = {
+		name = ATANews.1.a
+
+		ai_chance = {
+			base = 100
+		}
+	}
+}
+
+news_event = {		# 欧亚再统一（沙皇国路线）
+	id = ATANews.2
+	title = ATANews.2.t
+	desc = ATANews.2.d
+	# picture = GFX_ata_news_event_ATANews_2
+
+	is_triggered_only = yes
+
+	major = yes
+
+	option = {
+		name = ATANews.2.a
+
+		ai_chance = {
+			base = 100
+		}
+	}
+}
+
+news_event = {		# 欧亚再统一（美学主义路线）
+	id = ATANews.3
+	title = ATANews.3.t
+	desc = ATANews.3.d
+	# picture = GFX_ata_news_event_ATANews_3
+
+	is_triggered_only = yes
+
+	major = yes
+
+	option = {
+		name = ATANews.3.a
+
+		ai_chance = {
+			base = 100
+		}
+	}
+}
+
+news_event = {		# 欧亚再统一（无政府主义路线）
+	id = ATANews.4
+	title = ATANews.4.t
+	desc = ATANews.4.d
+	# picture = GFX_ata_news_event_ATANews_4
+
+	is_triggered_only = yes
+
+	major = yes
+
+	option = {
+		name = ATANews.4.a
+
+		ai_chance = {
+			base = 100
+		}
+	}
+}
+
+news_event = {		# 欧亚再统一（解放异教主义路线）
+	id = ATANews.5
+	title = ATANews.5.t
+	desc = ATANews.5.d
+	# picture = GFX_ata_news_event_ATANews_5
+
+	is_triggered_only = yes
+
+	major = yes
+
+	option = {
+		name = ATANews.5.a
+
+		ai_chance = {
+			base = 100
+		}
+	}
+}
+
+news_event = {		# 婆罗多革命
+	id = ATANews.6
+	title = ATANews.6.t
+	desc = ATANews.6.d
+	# picture = GFX_ata_news_event_ATANews_6
+
+	is_triggered_only = yes
+
+	major = yes
+
+	option = {
+		name = ATANews.6.a
+
+		ai_chance = {
+			base = 100
+		}
+	}
+}
+
+news_event = {		# 幕府新将军就任
+	id = ATANews.7
+	title = ATANews.7.t
+	desc = ATANews.7.d
+	# picture = GFX_ata_news_event_ATANews_7
+
+	is_triggered_only = yes
+
+	major = yes
+
+	option = {
+		name = ATANews.7.a
+
+		ai_chance = {
+			base = 100
+		}
+	}
+}
+
+news_event = {		# 长春派赢得东北亚联邦全国大选
+	id = ATANews.8
+	title = ATANews.8.t
+	desc = ATANews.8.d
+	# picture = GFX_ata_news_event_ATANews_8
+
+	is_triggered_only = yes
+
+	major = yes
+
+	option = {
+		name = ATANews.8.a
+
+		ai_chance = {
+			base = 100
+		}
+	}
+}
+
+news_event = {		# 亚细亚学院派联盟宣告成立
+	id = ATANews.9
+	title = ATANews.9.t
+	desc = ATANews.9.d
+	# picture = GFX_ata_news_event_ATANews_9
+
+	is_triggered_only = yes
+
+	major = yes
+
+	option = {
+		name = ATANews.9.a
+
+		ai_chance = {
+			base = 100
+		}
+	}
+}
+
+news_event = {		# 东北亚联邦对诸夏宣战
+	id = ATANews.10
+	title = ATANews.10.t
+	desc = ATANews.10.d
+	# picture = GFX_ata_news_event_ATANews_10
+
+	is_triggered_only = yes
+
+	major = yes
+
+	option = {
+		name = ATANews.10.a
+
+		ai_chance = {
+			base = 100
+		}
+	}
+}
+
+news_event = {		# 亚洲战争全面爆发
+	id = ATANews.11
+	title = ATANews.11.t
+	desc = ATANews.11.d
+	# picture = GFX_ata_news_event_ATANews_11
+
+	is_triggered_only = yes
+
+	major = yes
+
+	option = {
+		name = ATANews.11.a
+
+		ai_chance = {
+			base = 100
+		}
+	}
+}
+
+news_event = {		# 欧洲战争爆发
+	id = ATANews.12
+	title = ATANews.12.t
+	desc = ATANews.12.d
+	# picture = GFX_ata_news_event_ATANews_12
+
+	is_triggered_only = yes
+
+	major = yes
+
+	option = {
+		name = ATANews.12.a
+
+		ai_chance = {
+			base = 100
+		}
+	}
+}
+
+news_event = {		# 西西里起义
+	id = ATANews.13
+	title = ATANews.13.t
+	desc = ATANews.13.d
+	# picture = GFX_ata_news_event_ATANews_13
+
+	is_triggered_only = yes
+
+	major = yes
+
+	option = {
+		name = ATANews.13.a
+
+		ai_chance = {
+			base = 100
+		}
+	}
+}
+
+news_event = {		# 西西里起义者推翻地中海联邦
+	id = ATANews.14
+	title = ATANews.14.t
+	desc = ATANews.14.d
+	# picture = GFX_ata_news_event_ATANews_14
+
+	is_triggered_only = yes
+
+	major = yes
+
+	option = {
+		name = ATANews.14.a
+
+		ai_chance = {
+			base = 100
+		}
+	}
+}
+
+news_event = {		# 地中海联邦成功镇压叛军
+	id = ATANews.15
+	title = ATANews.15.t
+	desc = ATANews.15.d
+	# picture = GFX_ata_news_event_ATANews_15
+
+	is_triggered_only = yes
+
+	major = yes
+
+	option = {
+		name = ATANews.15.a
+
+		ai_chance = {
+			base = 100
+		}
+	}
+}
+
+news_event = {		# 塔布里尼亚宣告独立
+	id = ATANews.16
+	title = ATANews.16.t
+	desc = ATANews.16.d
+	# picture = GFX_ata_news_event_ATANews_16
+
+	is_triggered_only = yes
+
+	major = yes
+
+	option = {
+		name = ATANews.16.a
+
+		ai_chance = {
+			base = 100
+		}
+	}
+}
+
+news_event = {		# 唐宁革命爆发
+	id = ATANews.17
+	title = ATANews.17.t
+	desc = ATANews.17.d
+	# picture = GFX_ata_news_event_ATANews_17
+
+	is_triggered_only = yes
+
+	major = yes
+
+	option = {
+		name = ATANews.17.a
+
+		ai_chance = {
+			base = 100
+		}
+	}
+}
+
+news_event = {		# 海角蜜蜂民族解放军完全控制好望角
+	id = ATANews.18
+	title = ATANews.18.t
+	desc = ATANews.18.d
+	# picture = GFX_ata_news_event_ATANews_18
+
+	is_triggered_only = yes
+
+	major = yes
+
+	option = {
+		name = ATANews.18.a
+
+		ai_chance = {
+			base = 100
+		}
+	}
+}
+
+news_event = {		# 非洲战争爆发
+	id = ATANews.19
+	title = ATANews.19.t
+	desc = ATANews.19.d
+	# picture = GFX_ata_news_event_ATANews_19
+
+	is_triggered_only = yes
+
+	major = yes
+
+	option = {
+		name = ATANews.19.a
+
+		ai_chance = {
+			base = 100
+		}
+	}
+}
+
+news_event = {		# 涅槃主义者发动军事政变
+	id = ATANews.20
+	title = ATANews.20.t
+	desc = ATANews.20.d
+	# picture = GFX_ata_news_event_ATANews_20
+
+	is_triggered_only = yes
+
+	major = yes
+
+	option = {
+		name = ATANews.20.a
+
+		ai_chance = {
+			base = 100
+		}
+	}
+}
+
+news_event = {		# 美洲战争爆发
+	id = ATANews.21
+	title = ATANews.21.t
+	desc = ATANews.21.d
+	# picture = GFX_ata_news_event_ATANews_21
+
+	is_triggered_only = yes
+
+	major = yes
+
+	option = {
+		name = ATANews.21.a
+
+		ai_chance = {
+			base = 100
+		}
+	}
+}
+
+news_event = {		# 新美利坚宣告建立
+	id = ATANews.22
+	title = ATANews.22.t
+	desc = ATANews.22.d
+	# picture = GFX_ata_news_event_ATANews_22
+
+	is_triggered_only = yes
+
+	major = yes
+
+	option = {
+		name = ATANews.22.a
+
+		ai_chance = {
+			base = 100
+		}
+	}
+}
+
+news_event = {		# 第三次世界大战爆发
+	id = ATANews.23
+	title = ATANews.23.t
+	desc = ATANews.23.d
+	# picture = GFX_ata_news_event_ATANews_23
+
+	is_triggered_only = yes
+
+	major = yes
+
+	option = {
+		name = ATANews.23.a
+
+		ai_chance = {
+			base = 100
+		}
+	}
+}
+
+news_event = {		# 南极科考站陷入混乱
+	id = ATANews.24
+	title = ATANews.24.t
+	desc = ATANews.24.d
+	# picture = GFX_ata_news_event_ATANews_24
+
+	is_triggered_only = yes
+
+	major = yes
+
+	option = {
+		name = ATANews.24.a
+
+		ai_chance = {
+			base = 100
+		}
+	}
+}
+
+news_event = {		# 阿根廷蚁民族国陷入无线电静默
+	id = ATANews.25
+	title = ATANews.25.t
+	desc = ATANews.25.d
+	# picture = GFX_ata_news_event_ATANews_25
+
+	is_triggered_only = yes
+
+	major = yes
+
+	option = {
+		name = ATANews.25.a
+
+		ai_chance = {
+			base = 100
+		}
+	}
+}
+
+news_event = {		# 抵抗军胜利公告（概率触发）
+	id = ATANews.26
+	title = ATANews.26.t
+	desc = ATANews.26.d
+	# picture = GFX_ata_news_event_ATANews_26
+
+	is_triggered_only = yes
+
+	major = yes
+
+	option = {
+		name = ATANews.26.a
+
+		ai_chance = {
+			base = 100
+		}
+	}
+}
+
+news_event = {		# 大哥伦比亚革命共和国建立（概率触发中的概率触发）
+	id = ATANews.27
+	title = ATANews.27.t
+	desc = ATANews.27.d
+	# picture = GFX_ata_news_event_ATANews_27
+
+	is_triggered_only = yes
+
+	major = yes
+
+	option = {
+		name = ATANews.27.a
+
+		ai_chance = {
+			base = 100
+		}
+	}
+}

@@ -1,0 +1,8 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_ata_news_event_ATANews_1"
+		texturefile = "gfx/ata/event_pictures/news_event/ata_news_event_ATANews_1.png"
+	}
+
+}

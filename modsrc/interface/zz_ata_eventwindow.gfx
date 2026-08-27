@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_ata_event_news_bg_transparent"
+		texturefile = "gfx/ata/interface/ata_event_news_bg_transparent.png"
+	}
+
+	spriteType = {
+		name = "GFX_ata_event_news_bg"
+		texturefile = "gfx/ata/interface/ata_event_news_bg.png"
+	}
+
+	spriteType = {
+		name = "GFX_ata_event_news_bg_overlay"
+		texturefile = "gfx/ata/interface/ata_event_news_bg_overlay.png"
+	}
+
+	spriteType = {
+		name = "GFX_ata_event_news_btn"
+		texturefile = "gfx/ata/interface/ata_event_news_btn.png"
+	}
+
+}
