@@ -1,0 +1,21 @@
+# 显示超事件窗口
+open_super_event_window = {
+    every_country = {
+        if = {
+            limit = {
+                is_ai = no
+            }
+            set_country_flag = has_super_event_window
+        }
+    }
+}
+# 关闭超事件窗口
+close_super_event_window = {
+    clr_country_flag = has_super_event_window
+    # 忘了country_flag这玩意啥情况了（（（
+    # 联机多人显示超事件有问题就试试下面的👇
+
+    #root = {
+    #clr_country_flag = has_super_event_window
+    #}
+}

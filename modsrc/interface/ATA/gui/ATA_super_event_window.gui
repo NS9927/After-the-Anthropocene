@@ -1,0 +1,67 @@
+guiTypes = {
+    containerWindowType = {
+        name = ATA_super_event_window
+        moveable = yes
+        origo = center
+        size = {
+            max = {
+                width = 100%
+                height = 100%
+            }
+        }
+        # 超事件图片
+        iconType = {
+            name = picture
+            origo = center
+            position = {
+                x = 428
+                y = 276
+            }
+            spriteType = GFX_super_event_pic.0
+        }
+        # 背景（？）
+        iconType = {
+            name = background
+            origo = center
+            position = {
+                x = 428
+                y = 355
+            }
+            spriteType = GFX_super_event_background
+        }
+        # 按钮
+        buttonType = {
+            name = button
+            origo = center_down
+            position = {
+                x = 428
+                y = 768
+            }
+            spriteType = GFX_super_event_button
+            buttonText = SE_BUTTON_TT
+            clicksound = click_ok
+        }
+        # 标题
+        instantTextBoxType = {
+            name = title
+            origo = center_down
+            position = {
+                x = 428
+                y = 560
+            }
+            text = SE_TITLE
+            alwaystransparent = yes
+        }
+        # 内容（那两行字）
+        instantTextBoxType = {
+            name = desc
+            origo = center_down
+            position = {
+                x = 428
+                y = 620
+            }
+            text = SE_DESC
+            alwaystransparent = yes
+        }
+    }
+}

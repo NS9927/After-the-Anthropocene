@@ -1,0 +1,20 @@
+super_event_title = {
+    name = super_event_title
+    text = {
+        localization_key = super_event_title.[?SEID]
+    }
+}
+
+super_event_desc = {
+    name = super_event_desc
+    text = {
+        localization_key = super_event_desc.[?SEID]
+    }
+}
+
+super_event_button_tt = {
+    name = super_event_button_tt
+    text = {
+        localization_key = super_event_button_tt.[?SEID]
+    }
+}

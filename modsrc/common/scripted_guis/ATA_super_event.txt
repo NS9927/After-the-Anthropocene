@@ -1,0 +1,19 @@
+scripted_gui = {
+    superEvent = {
+        window_name = ATA_super_event_window
+        context_type = player_context
+        visible = {
+            has_country_flag = has_super_event_window
+        }
+        effects = {
+            button_click = {
+                close_super_event_window = yes
+            }
+        }
+        properties = {
+            superEventPicture = {
+                image = "GFX_superEventPicture_[?SEID]"
+            }
+        }
+    }
+}

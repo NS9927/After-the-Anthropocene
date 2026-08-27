@@ -1,0 +1,9 @@
+﻿l_simp_chinese:
+ # basic
+ SE_TITLE: "[super_event_title]"
+ SE_DESC: "[super_event_desc]"
+ SE_BUTTON_TT: "[super_event_button_tt]"
+ # test
+ super_event_title.0: "test title"
+ super_event_desc.0: "test desc"
+ super_event_button_tt.0: "test button tooltip"

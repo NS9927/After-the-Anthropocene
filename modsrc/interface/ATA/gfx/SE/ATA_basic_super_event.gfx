@@ -1,0 +1,14 @@
+spriteTypes = {
+    spriteType = {
+        name = GFX_super_event_background
+        textureFile = gfx/ATA/interface/SE/ata_SE_background.png
+    }
+    spriteType = {
+        name = GFX_super_event_button
+        textureFile = gfx/ATA/interface/SE/ata_SE_button.png
+    }
+    spriteType = {
+        name = GFX_super_event_pic.0
+        textureFile = gfx/ATA/interface/SE/exp_pic.png
+    }
+}
