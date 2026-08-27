@@ -12,7 +12,7 @@ scripted_gui = {
         }
         properties = {
             superEventPicture = {
-                image = "GFX_superEventPicture_[?SEID]"
+                image = "GFX_super_event_pic.[?SEID]"
             }
         }
     }
