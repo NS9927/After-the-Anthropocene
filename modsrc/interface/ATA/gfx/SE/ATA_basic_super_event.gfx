@@ -2,7 +2,7 @@ spriteTypes = {
     # 滚木背景
     corneredTileSpriteType = {
         name = "GFX_super_event_background"
-        texturefile = gfx/ATA/interface/SE/ata_SE_background.png
+        texturefile = gfx/ata/interface/SE/ata_SE_background.png
         tilingCenter = yes
         size = {
             x = 100%
@@ -15,18 +15,18 @@ spriteTypes = {
     }
     spriteType = {
         name = GFX_super_event_background1
-        textureFile = gfx/ATA/interface/SE/ata_SE_background1.png
+        textureFile = gfx/ata/interface/SE/ata_SE_background1.png
     }
     spriteType = {
         name = GFX_super_event_background2
-        textureFile = gfx/ATA/interface/SE/ata_SE_background2.png
+        textureFile = gfx/ata/interface/SE/ata_SE_background2.png
     }
     spriteType = {
         name = GFX_super_event_button
-        textureFile = gfx/ATA/interface/SE/ata_SE_button.png
+        textureFile = gfx/ata/interface/SE/ata_SE_button.png
     }
     spriteType = {
         name = GFX_super_event_pic.0
-        textureFile = gfx/ATA/interface/SE/exp_pic.png
+        textureFile = gfx/ata/interface/SE/exp_pic.png
     }
 }
