@@ -2,12 +2,13 @@ guiTypes = {
     containerWindowType = {
         name = ATA_super_event_window
         moveable = yes
+		clipping = no
         origo = center
         orientation = center
         size = {
             min = {
-                width = 952
-                height = 860
+                width = 640
+                height = 720
             }
         }
         # 滚木背景
@@ -21,8 +22,8 @@ guiTypes = {
             alwaystransparent = yes
             spriteType = GFX_super_event_pic.0
             position = {
-                x = 200
-                y = 120
+                x = 40
+                y = 40
             }
         }
         # 遮罩覆盖
@@ -31,6 +32,10 @@ guiTypes = {
             name = background1
             alwaystransparent = yes
             spriteType = GFX_super_event_background1
+            position = {
+                x = -160
+                y = -80
+            }
         }
         # 边框
         iconType = {
@@ -38,8 +43,8 @@ guiTypes = {
             alwaystransparent = yes
             spriteType = GFX_super_event_background2
             position = {
-                x = 120
-                y = 80
+                x = -40
+                y = 0
             }
         }
         # 按钮
@@ -50,8 +55,8 @@ guiTypes = {
             font = hoi_18mbs
             clicksound = click_ok
             position = {
-                x = 350
-                y = 760
+                x = 190
+                y = 680
             }
         }
         # 标题
@@ -62,8 +67,8 @@ guiTypes = {
             alwaystransparent = yes
             font = hoi_24header
             position = {
-                x = 390
-                y = 580
+                x = 230
+                y = 500
             }
         }
         # 内容（那两行字）
@@ -74,8 +79,8 @@ guiTypes = {
             alwaystransparent = yes
             font = hoi_18mbs
             position = {
-                x = 390
-                y = 630
+                x = 230
+                y = 550
             }
         }
     }
