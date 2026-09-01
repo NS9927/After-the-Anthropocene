@@ -8,42 +8,53 @@ bookmarks = {
 		default = yes
 		
 		"BRF"={
-			history = "OTHER_GATHERING_STORM_DESC"
+			history = "BRF_CLASSICS_AND_REBIRTH_DESC"
 			ideology = oligarchy
+			ideas = {
+				BRF_automation_shock
+				BRF_a_divided_society
+				BRF_secret_assembly
+			}
 		}
 		
 		"NYP"={
-			history = "OTHER_GATHERING_STORM_DESC"
+			minor = yes
+			history = "OTHER_BLITZKRIEG_DESC"
 			ideology = oligarchy
 		}
 		
 		"TXA"={
-			history = "OTHER_GATHERING_STORM_DESC"
+			minor = yes
+			history = "OTHER_BLITZKRIEG_DESC"
 			ideology = monarchy
 		}
 		
 		"FNA"={
-			history = "OTHER_GATHERING_STORM_DESC"
+			minor = yes
+			history = "OTHER_BLITZKRIEG_DESC"
 			ideology = labour_federalism
 		}
 		
 		"HIS"={
-			history = "OTHER_GATHERING_STORM_DESC"
+			minor = yes
+			history = "OTHER_BLITZKRIEG_DESC"
 			ideology = revolutionary_bushido
 		}
 		
 		"TME"={
-			history = "OTHER_GATHERING_STORM_DESC"
+			minor = yes
+			history = "OTHER_BLITZKRIEG_DESC"
 			ideology = monarchy
 		}
 		
 		"TOE"={
-			history = "OTHER_GATHERING_STORM_DESC"
+			minor = yes
+			history = "OTHER_BLITZKRIEG_DESC"
 			ideology = oligarchy
 		}
 
 		"---"={
-			history = "OTHER_GATHERING_STORM_DESC"
+			history = "OTHER_BLITZKRIEG_DESC"
 		}
 
 		effect = {
@@ -58,7 +69,6 @@ bookmarks = {
 		date = 1936.1.1.12
 		picture = "GFX_select_date_1939"
 		default_country = "BRF"
-		default = yes
 
 		"BRF"={
 			history = "OTHER_GATHERING_STORM_DESC"
@@ -66,31 +76,7 @@ bookmarks = {
 		}
 
 		"NYP"={
-			history = "OTHER_GATHERING_STORM_DESC"
-			ideology = oligarchy
-		}
-
-		"TXA"={
-			history = "OTHER_GATHERING_STORM_DESC"
-			ideology = monarchy
-		}
-
-		"FNA"={
-			history = "OTHER_GATHERING_STORM_DESC"
-			ideology = labour_federalism
-		}
-
-		"HIS"={
-			history = "OTHER_GATHERING_STORM_DESC"
-			ideology = revolutionary_bushido
-		}
-
-		"TME"={
-			history = "OTHER_GATHERING_STORM_DESC"
-			ideology = monarchy
-		}
-
-		"TOE"={
+			minor = yes
 			history = "OTHER_GATHERING_STORM_DESC"
 			ideology = oligarchy
 		}

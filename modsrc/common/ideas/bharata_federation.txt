@@ -1,7 +1,7 @@
 ideas = {
 	country = {
 
-		BRF_automation_shock = {
+		BRF_automation_shock = {  # 自动化冲击
 
 			allowed = {
 				always = yes
@@ -19,9 +19,11 @@ ideas = {
 
 			modifier = {
 				stability_weekly = -0.005
+				production_speed_buildings_factor = -0.25
 			}
 		}
-		BRF_a_divided_society = {
+
+		BRF_a_divided_society = {  # 割裂的社会
 
 			allowed = {
 				always = yes
@@ -41,7 +43,8 @@ ideas = {
 				stability_weekly = -0.005
 			}
 		}
-		BRF_secret_assembly = {
+
+		BRF_secret_assembly = {  # 秘密集结
 
 			allowed = {
 				always = yes
@@ -58,8 +61,73 @@ ideas = {
 			picture = GFX_idea_BRF_secret_assembly
 
 			modifier = {
-				anarchism_drift = 0.0012
+				anarchism_drift = 0.16
 			}
-	}
+		}
+
+		BRF_wisdom_of_brahman = {  # 婆罗门的智慧
+
+			allowed = {
+				always = yes
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			available = {
+				country_exists = BRF
+			}
+
+			picture = generic_exploit_mines # TODO
+
+			modifier = {
+				research_speed_factor = 0.30
+			}
+		}
+
+		BRF_shadow_of_himalayas = {  # 喜马拉雅山脉的阴影
+
+			allowed = {
+				always = yes
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			available = {
+				country_exists = BRF
+			}
+
+			picture = GFX_idea_BRF_shadow_of_himalayas
+
+			modifier = {
+				war_support_factor = 0.50
+			}
+		}
+
+
+		BRF_national_emergency = {  # 全国紧张状态
+
+			allowed = {
+				always = yes
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			available = {
+				country_exists = BRF
+			}
+
+			picture = generic_exploit_mines # TODO
+
+			modifier = {
+				stability_weekly = -0.005
+			}
+		}
+
 	}
 }

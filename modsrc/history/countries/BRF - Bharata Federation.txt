@@ -4,6 +4,8 @@ add_ideas = {
 	BRF_automation_shock
 	BRF_a_divided_society
 	BRF_secret_assembly
+	BRF_wisdom_of_brahman
+	BRF_shadow_of_himalayas
 }
 
 set_politics = {
