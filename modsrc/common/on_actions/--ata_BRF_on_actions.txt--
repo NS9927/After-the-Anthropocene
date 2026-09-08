@@ -1,0 +1,16 @@
+# on_actions = {
+
+#     on_startup = {
+#         effect = {
+#             BRF = {
+
+#                 country_event = {
+#                     id = brf.1
+#                     days = 7
+#                 }
+
+#             }
+#         }
+#     }
+
+# }

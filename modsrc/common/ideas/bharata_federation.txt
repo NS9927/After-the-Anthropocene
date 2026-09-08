@@ -79,7 +79,7 @@ ideas = {
 				country_exists = BRF
 			}
 
-			picture = generic_exploit_mines # TODO
+			picture = generic_research_bonus
 
 			modifier = {
 				research_speed_factor = 0.30
@@ -122,7 +122,7 @@ ideas = {
 				country_exists = BRF
 			}
 
-			picture = generic_exploit_mines # TODO
+			picture = GFX_idea_BRF_national_emergency
 
 			modifier = {
 				stability_weekly = -0.005

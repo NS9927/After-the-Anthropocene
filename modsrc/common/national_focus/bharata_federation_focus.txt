@@ -1,0 +1,84 @@
+focus_tree = {
+	id = brf_focus
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = BRF
+		}
+		modifier = {
+			add = 10
+			original_tag = BRF
+		}
+	}
+	continuous_focus_position = { x = 50 y = 1600 }
+	default = no
+
+
+	focus = {
+		id = BRF_responding_to_the_crisis
+		icon = GFX_focus_RAJ_the_other_solution
+		x = 3
+		y = 0
+		cost = 2
+		
+		available_if_capitulated = yes
+
+		completion_reward = {
+		}
+	}
+
+	focus = {
+		id = BRF_appease_the_masses
+		icon = GFX_focus_RAJ_enrollment_of_dali_children
+		prerequisite = { focus = BRF_responding_to_the_crisis }
+
+		relative_position_id = BRF_responding_to_the_crisis
+		x = 0
+		y = 1
+		cost = 2
+		
+		available_if_capitulated = yes
+
+		completion_reward = {
+		}
+	}
+
+	focus = {
+		id = BRF_carnival
+		icon = GFX_focus_JAP_an_integrated_union
+		prerequisite = { focus = BRF_appease_the_masses }
+
+		relative_position_id = BRF_appease_the_masses
+		x = 0
+		y = 1
+		cost = 2
+		
+		available_if_capitulated = yes
+
+		completion_reward = {
+			country_event = brf.4
+		}
+	}
+
+	focus = {
+		id = BRF_emergency_investigation
+		icon = GFX_focus_generic_secret_service_agency
+		prerequisite = { focus = BRF_carnival }
+
+		relative_position_id = BRF_carnival
+		x = 0
+		y = 1
+		cost = 2
+		
+		available_if_capitulated = yes
+
+    	allow_branch = {
+    	    has_country_flag = ata_dancer_murdered
+    	}
+
+		completion_reward = {
+			add_ideas = BRF_national_emergency
+		}
+	}
+}

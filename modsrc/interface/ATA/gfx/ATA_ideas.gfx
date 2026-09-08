@@ -21,4 +21,9 @@ spriteTypes = {
 		texturefile = "gfx/ata/ideas/idea_BRF_shadow_of_himalayas.png"
 	}
 
+	spriteType = {
+		name = "GFX_idea_BRF_national_emergency"
+		texturefile = "gfx/ata/ideas/idea_BRF_national_emergency.png"
+	}
+
 }

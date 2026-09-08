@@ -1,0 +1,341 @@
+add_namespace = brf
+
+# 婆罗多的清晨
+country_event = {
+	id = brf.1
+	title = brf.1.t
+	desc = brf.1.d
+	# picture = 
+
+	is_triggered_only = yes
+	
+	option = { # 一边这么想着，他开始寻找着垃圾和尸体
+		name = brf.1.a
+	}
+}
+
+# 践踏
+country_event = {
+	id = brf.2
+	title = brf.2.t
+	desc = brf.2.d
+	# picture = 
+
+	is_triggered_only = yes
+	
+	option = { # 本该如此
+		name = brf.2.a
+	}
+}
+
+# 失业潮
+country_event = {
+	id = brf.3
+	title = brf.3.t
+	desc = brf.3.d
+	# picture = 
+
+	is_triggered_only = yes
+	
+	option = { # 为什么呢
+		name = brf.3.a
+	}
+}
+
+# 预备庆典
+country_event = {
+	id = brf.4
+	title = brf.4.t
+	desc = brf.4.d
+	# picture = 
+
+	is_triggered_only = yes
+
+	option = { # 那等待自己的是什么自然显而易见
+		name = brf.4.a
+		hidden_effect = {
+			country_event = { id = brf.5 days = 1 } # 并不愉快的佳节庆典
+		}
+	}
+}
+
+# 并不愉快的佳节庆典
+country_event = {
+	id = brf.5
+	title = brf.5.t
+	desc = brf.5.d
+	# picture = 
+
+	is_triggered_only = yes
+	
+	immediate = {
+		hidden_effect = {
+        	set_country_flag = ata_dancer_murdered
+        	mark_focus_tree_layout_dirty = yes
+		}
+	}
+	
+	option = { # 因为冰冷的子弹已经穿透了她的头颅
+		name = brf.5.a
+	}
+}
+
+# 汇报：婆罗多民众同盟
+country_event = {
+	id = brf.6
+	title = brf.6.t
+	desc = brf.6.d
+	# picture = 
+
+	is_triggered_only = yes
+	
+	option = { # ……以及祈祷事态不会继续恶化
+		name = brf.6.a
+	}
+}
+
+# 相遇（上）
+country_event = {
+	id = brf.7
+	title = brf.7.t
+	desc = brf.7.d
+	# picture = 
+
+	is_triggered_only = yes
+	
+	option = { # 如果早会是这样，我们为什么会至如此境地
+		name = brf.7.a
+		hidden_effect = {
+			country_event = { id = brf.8 days = 1 } # 相遇（中）
+		}
+	}
+}
+
+# 相遇（中）
+country_event = {
+	id = brf.8
+	title = brf.8.t
+	desc = brf.8.d
+	# picture = 
+
+	is_triggered_only = yes
+	
+	option = { # 你会很快理解这个问题的
+		name = brf.8.a
+		hidden_effect = {
+			country_event = { id = brf.9 days = 1 } # 相遇（下）
+		}
+	}
+}
+
+# 相遇（下）
+country_event = {
+	id = brf.9
+	title = brf.9.t
+	desc = brf.9.d
+	# picture = 
+
+	is_triggered_only = yes
+	
+	option = { # 赶紧来吧！
+		name = brf.9.a
+	}
+}
+
+# 被劫持的频段广播
+country_event = {
+	id = brf.10
+	title = brf.10.t
+	desc = brf.10.d
+	# picture = 
+
+	is_triggered_only = yes
+	
+	option = { # 而在他的内心深处，某些东西似乎也在悄然萌发
+		name = brf.10.a
+	}
+}
+
+# 汇报：广播劫持事件
+country_event = {
+	id = brf.11
+	title = brf.11.t
+	desc = brf.11.d
+	# picture = 
+
+	is_triggered_only = yes
+	
+	option = { # 但愿事情到此为止
+		name = brf.11.a
+		custom_effect_tooltip = brf.11.a.tt
+	}
+}
+
+# 秘密活动
+country_event = {
+	id = brf.12
+	title = brf.12.t
+	desc = brf.12.d
+	# picture = 
+
+	is_triggered_only = yes
+	
+	option = { # 谢谢
+		name = brf.12.a
+	}
+}
+
+# 汇报：婆罗多民众同盟新动向
+country_event = {
+	id = brf.13
+	title = brf.13.t
+	desc = brf.13.d
+	# picture = 
+
+	is_triggered_only = yes
+	
+	option = { # 亡羊补牢，但愿吧
+		name = brf.13.a
+	}
+}
+
+# 争执
+country_event = {
+	id = brf.14
+	title = brf.14.t
+	desc = brf.14.d
+	# picture = 
+
+	is_triggered_only = yes
+	
+	option = { # 我们只是虫啊
+		name = brf.14.a
+	}
+}
+
+# 觉悟
+country_event = {
+	id = brf.15
+	title = brf.15.t
+	desc = brf.15.d
+	# picture = 
+
+	is_triggered_only = yes
+	
+	option = { # 真的会有虫背叛自己的种姓吗？
+		name = brf.15.a
+	}
+}
+
+# 秘密集结
+country_event = {
+	id = brf.16
+	title = brf.16.t
+	desc = brf.16.d
+	# picture = 
+
+	is_triggered_only = yes
+	
+	option = { # 虫声鼎沸
+		name = brf.16.a
+	}
+}
+
+# 汇报：马尔瓦邦爆炸案
+country_event = {
+	id = brf.17
+	title = brf.17.t
+	desc = brf.17.d
+	# picture = 
+
+	is_triggered_only = yes
+	
+	option = { # 赤裸裸的挑衅
+		name = brf.17.a
+	}
+}
+
+# 公开演讲
+country_event = {
+	id = brf.18
+	title = brf.18.t
+	desc = brf.18.d
+	# picture = 
+
+	is_triggered_only = yes
+	
+	option = { # 演讲结束了
+		name = brf.18.a
+	}
+}
+
+# 汇报：婆罗多大众同盟领袖食蚜蝇成功抓捕归案
+country_event = {
+	id = brf.19
+	title = brf.19.t
+	desc = brf.19.d
+	# picture = 
+
+	is_triggered_only = yes
+	
+	option = { # 此事终了？
+		name = brf.19.a
+		custom_effect_tooltip = brf.19.a.tt
+	}
+}
+
+# 暴动的起始
+country_event = {
+	id = brf.20
+	title = brf.20.t
+	desc = brf.20.d
+	# picture = 
+
+	is_triggered_only = yes
+	
+	option = { # 这不仅是暴动，也是革命
+		name = brf.20.a
+	}
+}
+
+# 工厂车间（上）
+country_event = {
+	id = brf.21
+	title = brf.21.t
+	desc = brf.21.d
+	# picture = 
+
+	is_triggered_only = yes
+	
+	option = { # 但求温饱，便足够了
+		name = brf.21.a
+	}
+}
+
+# 工厂车间（中）
+country_event = {
+	id = brf.22
+	title = brf.22.t
+	desc = brf.22.d
+	# picture = 
+
+	is_triggered_only = yes
+	
+	option = { # 至少目前工作还在，不是吗？
+		name = brf.22.a
+	}
+}
+
+# 工厂车间（下）
+country_event = {
+	id = brf.23
+	title = brf.23.t
+	desc = brf.23.d
+	# picture = 
+
+	is_triggered_only = yes
+	
+	option = { # 灰色的眼睛看不见希望
+		name = brf.23.a
+	}
+}

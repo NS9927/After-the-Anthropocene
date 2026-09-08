@@ -2,7 +2,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_ideology_revolutionary_bushido_type"
-		texturefile = "gfx/ata/ideologies/idea_jap_militarism_showa.png"
+		texturefile = "gfx/ata/ideologies/revolutionary_bushido.png"
 	}
 
 	### Hiromoto Shogunate Parties ###
