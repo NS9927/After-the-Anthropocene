@@ -1,0 +1,7 @@
+spriteTypes = {
+    spriteType = {
+        name = "GFX_ATA_party_colors"
+        textureFile = "gfx/interface/ATA_party_colors.tga"
+        noOfFrames = 27
+    }
+}

@@ -1,0 +1,63 @@
+guiTypes = {
+
+	containerWindowType = {
+		name = "my_party_list_window"
+		position = { x = 345 y = 308 }
+		size = { width = 208 height = 62 }
+
+		verticalScrollbar = "right_vertical_slider"
+		scroll_wheel_factor = 98
+		smooth_scrolling = yes
+		margin = { bottom = 3 }
+
+		background = {
+			name = "Background"
+			spriteType ="GFX_tiled_window_transparent"
+		}
+		
+		gridBoxType = {
+			name = "my_party_grid"
+			position = { x = 0 y = 0 }
+			slotsize = { width = 230 height = 16 }
+			format = "UPPER_LEFT"
+			max_slots_horizontal = 1
+		}
+	}
+
+    containerWindowType = {
+        name = "my_party_row"
+        position = { x = 0 y = 0 }
+
+        iconType = {
+            name = "my_party_color"
+            position = { x = 0 y = 1 }
+            spriteType = "GFX_ATA_party_colors"
+            frame = 1
+        }
+
+        instantTextBoxType = {
+            name = "party_name"
+            position = { x = 18 y = 0 }
+            font = "hoi_16mbs"
+            text = "PARTY_LIST_NAME"
+            pdx_tooltip = "PARTY_LIST_TT"
+            pdx_tooltip_delayed = "PARTY_LIST_TT_DELAYED"
+            maxWidth = 117
+            maxHeight = 20
+            fixedsize = yes
+            format = left
+        }
+
+        instantTextBoxType = {
+            name = "party_support"
+            position = { x = 135 y = 0 }
+            font = "hoi_16mbs"
+            text = "PARTY_LIST_SUPPORT"
+            maxWidth = 50
+            maxHeight = 20
+            fixedsize = yes
+            format = right
+        }
+    }
+
+}

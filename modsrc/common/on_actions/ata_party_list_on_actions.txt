@@ -1,0 +1,20 @@
+on_actions = {
+
+    on_startup = {
+        effect = {
+            every_country = {
+                limit = { is_ai = no }
+                my_refresh_party_list = yes
+            }
+        }
+    }
+
+    on_daily = {
+        effect = {
+            if = {
+                limit = { is_ai = no }
+                my_refresh_party_list = yes
+            }
+        }
+    }
+}

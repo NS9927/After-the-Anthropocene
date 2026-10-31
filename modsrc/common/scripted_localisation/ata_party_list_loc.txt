@@ -1,0 +1,340 @@
+# Shared party names. IDs must match my_party_support in my_party_list_effects.txt.
+defined_text = {
+    name = party_list_name
+
+    # 0: neo_universalism
+    text = {
+        trigger = { check_variable = { v = 0 } }
+        localization_key = PARTY_LIST_NAME_0
+    }
+
+    # 1: anarchism
+    text = {
+        trigger = { check_variable = { v = 1 } }
+        localization_key = PARTY_LIST_NAME_1
+    }
+
+    # 2: artism
+    text = {
+        trigger = { check_variable = { v = 2 } }
+        localization_key = PARTY_LIST_NAME_2
+    }
+
+    # 3: shadowism
+    text = {
+        trigger = { check_variable = { v = 3 } }
+        localization_key = PARTY_LIST_NAME_3
+    }
+
+    # 4: revolutionary_bushido
+    text = {
+        trigger = { check_variable = { v = 4 } }
+        localization_key = PARTY_LIST_NAME_4
+    }
+
+    # 5: rebirthism
+    text = {
+        trigger = { check_variable = { v = 5 } }
+        localization_key = PARTY_LIST_NAME_5
+    }
+
+    # 6: occultism
+    text = {
+        trigger = { check_variable = { v = 6 } }
+        localization_key = PARTY_LIST_NAME_6
+    }
+
+    # 7: primitivism
+    text = {
+        trigger = { check_variable = { v = 7 } }
+        localization_key = PARTY_LIST_NAME_7
+    }
+
+    # 8: survivism
+    text = {
+        trigger = { check_variable = { v = 8 } }
+        localization_key = PARTY_LIST_NAME_8
+    }
+
+    # 9: liberation_paganism
+    text = {
+        trigger = { check_variable = { v = 9 } }
+        localization_key = PARTY_LIST_NAME_9
+    }
+
+    # 10: labour_federalism
+    text = {
+        trigger = { check_variable = { v = 10 } }
+        localization_key = PARTY_LIST_NAME_10
+    }
+
+    # 11: liberalism
+    text = {
+        trigger = { check_variable = { v = 11 } }
+        localization_key = PARTY_LIST_NAME_11
+    }
+
+    # 12: progressivism
+    text = {
+        trigger = { check_variable = { v = 12 } }
+        localization_key = PARTY_LIST_NAME_12
+    }
+
+    # 13: populism
+    text = {
+        trigger = { check_variable = { v = 13 } }
+        localization_key = PARTY_LIST_NAME_13
+    }
+
+    # 14: national_emancipationism
+    text = {
+        trigger = { check_variable = { v = 14 } }
+        localization_key = PARTY_LIST_NAME_14
+    }
+
+    # 15: anarchist_liberalism
+    text = {
+        trigger = { check_variable = { v = 15 } }
+        localization_key = PARTY_LIST_NAME_15
+    }
+
+    # 16: republicanism
+    text = {
+        trigger = { check_variable = { v = 16 } }
+        localization_key = PARTY_LIST_NAME_16
+    }
+
+    # 17: corporate_politics
+    text = {
+        trigger = { check_variable = { v = 17 } }
+        localization_key = PARTY_LIST_NAME_17
+    }
+
+    # 18: universalism
+    text = {
+        trigger = { check_variable = { v = 18 } }
+        localization_key = PARTY_LIST_NAME_18
+    }
+
+    # 19: monarchy
+    text = {
+        trigger = { check_variable = { v = 19 } }
+        localization_key = PARTY_LIST_NAME_19
+    }
+
+    # 20: militarism
+    text = {
+        trigger = { check_variable = { v = 20 } }
+        localization_key = PARTY_LIST_NAME_20
+    }
+
+    # 21: theocracy
+    text = {
+        trigger = { check_variable = { v = 21 } }
+        localization_key = PARTY_LIST_NAME_21
+    }
+
+    # 22: oligarchy
+    text = {
+        trigger = { check_variable = { v = 22 } }
+        localization_key = PARTY_LIST_NAME_22
+    }
+
+    # 23: ata_military_dictatorship
+    text = {
+        trigger = { check_variable = { v = 23 } }
+        localization_key = PARTY_LIST_NAME_23
+    }
+
+    # 24: pure_primitivism
+    text = {
+        trigger = { check_variable = { v = 24 } }
+        localization_key = PARTY_LIST_NAME_24
+    }
+
+    # 25: ultranationalism
+    text = {
+        trigger = { check_variable = { v = 25 } }
+        localization_key = PARTY_LIST_NAME_25
+    }
+
+    # 26: technocratic
+    text = {
+        trigger = { check_variable = { v = 26 } }
+        localization_key = PARTY_LIST_NAME_26
+    }
+
+    text = {
+        localization_key = PARTY_LIST_NAME_UNKNOWN
+    }
+}
+
+defined_text = {
+    name = party_list_description
+
+    # 0: neo_universalism
+    text = {
+        trigger = { check_variable = { v = 0 } }
+        localization_key = PARTY_LIST_DESC_0
+    }
+
+    # 1: anarchism
+    text = {
+        trigger = { check_variable = { v = 1 } }
+        localization_key = PARTY_LIST_DESC_1
+    }
+
+    # 2: artism
+    text = {
+        trigger = { check_variable = { v = 2 } }
+        localization_key = PARTY_LIST_DESC_2
+    }
+
+    # 3: shadowism
+    text = {
+        trigger = { check_variable = { v = 3 } }
+        localization_key = PARTY_LIST_DESC_3
+    }
+
+    # 4: revolutionary_bushido
+    text = {
+        trigger = { check_variable = { v = 4 } }
+        localization_key = PARTY_LIST_DESC_4
+    }
+
+    # 5: rebirthism
+    text = {
+        trigger = { check_variable = { v = 5 } }
+        localization_key = PARTY_LIST_DESC_5
+    }
+
+    # 6: occultism
+    text = {
+        trigger = { check_variable = { v = 6 } }
+        localization_key = PARTY_LIST_DESC_6
+    }
+
+    # 7: primitivism
+    text = {
+        trigger = { check_variable = { v = 7 } }
+        localization_key = PARTY_LIST_DESC_7
+    }
+
+    # 8: survivism
+    text = {
+        trigger = { check_variable = { v = 8 } }
+        localization_key = PARTY_LIST_DESC_8
+    }
+
+    # 9: liberation_paganism
+    text = {
+        trigger = { check_variable = { v = 9 } }
+        localization_key = PARTY_LIST_DESC_9
+    }
+
+    # 10: labour_federalism
+    text = {
+        trigger = { check_variable = { v = 10 } }
+        localization_key = PARTY_LIST_DESC_10
+    }
+
+    # 11: liberalism
+    text = {
+        trigger = { check_variable = { v = 11 } }
+        localization_key = PARTY_LIST_DESC_11
+    }
+
+    # 12: progressivism
+    text = {
+        trigger = { check_variable = { v = 12 } }
+        localization_key = PARTY_LIST_DESC_12
+    }
+
+    # 13: populism
+    text = {
+        trigger = { check_variable = { v = 13 } }
+        localization_key = PARTY_LIST_DESC_13
+    }
+
+    # 14: national_emancipationism
+    text = {
+        trigger = { check_variable = { v = 14 } }
+        localization_key = PARTY_LIST_DESC_14
+    }
+
+    # 15: anarchist_liberalism
+    text = {
+        trigger = { check_variable = { v = 15 } }
+        localization_key = PARTY_LIST_DESC_15
+    }
+
+    # 16: republicanism
+    text = {
+        trigger = { check_variable = { v = 16 } }
+        localization_key = PARTY_LIST_DESC_16
+    }
+
+    # 17: corporate_politics
+    text = {
+        trigger = { check_variable = { v = 17 } }
+        localization_key = PARTY_LIST_DESC_17
+    }
+
+    # 18: universalism
+    text = {
+        trigger = { check_variable = { v = 18 } }
+        localization_key = PARTY_LIST_DESC_18
+    }
+
+    # 19: monarchy
+    text = {
+        trigger = { check_variable = { v = 19 } }
+        localization_key = PARTY_LIST_DESC_19
+    }
+
+    # 20: militarism
+    text = {
+        trigger = { check_variable = { v = 20 } }
+        localization_key = PARTY_LIST_DESC_20
+    }
+
+    # 21: theocracy
+    text = {
+        trigger = { check_variable = { v = 21 } }
+        localization_key = PARTY_LIST_DESC_21
+    }
+
+    # 22: oligarchy
+    text = {
+        trigger = { check_variable = { v = 22 } }
+        localization_key = PARTY_LIST_DESC_22
+    }
+
+    # 23: ata_military_dictatorship
+    text = {
+        trigger = { check_variable = { v = 23 } }
+        localization_key = PARTY_LIST_DESC_23
+    }
+
+    # 24: pure_primitivism
+    text = {
+        trigger = { check_variable = { v = 24 } }
+        localization_key = PARTY_LIST_DESC_24
+    }
+
+    # 25: ultranationalism
+    text = {
+        trigger = { check_variable = { v = 25 } }
+        localization_key = PARTY_LIST_DESC_25
+    }
+
+    # 26: technocratic
+    text = {
+        trigger = { check_variable = { v = 26 } }
+        localization_key = PARTY_LIST_DESC_26
+    }
+
+    text = {
+        localization_key = PARTY_LIST_DESC_UNKNOWN
+    }
+}
