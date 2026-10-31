@@ -1,113 +1,113 @@
 # ATA party IDs follow 00_ATA_ideologies.txt definition order (0-based).
 # Keep scripted localisation mappings in sync; append future IDs to preserve existing IDs.
 # Run in country scope. Zero-support parties remain in the list.
-my_refresh_party_list = {
+ata_refresh_party_list = {
 
-    clear_array = my_party_support
+    clear_array = ata_party_support
 
     # 0: neo_universalism
-    add_to_array = { my_party_support = party_popularity@neo_universalism }
+    add_to_array = { ata_party_support = party_popularity@neo_universalism }
     # 1: anarchism
-    add_to_array = { my_party_support = party_popularity@anarchism }
+    add_to_array = { ata_party_support = party_popularity@anarchism }
     # 2: artism
-    add_to_array = { my_party_support = party_popularity@artism }
+    add_to_array = { ata_party_support = party_popularity@artism }
     # 3: shadowism
-    add_to_array = { my_party_support = party_popularity@shadowism }
+    add_to_array = { ata_party_support = party_popularity@shadowism }
     # 4: revolutionary_bushido
-    add_to_array = { my_party_support = party_popularity@revolutionary_bushido }
+    add_to_array = { ata_party_support = party_popularity@revolutionary_bushido }
     # 5: rebirthism
-    add_to_array = { my_party_support = party_popularity@rebirthism }
+    add_to_array = { ata_party_support = party_popularity@rebirthism }
     # 6: occultism
-    add_to_array = { my_party_support = party_popularity@occultism }
+    add_to_array = { ata_party_support = party_popularity@occultism }
     # 7: primitivism
-    add_to_array = { my_party_support = party_popularity@primitivism }
+    add_to_array = { ata_party_support = party_popularity@primitivism }
     # 8: survivism
-    add_to_array = { my_party_support = party_popularity@survivism }
+    add_to_array = { ata_party_support = party_popularity@survivism }
     # 9: liberation_paganism
-    add_to_array = { my_party_support = party_popularity@liberation_paganism }
+    add_to_array = { ata_party_support = party_popularity@liberation_paganism }
     # 10: labour_federalism
-    add_to_array = { my_party_support = party_popularity@labour_federalism }
+    add_to_array = { ata_party_support = party_popularity@labour_federalism }
     # 11: liberalism
-    add_to_array = { my_party_support = party_popularity@liberalism }
+    add_to_array = { ata_party_support = party_popularity@liberalism }
     # 12: progressivism
-    add_to_array = { my_party_support = party_popularity@progressivism }
+    add_to_array = { ata_party_support = party_popularity@progressivism }
     # 13: populism
-    add_to_array = { my_party_support = party_popularity@populism }
+    add_to_array = { ata_party_support = party_popularity@populism }
     # 14: national_emancipationism
-    add_to_array = { my_party_support = party_popularity@national_emancipationism }
+    add_to_array = { ata_party_support = party_popularity@national_emancipationism }
     # 15: anarchist_liberalism
-    add_to_array = { my_party_support = party_popularity@anarchist_liberalism }
+    add_to_array = { ata_party_support = party_popularity@anarchist_liberalism }
     # 16: republicanism
-    add_to_array = { my_party_support = party_popularity@republicanism }
+    add_to_array = { ata_party_support = party_popularity@republicanism }
     # 17: corporate_politics
-    add_to_array = { my_party_support = party_popularity@corporate_politics }
+    add_to_array = { ata_party_support = party_popularity@corporate_politics }
     # 18: universalism
-    add_to_array = { my_party_support = party_popularity@universalism }
+    add_to_array = { ata_party_support = party_popularity@universalism }
     # 19: monarchy
-    add_to_array = { my_party_support = party_popularity@monarchy }
+    add_to_array = { ata_party_support = party_popularity@monarchy }
     # 20: militarism
-    add_to_array = { my_party_support = party_popularity@militarism }
+    add_to_array = { ata_party_support = party_popularity@militarism }
     # 21: theocracy
-    add_to_array = { my_party_support = party_popularity@theocracy }
+    add_to_array = { ata_party_support = party_popularity@theocracy }
     # 22: oligarchy
-    add_to_array = { my_party_support = party_popularity@oligarchy }
+    add_to_array = { ata_party_support = party_popularity@oligarchy }
     # 23: ata_military_dictatorship
-    add_to_array = { my_party_support = party_popularity@ata_military_dictatorship }
+    add_to_array = { ata_party_support = party_popularity@ata_military_dictatorship }
     # 24: pure_primitivism
-    add_to_array = { my_party_support = party_popularity@pure_primitivism }
+    add_to_array = { ata_party_support = party_popularity@pure_primitivism }
     # 25: ultranationalism
-    add_to_array = { my_party_support = party_popularity@ultranationalism }
+    add_to_array = { ata_party_support = party_popularity@ultranationalism }
     # 26: technocratic
-    add_to_array = { my_party_support = party_popularity@technocratic }
+    add_to_array = { ata_party_support = party_popularity@technocratic }
 
     # Sprite frames are 1-based; party IDs are 0-based.
-    clear_array = my_party_color_frames
+    clear_array = ata_party_color_frames
     for_loop_effect = {
-        end = my_party_support^num
-        value = my_color_index
-        set_temp_variable = { my_color_frame = my_color_index }
-        add_to_temp_variable = { my_color_frame = 1 }
-        add_to_array = { my_party_color_frames = my_color_frame }
+        end = ata_party_support^num
+        value = ata_color_index
+        set_temp_variable = { ata_color_frame = ata_color_index }
+        add_to_temp_variable = { ata_color_frame = 1 }
+        add_to_array = { ata_party_color_frames = ata_color_frame }
     }
 
     # 复制到临时工作数组，排序时不修改真实支持率数组。
-    clear_temp_array = my_party_sort_work
+    clear_temp_array = ata_party_sort_work
 
     for_each_loop = {
-        array = my_party_support
+        array = ata_party_support
 
         add_to_temp_array = {
-            my_party_sort_work = v
+            ata_party_sort_work = v
         }
     }
 
     # 依次寻找最高支持率，将其编号加入显示顺序数组。
-    clear_array = my_party_order
+    clear_array = ata_party_order
 
     for_loop_effect = {
-        end = my_party_support^num
-        value = my_sort_step
+        end = ata_party_support^num
+        value = ata_sort_step
 
         find_highest_in_array = {
-            array = my_party_sort_work
-            value = my_max_support
-            index = my_max_party
+            array = ata_party_sort_work
+            value = ata_max_support
+            index = ata_max_party
         }
 
         add_to_array = {
-            my_party_order = my_max_party
+            ata_party_order = ata_max_party
         }
 
         # 已取出的元素标记为 -1，避免重复选中。
         set_temp_variable = {
-            my_party_sort_work^my_max_party = -1
+            ata_party_sort_work^ata_max_party = -1
         }
     }
 
-    clear_temp_array = my_party_sort_work
+    clear_temp_array = ata_party_sort_work
 
     # 通知 Scripted GUI 更新。
     # add_to_variable = {
-    #     my_party_list_dirty = 1
+    #     ata_party_list_dirty = 1
     # }
 }

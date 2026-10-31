@@ -1,4 +1,4 @@
-# Shared party names. IDs must match my_party_support in my_party_list_effects.txt.
+# Shared party names. IDs must match ata_party_support in ata_party_list_effects.txt.
 defined_text = {
     name = party_list_name
 

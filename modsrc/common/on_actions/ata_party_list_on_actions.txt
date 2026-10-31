@@ -4,7 +4,7 @@ on_actions = {
         effect = {
             every_country = {
                 limit = { is_ai = no }
-                my_refresh_party_list = yes
+                ata_refresh_party_list = yes
             }
         }
     }
@@ -13,7 +13,7 @@ on_actions = {
         effect = {
             if = {
                 limit = { is_ai = no }
-                my_refresh_party_list = yes
+                ata_refresh_party_list = yes
             }
         }
     }

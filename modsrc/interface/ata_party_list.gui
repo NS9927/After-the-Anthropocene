@@ -1,7 +1,7 @@
 guiTypes = {
 
 	containerWindowType = {
-		name = "my_party_list_window"
+		name = "ata_party_list_window"
 		position = { x = 345 y = 308 }
 		size = { width = 208 height = 62 }
 
@@ -16,7 +16,7 @@ guiTypes = {
 		}
 		
 		gridBoxType = {
-			name = "my_party_grid"
+			name = "ata_party_grid"
 			position = { x = 0 y = 0 }
 			slotsize = { width = 230 height = 16 }
 			format = "UPPER_LEFT"
@@ -25,11 +25,11 @@ guiTypes = {
 	}
 
     containerWindowType = {
-        name = "my_party_row"
+        name = "ata_party_row"
         position = { x = 0 y = 0 }
 
         iconType = {
-            name = "my_party_color"
+            name = "ata_party_color"
             position = { x = 0 y = 1 }
             spriteType = "GFX_ATA_party_colors"
             frame = 1

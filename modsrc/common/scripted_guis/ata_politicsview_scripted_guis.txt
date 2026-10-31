@@ -1,25 +1,25 @@
 scripted_gui = {
-    my_party_list_gui = {
+    ata_party_list_gui = {
         context_type = player_context
-        window_name = "my_party_list_window"
+        window_name = "ata_party_list_window"
         parent_window_token = politics_tab
 
         visible = {
             is_ai = no
         }
 
-        # dirty = my_party_list_dirty  # dirty = ... 会让本政党列表在开局后不显示，走过将近一天后才显示。
+        # dirty = ata_party_list_dirty  # dirty = ... 会让本政党列表在开局后不显示，走过将近一天后才显示。
 
         properties = {
-            my_party_color = {
-                frame = my_party_color_frames^v
+            ata_party_color = {
+                frame = ata_party_color_frames^v
             }
         }
 
         dynamic_lists = {
-            my_party_grid = {
-                array = my_party_order
-                entry_container = "my_party_row"
+            ata_party_grid = {
+                array = ata_party_order
+                entry_container = "ata_party_row"
             }
         }
     }

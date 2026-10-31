@@ -1,7 +1,7 @@
 ﻿l_simp_chinese:
 
  PARTY_LIST_NAME: "[party_list_name]"
- PARTY_LIST_SUPPORT: "§Y[?my_party_support^v|%1]§!"
+ PARTY_LIST_SUPPORT: "§Y[?ata_party_support^v|%1]§!"
  PARTY_LIST_TT: "[party_list_name]"
  PARTY_LIST_TT_DELAYED: "[party_list_description]"
 
