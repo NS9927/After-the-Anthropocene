@@ -1,9 +1,6 @@
 ﻿l_simp_chinese:
 
- # 原版政党列表本地化修改，在新政党列表不会出现 #
- #POLITICS_IDEOLOGY: "§T类别：$IDEOLOGY|H$§!"
- #POLITICS_LEADER: "§T领袖：$LEADER|H$§!"
+ PARTY_AND_IDEOLOGY_GROUP: "$PARTY|H$\n$GROUP|L$"
 
- # 旧版政党界面相关 #
- #ATA_PARTY_PANEL_TITLE: "思潮"
- #SPIRIT_ADD_IDEA: "§G$GROUP|H$§!"
+ POLITICS_IDEOLOGY: "§T类群：$IDEOLOGY|H$§!"
+ POLITICS_LEADER: "§T领导者：$LEADER|H$§!"

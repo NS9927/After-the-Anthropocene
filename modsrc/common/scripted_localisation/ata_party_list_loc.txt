@@ -170,6 +170,176 @@ defined_text = {
 }
 
 defined_text = {
+    name = ata_party_tooltip_by_index
+
+    # 0: neo_universalism
+    text = {
+        trigger = { check_variable = { v = 0 } }
+        localization_key = PARTY_LIST_TT_0
+    }
+
+    # 1: anarchism
+    text = {
+        trigger = { check_variable = { v = 1 } }
+        localization_key = PARTY_LIST_TT_1
+    }
+
+    # 2: artism
+    text = {
+        trigger = { check_variable = { v = 2 } }
+        localization_key = PARTY_LIST_TT_2
+    }
+
+    # 3: shadowism
+    text = {
+        trigger = { check_variable = { v = 3 } }
+        localization_key = PARTY_LIST_TT_3
+    }
+
+    # 4: revolutionary_bushido
+    text = {
+        trigger = { check_variable = { v = 4 } }
+        localization_key = PARTY_LIST_TT_4
+    }
+
+    # 5: rebirthism
+    text = {
+        trigger = { check_variable = { v = 5 } }
+        localization_key = PARTY_LIST_TT_5
+    }
+
+    # 6: occultism
+    text = {
+        trigger = { check_variable = { v = 6 } }
+        localization_key = PARTY_LIST_TT_6
+    }
+
+    # 7: primitivism
+    text = {
+        trigger = { check_variable = { v = 7 } }
+        localization_key = PARTY_LIST_TT_7
+    }
+
+    # 8: survivism
+    text = {
+        trigger = { check_variable = { v = 8 } }
+        localization_key = PARTY_LIST_TT_8
+    }
+
+    # 9: liberation_paganism
+    text = {
+        trigger = { check_variable = { v = 9 } }
+        localization_key = PARTY_LIST_TT_9
+    }
+
+    # 10: labour_federalism
+    text = {
+        trigger = { check_variable = { v = 10 } }
+        localization_key = PARTY_LIST_TT_10
+    }
+
+    # 11: liberalism
+    text = {
+        trigger = { check_variable = { v = 11 } }
+        localization_key = PARTY_LIST_TT_11
+    }
+
+    # 12: progressivism
+    text = {
+        trigger = { check_variable = { v = 12 } }
+        localization_key = PARTY_LIST_TT_12
+    }
+
+    # 13: populism
+    text = {
+        trigger = { check_variable = { v = 13 } }
+        localization_key = PARTY_LIST_TT_13
+    }
+
+    # 14: national_emancipationism
+    text = {
+        trigger = { check_variable = { v = 14 } }
+        localization_key = PARTY_LIST_TT_14
+    }
+
+    # 15: anarchist_liberalism
+    text = {
+        trigger = { check_variable = { v = 15 } }
+        localization_key = PARTY_LIST_TT_15
+    }
+
+    # 16: republicanism
+    text = {
+        trigger = { check_variable = { v = 16 } }
+        localization_key = PARTY_LIST_TT_16
+    }
+
+    # 17: corporate_politics
+    text = {
+        trigger = { check_variable = { v = 17 } }
+        localization_key = PARTY_LIST_TT_17
+    }
+
+    # 18: universalism
+    text = {
+        trigger = { check_variable = { v = 18 } }
+        localization_key = PARTY_LIST_TT_18
+    }
+
+    # 19: monarchy
+    text = {
+        trigger = { check_variable = { v = 19 } }
+        localization_key = PARTY_LIST_TT_19
+    }
+
+    # 20: militarism
+    text = {
+        trigger = { check_variable = { v = 20 } }
+        localization_key = PARTY_LIST_TT_20
+    }
+
+    # 21: theocracy
+    text = {
+        trigger = { check_variable = { v = 21 } }
+        localization_key = PARTY_LIST_TT_21
+    }
+
+    # 22: oligarchy
+    text = {
+        trigger = { check_variable = { v = 22 } }
+        localization_key = PARTY_LIST_TT_22
+    }
+
+    # 23: ata_military_dictatorship
+    text = {
+        trigger = { check_variable = { v = 23 } }
+        localization_key = PARTY_LIST_TT_23
+    }
+
+    # 24: pure_primitivism
+    text = {
+        trigger = { check_variable = { v = 24 } }
+        localization_key = PARTY_LIST_TT_24
+    }
+
+    # 25: ultranationalism
+    text = {
+        trigger = { check_variable = { v = 25 } }
+        localization_key = PARTY_LIST_TT_25
+    }
+
+    # 26: technocratic
+    text = {
+        trigger = { check_variable = { v = 26 } }
+        localization_key = PARTY_LIST_TT_26
+    }
+
+    text = {
+        localization_key = PARTY_LIST_TT_UNKNOWN
+    }
+}
+
+defined_text = {
     name = party_list_description
 
     # 0: neo_universalism

@@ -544,7 +544,7 @@ ideologies = {
 
 		types = {
 
-			military_dictatorship_type = {
+			ata_military_dictatorship_type = {
 			}
 
 		}

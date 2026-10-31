@@ -108,21 +108,31 @@ guiTypes = {
 			
 			instantTextboxType = {
 				name = "ideology"
-				position = { x = 9 y = 8 }
+				position = { x = -1000 y = 8 }
 				font = "hoi_18mbs"
 				text = "ideology"
 				maxWidth = 155
 				maxHeight = 20
 			}
 			
+			# instantTextboxType = {
+			# 	name = "elections"
+			# 	position = { x = 9 y = 29 }
+			# 	font = "hoi_16mbs"
+			# 	text = "elections"
+			# 	maxWidth = 155
+			# 	maxHeight = 32
+			# 	vertical_alignment = center
+			# }
+			
 			instantTextboxType = {
 				name = "elections"
-				position = { x = 9 y = 29 }
+				position = { x = 9 y = 8 }
 				font = "hoi_16mbs"
 				text = "elections"
 				maxWidth = 155
-				maxHeight = 32
-				vertical_alignment = center
+				maxHeight = 43
+				vertical_alignment = bottom
 			}
 			
 			containerWindowType = {

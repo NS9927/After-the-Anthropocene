@@ -1,0 +1,10 @@
+scripted_gui = {
+    ata_ruling_party_gui = {
+        context_type = player_context
+        window_name = "ata_ruling_party_window"
+        parent_window_token = politics_tab
+        visible = {
+            always = yes
+        }
+    }
+}

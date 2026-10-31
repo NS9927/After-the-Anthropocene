@@ -1,0 +1,18 @@
+guiTypes = {
+    containerWindowType = {
+        name = "ata_ruling_party_window"
+        position = { x = 97 y = 313 }
+        size = { width = 155 height = 20 }
+        instantTextboxType = {
+            name = "ata_ruling_party_name"
+            position = { x = 0 y = 0 }
+            font = "hoi_18mbs"
+            text = "[ROOT.GetRulingParty]"
+			alwaystransparent = yes
+            maxWidth = 155
+            maxHeight = 20
+            fixedsize = yes
+            format = left
+        }
+    }
+}
