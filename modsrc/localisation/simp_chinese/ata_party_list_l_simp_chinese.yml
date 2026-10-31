@@ -6,7 +6,7 @@
  PARTY_LIST_TT_DELAYED: "[party_list_description]"
 
  # Shared by all countries; reuse the existing specific ideology names.
- PARTY_LIST_NAME_0: "§Y$neo_universalism_desc$§!\n$neo_universalism$"
+ PARTY_LIST_NAME_0: "$neo_universalism_desc$"
  PARTY_LIST_NAME_1: "$anarchism_desc$"
  PARTY_LIST_NAME_2: "$artism_desc$"
  PARTY_LIST_NAME_3: "$shadowism_desc$"
@@ -16,7 +16,7 @@
  PARTY_LIST_NAME_7: "$primitivism_desc$"
  PARTY_LIST_NAME_8: "$survivism_desc$"
  PARTY_LIST_NAME_9: "$liberation_paganism_desc$"
- PARTY_LIST_NAME_10: "$labour_federalism_desc$"
+ PARTY_LIST_NAME_10: "$labour_federalism$"
  PARTY_LIST_NAME_11: "$liberalism_desc$"
  PARTY_LIST_NAME_12: "$progressivism_desc$"
  PARTY_LIST_NAME_13: "$populism_desc$"
