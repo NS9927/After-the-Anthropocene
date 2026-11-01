@@ -6,10 +6,20 @@ spriteTypes = {
 	}
 
 	### Hiromoto Shogunate Parties ###
-
 	spriteType = {
 		name = "GFX_ideology_HIS_revolutionary_bushido_type"
-		texturefile = "gfx/ata/ideologies/idea_jap_militarism_showa.png"
+		texturefile = "gfx/ata/ideologies/revolutionary_bushido.png"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_labour_federalism_type"
+		texturefile = "gfx/ata/ideologies/labour_federalism.png"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_unknown"
+		texturefile = "gfx/ata/ideologies/unknown.png"
+		legacy_lazy_load = no
 	}
 
 }
