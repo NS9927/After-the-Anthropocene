@@ -1,0 +1,58 @@
+spriteTypes = {
+    corneredTileSpriteType = {
+        name = "GFX_ata_load_0_small"
+        texturefile = "gfx/interface/ata_load_0.dds"
+        borderSize = { x = 0 y = 0 }
+        size = { x = 192 y = 144 }
+        tilingCenter = no
+        effectFile = "gfx/FX/buttonstate.shader"
+    }
+    corneredTileSpriteType = {
+        name = "GFX_ata_load_1_small"
+        texturefile = "gfx/loadingscreens/ata_load_1.dds"
+        borderSize = { x = 0 y = 0 }
+        size = { x = 192 y = 144 }
+        tilingCenter = no
+        effectFile = "gfx/FX/buttonstate.shader"
+    }
+    corneredTileSpriteType = {
+        name = "GFX_ata_load_2_small"
+        texturefile = "gfx/loadingscreens/ata_load_2.dds"
+        borderSize = { x = 0 y = 0 }
+        size = { x = 192 y = 144 }
+        tilingCenter = no
+        effectFile = "gfx/FX/buttonstate.shader"
+    }
+    corneredTileSpriteType = {
+        name = "GFX_ata_load_3_small"
+        texturefile = "gfx/loadingscreens/ata_load_3.dds"
+        borderSize = { x = 0 y = 0 }
+        size = { x = 192 y = 144 }
+        tilingCenter = no
+        effectFile = "gfx/FX/buttonstate.shader"
+    }
+    corneredTileSpriteType = {
+        name = "GFX_ata_load_4_small"
+        texturefile = "gfx/loadingscreens/ata_load_4.dds"
+        borderSize = { x = 0 y = 0 }
+        size = { x = 192 y = 144 }
+        tilingCenter = no
+        effectFile = "gfx/FX/buttonstate.shader"
+    }
+    corneredTileSpriteType = {
+        name = "GFX_ata_load_5_small"
+        texturefile = "gfx/loadingscreens/ata_load_5.dds"
+        borderSize = { x = 0 y = 0 }
+        size = { x = 192 y = 144 }
+        tilingCenter = no
+        effectFile = "gfx/FX/buttonstate.shader"
+    }
+    corneredTileSpriteType = {
+        name = "GFX_ata_load_6_small"
+        texturefile = "gfx/loadingscreens/ata_load_6.dds"
+        borderSize = { x = 0 y = 0 }
+        size = { x = 192 y = 144 }
+        tilingCenter = no
+        effectFile = "gfx/FX/buttonstate.shader"
+    }
+}

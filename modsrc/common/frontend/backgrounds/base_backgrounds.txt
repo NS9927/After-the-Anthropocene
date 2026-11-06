@@ -1,0 +1,9 @@
+# The menu-only image is provided by the default frontend GFX definitions.
+# Do not register ata_load_0 here: entries resolve textures under gfx/loadingscreens.
+# These images are also available during loading.
+ata_load_1 = {}
+ata_load_2 = {}
+ata_load_3 = {}
+ata_load_4 = {}
+ata_load_5 = {}
+ata_load_6 = {}

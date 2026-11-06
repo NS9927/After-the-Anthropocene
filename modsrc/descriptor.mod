@@ -164,3 +164,6 @@ replace_path="map/strategicregions"
 
 
 replace_path="gfx/interface/equipmentdesigner/graphic_db"
+
+replace_path="gfx/loadingscreens"
+replace_path="common/frontend/backgrounds"
